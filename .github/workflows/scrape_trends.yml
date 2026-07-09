@@ -1,0 +1,36 @@
+name: PlayGenre - Scrape Market Trends
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # Every 12 hours
+  workflow_dispatch:          # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 Pillow
+
+      - name: Run PlayGenre Processor
+        run: python playgenre_processor.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "PlayGenre Bot"
+          git config user.email "bot@playgenre.dev"
+          git add data/
+          git diff --cached --quiet || git commit -m "📊 Update market intelligence data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
