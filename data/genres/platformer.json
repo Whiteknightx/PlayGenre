@@ -1,0 +1,392 @@
+{
+  "genre_id": "platformer",
+  "genre_name": "Platformer",
+  "category": "Genre",
+  "supply_count": 2119,
+  "demand_count": 6366,
+  "growth_pct": 2.9,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1910,
+    "youtube": 1910,
+    "tiktok": 955,
+    "steam": 955,
+    "bluesky": 796
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2561
+    },
+    {
+      "month": "Feb",
+      "count": 3826
+    },
+    {
+      "month": "Mar",
+      "count": 4597
+    },
+    {
+      "month": "Apr",
+      "count": 5490
+    },
+    {
+      "month": "May",
+      "count": 5676
+    },
+    {
+      "month": "Jun",
+      "count": 6626
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Co-op",
+    "Online Co-Op",
+    "Multiplayer",
+    "Adventure"
+  ],
+  "games": [
+    {
+      "app_id": 2001120,
+      "name": "Split Fiction",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 174,
+      "sentiment_positive": 90,
+      "tags": [
+        "Co-op",
+        "Split Screen",
+        "Local Co-Op",
+        "Female Protagonist",
+        "Online Co-Op",
+        "Action-Adventure",
+        "3D Platformer",
+        "Fantasy",
+        "Sci-fi",
+        "Story Rich"
+      ]
+    },
+    {
+      "app_id": 3527290,
+      "name": "PEAK",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 363,
+      "sentiment_positive": 91,
+      "tags": [
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Physics",
+        "Adventure",
+        "Exploration",
+        "First-Person",
+        "Comedy",
+        "3D",
+        "Procedural Generation"
+      ]
+    },
+    {
+      "app_id": 312520,
+      "name": "Rain World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 416,
+      "sentiment_positive": 86,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 105600,
+      "name": "Terraria",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 587,
+      "sentiment_positive": 87,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 414,
+      "sentiment_positive": 83,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426210,
+      "name": "It Takes Two",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 334,
+      "sentiment_positive": 86,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 367520,
+      "name": "Hollow Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 528,
+      "sentiment_positive": 96,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268910,
+      "name": "Cuphead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 214,
+      "sentiment_positive": 93,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1659420,
+      "name": "UNCHARTED\u2122: Legacy of Thieves Collection",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 437,
+      "sentiment_positive": 82,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2677660,
+      "name": "Indiana Jones and the Great Circle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 155,
+      "sentiment_positive": 94,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1809540,
+      "name": "Nine Sols",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 167,
+      "sentiment_positive": 84,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1875580,
+      "name": "Mina the Hollower",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875580/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 481,
+      "sentiment_positive": 85,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3672400,
+      "name": "Farever",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3672400/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 432,
+      "sentiment_positive": 82,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2114740,
+      "name": "Blasphemous 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2114740/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 489,
+      "sentiment_positive": 87,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2567870,
+      "name": "Chained Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 322,
+      "sentiment_positive": 85,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 588650,
+      "name": "Dead Cells",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 442,
+      "sentiment_positive": 83,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 291550,
+      "name": "Brawlhalla",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 244,
+      "sentiment_positive": 86,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 953490,
+      "name": "CARRION",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 389,
+      "sentiment_positive": 88,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4244510,
+      "name": "Pratfall",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244510/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 66,
+      "sentiment_positive": 92,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3678970,
+      "name": "TBH: Task Bar Hero",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 562,
+      "sentiment_positive": 83,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 322170,
+      "name": "Geometry Dash",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 233,
+      "sentiment_positive": 96,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2513280,
+      "name": "SONIC X SHADOW GENERATIONS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 199,
+      "sentiment_positive": 88,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1895880,
+      "name": "Ratchet &amp; Clank: Rift Apart",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 121,
+      "sentiment_positive": 88,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 620,
+      "name": "Portal 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 504,
+      "sentiment_positive": 85,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1057090,
+      "name": "Ori and the Will of the Wisps",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 186,
+      "sentiment_positive": 84,
+      "tags": [
+        "Platformer",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

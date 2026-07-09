@@ -1,0 +1,385 @@
+{
+  "genre_id": "puzzle",
+  "genre_name": "Puzzle",
+  "category": "Genre",
+  "supply_count": 2350,
+  "demand_count": 3853,
+  "growth_pct": 39.4,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1156,
+    "youtube": 1156,
+    "tiktok": 578,
+    "steam": 578,
+    "bluesky": 482
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1504
+    },
+    {
+      "month": "Feb",
+      "count": 2052
+    },
+    {
+      "month": "Mar",
+      "count": 2644
+    },
+    {
+      "month": "Apr",
+      "count": 3230
+    },
+    {
+      "month": "May",
+      "count": 3877
+    },
+    {
+      "month": "Jun",
+      "count": 3507
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Stealth",
+    "Assassins",
+    "VR",
+    "Action"
+  ],
+  "games": [
+    {
+      "app_id": 1659040,
+      "name": "HITMAN World of Assassination",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 448,
+      "sentiment_positive": 91,
+      "tags": [
+        "Stealth",
+        "Assassins",
+        "Singleplayer",
+        "VR",
+        "Action",
+        "Sandbox",
+        "Multiplayer",
+        "Violent",
+        "Shooter",
+        "Third Person"
+      ]
+    },
+    {
+      "app_id": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 288,
+      "sentiment_positive": 89,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2995920,
+      "name": "It Takes Two Friend's Pass",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2995920/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 145,
+      "sentiment_positive": 78,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426210,
+      "name": "It Takes Two",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 564,
+      "sentiment_positive": 91,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2141730,
+      "name": "Backrooms: Escape Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 497,
+      "sentiment_positive": 80,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 753640,
+      "name": "Outer Wilds",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 75,
+      "sentiment_positive": 89,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1332010,
+      "name": "Stray",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 185,
+      "sentiment_positive": 89,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1659420,
+      "name": "UNCHARTED\u2122: Legacy of Thieves Collection",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 288,
+      "sentiment_positive": 86,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 185,
+      "sentiment_positive": 90,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 990080,
+      "name": "Hogwarts Legacy",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 25,
+      "sentiment_positive": 96,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2677660,
+      "name": "Indiana Jones and the Great Circle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 234,
+      "sentiment_positive": 83,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2129530,
+      "name": "REANIMAL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 360,
+      "sentiment_positive": 94,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 752590,
+      "name": "A Plague Tale: Innocence",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 270,
+      "sentiment_positive": 84,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 883710,
+      "name": "Resident Evil 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 213,
+      "sentiment_positive": 91,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 208650,
+      "name": "Batman\u2122: Arkham Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 563,
+      "sentiment_positive": 92,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1167630,
+      "name": "Teardown",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 165,
+      "sentiment_positive": 87,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1569580,
+      "name": "Blue Prince",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 434,
+      "sentiment_positive": 87,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 953490,
+      "name": "CARRION",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 515,
+      "sentiment_positive": 88,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 668580,
+      "name": "Atomic Heart",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 147,
+      "sentiment_positive": 89,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 477160,
+      "name": "Human Fall Flat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 452,
+      "sentiment_positive": 80,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1289670,
+      "name": "EA Play",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289670/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 310,
+      "sentiment_positive": 92,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1190000,
+      "name": "Car Mechanic Simulator 2021",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190000/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 243,
+      "sentiment_positive": 80,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2495100,
+      "name": "Hello Kitty Island Adventure",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2495100/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 114,
+      "sentiment_positive": 96,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3326230,
+      "name": "Hozy",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3326230/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 595,
+      "sentiment_positive": 86,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1063660,
+      "name": "Bendy and the Dark Revival",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063660/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 97,
+      "sentiment_positive": 78,
+      "tags": [
+        "Puzzle",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

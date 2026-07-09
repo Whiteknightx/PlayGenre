@@ -3,49 +3,90 @@
   "genre_name": "Deckbuilder",
   "category": "Mechanic",
   "supply_count": 0,
-  "demand_count": 4520,
-  "growth_pct": 33.6,
+  "demand_count": 4600,
+  "growth_pct": 4.8,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 1356,
-    "youtube": 1356,
-    "tiktok": 678,
-    "steam": 678,
-    "bluesky": 452
+    "reddit": 1380,
+    "youtube": 1380,
+    "tiktok": 690,
+    "steam": 690,
+    "bluesky": 575
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 1967
+      "count": 1750
     },
     {
       "month": "Feb",
-      "count": 2663
+      "count": 2360
     },
     {
       "month": "Mar",
-      "count": 3596
+      "count": 3279
     },
     {
       "month": "Apr",
-      "count": 3699
+      "count": 4164
     },
     {
       "month": "May",
-      "count": 4613
+      "count": 3943
     },
     {
       "month": "Jun",
-      "count": 4717
+      "count": 4502
     }
   ],
   "related_network": [
     "Indie",
     "Singleplayer",
-    "Casual",
-    "Strategy",
-    "Physics"
+    "Atmospheric"
   ],
-  "games": []
+  "games": [
+    {
+      "app_id": 1823778,
+      "name": "Deckbuilder Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1823778/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 41,
+      "sentiment_positive": 84,
+      "tags": [
+        "Deckbuilder",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1853541,
+      "name": "Deckbuilder Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1853541/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 108,
+      "sentiment_positive": 87,
+      "tags": [
+        "Deckbuilder",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1226596,
+      "name": "Super Deckbuilder",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1226596/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 260,
+      "sentiment_positive": 95,
+      "tags": [
+        "Deckbuilder",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
 }

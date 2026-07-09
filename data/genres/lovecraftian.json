@@ -1,0 +1,392 @@
+{
+  "genre_id": "lovecraftian",
+  "genre_name": "Lovecraftian",
+  "category": "Theme",
+  "supply_count": 1064,
+  "demand_count": 2846,
+  "growth_pct": 54.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 854,
+    "youtube": 854,
+    "tiktok": 427,
+    "steam": 427,
+    "bluesky": 356
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1250
+    },
+    {
+      "month": "Feb",
+      "count": 1622
+    },
+    {
+      "month": "Mar",
+      "count": 2147
+    },
+    {
+      "month": "Apr",
+      "count": 2535
+    },
+    {
+      "month": "May",
+      "count": 2578
+    },
+    {
+      "month": "Jun",
+      "count": 3104
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Nudity",
+    "RPG",
+    "Story Rich",
+    "Adventure"
+  ],
+  "games": [
+    {
+      "app_id": 1091500,
+      "name": "Cyberpunk 2077",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 299,
+      "sentiment_positive": 85,
+      "tags": [
+        "Cyberpunk",
+        "Open World",
+        "Nudity",
+        "Singleplayer",
+        "RPG",
+        "Story Rich",
+        "Sci-fi",
+        "FPS",
+        "Futuristic",
+        "First-Person"
+      ]
+    },
+    {
+      "app_id": 1086940,
+      "name": "Baldur's Gate 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 117,
+      "sentiment_positive": 87,
+      "tags": [
+        "RPG",
+        "Character Customization",
+        "Choices Matter",
+        "Turn-Based Combat",
+        "Story Rich",
+        "Sexual Content",
+        "CRPG",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ]
+    },
+    {
+      "app_id": 2138330,
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 394,
+      "sentiment_positive": 87,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 487,
+      "sentiment_positive": 81,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 252490,
+      "name": "Rust",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 246,
+      "sentiment_positive": 89,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3489700,
+      "name": "Stellar Blade\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 523,
+      "sentiment_positive": 83,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 292030,
+      "name": "The Witcher 3: Wild Hunt",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 421,
+      "sentiment_positive": 89,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222670,
+      "name": "The Sims\u2122 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 145,
+      "sentiment_positive": 79,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2592160,
+      "name": "Dispatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 260,
+      "sentiment_positive": 84,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 601150,
+      "name": "Devil May Cry 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 274,
+      "sentiment_positive": 89,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1547000,
+      "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 543,
+      "sentiment_positive": 88,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440900,
+      "name": "Conan Exiles Enhanced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 432,
+      "sentiment_positive": 86,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2074920,
+      "name": "The First Descendant",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 189,
+      "sentiment_positive": 87,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2668510,
+      "name": "Red Dead Redemption",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 536,
+      "sentiment_positive": 84,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1577120,
+      "name": "The Quarry",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1577120/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 540,
+      "sentiment_positive": 78,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 524220,
+      "name": "NieR:Automata\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 163,
+      "sentiment_positive": 86,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 379430,
+      "name": "Kingdom Come: Deliverance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 296,
+      "sentiment_positive": 80,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1328670,
+      "name": "Mass Effect\u2122 Legendary Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 392,
+      "sentiment_positive": 83,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2623190,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2623190/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 327,
+      "sentiment_positive": 89,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 513710,
+      "name": "SCUM",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/513710/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 401,
+      "sentiment_positive": 94,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4466620,
+      "name": "SiNiSistar 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4466620/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 543,
+      "sentiment_positive": 80,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 397540,
+      "name": "Borderlands 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 160,
+      "sentiment_positive": 87,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2201320,
+      "name": "Date Everything!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2201320/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 159,
+      "sentiment_positive": 79,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222700,
+      "name": "A Way Out",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 587,
+      "sentiment_positive": 87,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 220240,
+      "name": "Far Cry 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 294,
+      "sentiment_positive": 81,
+      "tags": [
+        "Lovecraftian",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

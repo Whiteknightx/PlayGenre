@@ -1,0 +1,392 @@
+{
+  "genre_id": "underwater",
+  "genre_name": "Underwater",
+  "category": "Theme",
+  "supply_count": 2649,
+  "demand_count": 4362,
+  "growth_pct": 7.4,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1309,
+    "youtube": 1309,
+    "tiktok": 654,
+    "steam": 654,
+    "bluesky": 485
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1680
+    },
+    {
+      "month": "Feb",
+      "count": 2508
+    },
+    {
+      "month": "Mar",
+      "count": 2762
+    },
+    {
+      "month": "Apr",
+      "count": 3596
+    },
+    {
+      "month": "May",
+      "count": 3808
+    },
+    {
+      "month": "Jun",
+      "count": 4057
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Hunting",
+    "Multiplayer",
+    "Online Co-Op",
+    "Co-op"
+  ],
+  "games": [
+    {
+      "app_id": 2246340,
+      "name": "Monster Hunter Wilds",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 287,
+      "sentiment_positive": 96,
+      "tags": [
+        "Hunting",
+        "Action",
+        "Multiplayer",
+        "Online Co-Op",
+        "Co-op",
+        "Character Customization",
+        "Dragons",
+        "Open World",
+        "Third Person",
+        "Dating Sim"
+      ]
+    },
+    {
+      "app_id": 518790,
+      "name": "theHunter: Call of the Wild\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 263,
+      "sentiment_positive": 96,
+      "tags": [
+        "Hunting",
+        "Open World",
+        "Multiplayer",
+        "Nature",
+        "Relaxing",
+        "Stealth",
+        "FPS",
+        "Simulation",
+        "Survival",
+        "Realistic"
+      ]
+    },
+    {
+      "app_id": 298110,
+      "name": "Far Cry\u00ae 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 181,
+      "sentiment_positive": 78,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 376210,
+      "name": "The Isle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 32,
+      "sentiment_positive": 87,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 552520,
+      "name": "Far Cry\u00ae 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 212,
+      "sentiment_positive": 89,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 363,
+      "sentiment_positive": 84,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 513710,
+      "name": "SCUM",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/513710/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 447,
+      "sentiment_positive": 78,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1118010,
+      "name": "Monster Hunter World: Iceborne",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118010/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 570,
+      "sentiment_positive": 86,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1151640,
+      "name": "Horizon Zero Dawn\u2122 Complete Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 124,
+      "sentiment_positive": 81,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 220240,
+      "name": "Far Cry 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 387,
+      "sentiment_positive": 93,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2646460,
+      "name": "Soulmask",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2646460/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 471,
+      "sentiment_positive": 95,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 371660,
+      "name": "Far Cry\u00ae Primal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 514,
+      "sentiment_positive": 91,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1119730,
+      "name": "Ranch Simulator: Build, Hunt, Farm",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1119730/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 42,
+      "sentiment_positive": 92,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4467980,
+      "name": "theHunter: Call of the Wild\u2122 - Peru Hunting Reserve",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4467980/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 72,
+      "sentiment_positive": 84,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2543830,
+      "name": "Way of the Hunter 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2543830/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 395,
+      "sentiment_positive": 80,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 926990,
+      "name": "WolfQuest: Anniversary Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/926990/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 440,
+      "sentiment_positive": 83,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2356560,
+      "name": "Monster Hunter Stories",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2356560/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 54,
+      "sentiment_positive": 93,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2294660,
+      "name": "The Quinfall",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2294660/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 46,
+      "sentiment_positive": 84,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1408610,
+      "name": "Call of the Wild: The Angler\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1408610/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 236,
+      "sentiment_positive": 96,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3966020,
+      "name": "Soulmask: Shifting Sands",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3966020/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 223,
+      "sentiment_positive": 80,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1288320,
+      "name": "Way of the Hunter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 114,
+      "sentiment_positive": 81,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2383430,
+      "name": "theHunter: Call of the Wild\u2122 - Emerald Coast Australia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2383430/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 494,
+      "sentiment_positive": 82,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2014380,
+      "name": "LIVE A LIVE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2014380/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 200,
+      "sentiment_positive": 80,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1674200,
+      "name": "Alaska Gold Fever",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1674200/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 198,
+      "sentiment_positive": 91,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 846770,
+      "name": "DYSMANTLE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/846770/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 296,
+      "sentiment_positive": 92,
+      "tags": [
+        "Underwater",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

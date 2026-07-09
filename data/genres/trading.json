@@ -1,0 +1,392 @@
+{
+  "genre_id": "trading",
+  "genre_name": "Trading",
+  "category": "Mechanic",
+  "supply_count": 619,
+  "demand_count": 4166,
+  "growth_pct": 20.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1250,
+    "youtube": 1250,
+    "tiktok": 625,
+    "steam": 625,
+    "bluesky": 379
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1619
+    },
+    {
+      "month": "Feb",
+      "count": 2441
+    },
+    {
+      "month": "Mar",
+      "count": 2844
+    },
+    {
+      "month": "Apr",
+      "count": 3259
+    },
+    {
+      "month": "May",
+      "count": 4316
+    },
+    {
+      "month": "Jun",
+      "count": 3775
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Open World",
+    "Action",
+    "Historical",
+    "Alternate History"
+  ],
+  "games": [
+    {
+      "app_id": 1771300,
+      "name": "Kingdom Come: Deliverance II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 25,
+      "sentiment_positive": 80,
+      "tags": [
+        "RPG",
+        "Medieval",
+        "Open World",
+        "Singleplayer",
+        "Story Rich",
+        "First-Person",
+        "Realistic",
+        "Adventure",
+        "Action",
+        "Historical"
+      ]
+    },
+    {
+      "app_id": 394360,
+      "name": "Hearts of Iron IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 79,
+      "sentiment_positive": 90,
+      "tags": [
+        "Strategy",
+        "World War II",
+        "Grand Strategy",
+        "War",
+        "Historical",
+        "Military",
+        "Alternate History",
+        "Multiplayer",
+        "Simulation",
+        "Tactical"
+      ]
+    },
+    {
+      "app_id": 1304930,
+      "name": "The Outlast Trials",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 527,
+      "sentiment_positive": 86,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 75,
+      "sentiment_positive": 93,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1295660,
+      "name": "Sid Meier's Civilization VII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 458,
+      "sentiment_positive": 87,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1182900,
+      "name": "A Plague Tale: Requiem",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 447,
+      "sentiment_positive": 85,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 835570,
+      "name": "Conqueror's Blade",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835570/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 490,
+      "sentiment_positive": 91,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 529340,
+      "name": "Victoria 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/529340/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 318,
+      "sentiment_positive": 89,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1044720,
+      "name": "Farthest Frontier",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 150,
+      "sentiment_positive": 86,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 668580,
+      "name": "Atomic Heart",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 379,
+      "sentiment_positive": 92,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 8870,
+      "name": "BioShock Infinite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 184,
+      "sentiment_positive": 96,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 236850,
+      "name": "Europa Universalis IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 379,
+      "sentiment_positive": 88,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1663850,
+      "name": "REPLACED",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1663850/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 366,
+      "sentiment_positive": 95,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2948190,
+      "name": "World of Sea Battle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2948190/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 295,
+      "sentiment_positive": 82,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 784150,
+      "name": "Workers &amp; Resources: Soviet Republic",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 341,
+      "sentiment_positive": 82,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3450310,
+      "name": "Europa Universalis V",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3450310/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 328,
+      "sentiment_positive": 88,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3152780,
+      "name": "Expansion - Hearts of Iron IV: G\u00f6tterd\u00e4mmerung",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3152780/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 41,
+      "sentiment_positive": 96,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268500,
+      "name": "XCOM\u00ae 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 396,
+      "sentiment_positive": 78,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 612880,
+      "name": "Wolfenstein II: The New Colossus",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 41,
+      "sentiment_positive": 90,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1782460,
+      "name": "Hell Clock",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1782460/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 187,
+      "sentiment_positive": 78,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3092660,
+      "name": "Reverse: 1999",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092660/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 586,
+      "sentiment_positive": 83,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1336980,
+      "name": "NOBUNAGA'S AMBITION: Awakening",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336980/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 346,
+      "sentiment_positive": 82,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 201810,
+      "name": "Wolfenstein: The New Order",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 595,
+      "sentiment_positive": 94,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3368610,
+      "name": "Kingdom Come: Deliverance II Legacy of the Forge",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3368610/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 405,
+      "sentiment_positive": 96,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3796290,
+      "name": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3796290/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 116,
+      "sentiment_positive": 96,
+      "tags": [
+        "Trading",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

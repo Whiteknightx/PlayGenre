@@ -1,0 +1,366 @@
+{
+  "genre_id": "minimalist",
+  "genre_name": "Minimalist",
+  "category": "Theme",
+  "supply_count": 1910,
+  "demand_count": 1669,
+  "growth_pct": 27.1,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 501,
+    "youtube": 501,
+    "tiktok": 250,
+    "steam": 250,
+    "bluesky": 167
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 615
+    },
+    {
+      "month": "Feb",
+      "count": 909
+    },
+    {
+      "month": "Mar",
+      "count": 1173
+    },
+    {
+      "month": "Apr",
+      "count": 1455
+    },
+    {
+      "month": "May",
+      "count": 1672
+    },
+    {
+      "month": "Jun",
+      "count": 1763
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Anime",
+    "Action RPG",
+    "JRPG",
+    "Online Co-Op"
+  ],
+  "games": [
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 458,
+      "sentiment_positive": 96,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 342,
+      "sentiment_positive": 80,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Action",
+        "Online Co-Op",
+        "Multiplayer",
+        "RPG",
+        "Fantasy",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 388,
+      "sentiment_positive": 86,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3564740,
+      "name": "Where Winds Meet",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 79,
+      "sentiment_positive": 92,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3404260,
+      "name": "Dead as Disco",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 268,
+      "sentiment_positive": 86,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 601150,
+      "name": "Devil May Cry 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 298,
+      "sentiment_positive": 84,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 130,
+      "sentiment_positive": 96,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2764370,
+      "name": "Starward",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2764370/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 211,
+      "sentiment_positive": 78,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4162040,
+      "name": "Zenless Zone Zero",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 39,
+      "sentiment_positive": 80,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2515020,
+      "name": "FINAL FANTASY XVI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 145,
+      "sentiment_positive": 96,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1229490,
+      "name": "ULTRAKILL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 122,
+      "sentiment_positive": 86,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 524220,
+      "name": "NieR:Automata\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 569,
+      "sentiment_positive": 94,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 631510,
+      "name": "Devil May Cry HD Collection",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/631510/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 77,
+      "sentiment_positive": 92,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2384580,
+      "name": "DYNASTY WARRIORS: ORIGINS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2384580/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 161,
+      "sentiment_positive": 93,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1790600,
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 418,
+      "sentiment_positive": 78,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 329050,
+      "name": "Devil May Cry 4 Special Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/329050/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 314,
+      "sentiment_positive": 85,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1608070,
+      "name": "CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608070/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 55,
+      "sentiment_positive": 84,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 220440,
+      "name": "DmC: Devil May Cry",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220440/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 46,
+      "sentiment_positive": 81,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2627260,
+      "name": "NINJA GAIDEN 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627260/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 567,
+      "sentiment_positive": 84,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1817230,
+      "name": "Hi-Fi RUSH",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 198,
+      "sentiment_positive": 85,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4584110,
+      "name": "Soul Land: Awakening World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4584110/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 592,
+      "sentiment_positive": 79,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 678950,
+      "name": "DRAGON BALL FighterZ",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 95,
+      "sentiment_positive": 93,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2492040,
+      "name": "FATAL FURY: City of the Wolves",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2492040/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 259,
+      "sentiment_positive": 82,
+      "tags": [
+        "Minimalist",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

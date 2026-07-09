@@ -1,0 +1,392 @@
+{
+  "genre_id": "western",
+  "genre_name": "Western",
+  "category": "Theme",
+  "supply_count": 4442,
+  "demand_count": 2040,
+  "growth_pct": 45.1,
+  "opportunity_score": 6.9,
+  "opportunity_class": "High",
+  "heatmap": {
+    "reddit": 612,
+    "youtube": 612,
+    "tiktok": 306,
+    "steam": 306,
+    "bluesky": 227
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 749
+    },
+    {
+      "month": "Feb",
+      "count": 1223
+    },
+    {
+      "month": "Mar",
+      "count": 1459
+    },
+    {
+      "month": "Apr",
+      "count": 1624
+    },
+    {
+      "month": "May",
+      "count": 1983
+    },
+    {
+      "month": "Jun",
+      "count": 2098
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "FPS",
+    "Shooter",
+    "Multiplayer",
+    "Competitive"
+  ],
+  "games": [
+    {
+      "app_id": 730,
+      "name": "Counter-Strike 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 26,
+      "sentiment_positive": 83,
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Competitive",
+        "Action",
+        "Team-Based",
+        "eSports",
+        "Tactical",
+        "First-Person",
+        "PvP"
+      ]
+    },
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 179,
+      "sentiment_positive": 96,
+      "tags": [
+        "Survival",
+        "Shooter",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Third-Person Shooter",
+        "Action",
+        "Online Co-Op",
+        "Tactical"
+      ]
+    },
+    {
+      "app_id": 2767030,
+      "name": "Marvel Rivals",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 107,
+      "sentiment_positive": 93,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1172470,
+      "name": "Apex Legends\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 590,
+      "sentiment_positive": 80,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 25,
+      "sentiment_positive": 85,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1174180,
+      "name": "Red Dead Redemption 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 450,
+      "sentiment_positive": 82,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 230410,
+      "name": "Warframe",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 192,
+      "sentiment_positive": 96,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2138330,
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 134,
+      "sentiment_positive": 87,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 252490,
+      "name": "Rust",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 236,
+      "sentiment_positive": 86,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1144200,
+      "name": "Ready or Not",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 367,
+      "sentiment_positive": 89,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 447040,
+      "name": "Watch_Dogs\u00ae 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 342,
+      "sentiment_positive": 85,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3932890,
+      "name": "Escape from Tarkov",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 522,
+      "sentiment_positive": 91,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2807960,
+      "name": "Battlefield\u2122 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 349,
+      "sentiment_positive": 80,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1085660,
+      "name": "Destiny 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 458,
+      "sentiment_positive": 88,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1361210,
+      "name": "Warhammer 40,000: Darktide",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 428,
+      "sentiment_positive": 78,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3017860,
+      "name": "DOOM: The Dark Ages",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 385,
+      "sentiment_positive": 87,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 236390,
+      "name": "War Thunder",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 591,
+      "sentiment_positive": 78,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440,
+      "name": "Team Fortress 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 47,
+      "sentiment_positive": 87,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 553850,
+      "name": "HELLDIVERS\u2122 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 143,
+      "sentiment_positive": 91,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073850,
+      "name": "THE FINALS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 493,
+      "sentiment_positive": 83,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 284,
+      "sentiment_positive": 80,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3768760,
+      "name": "007 First Light",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 461,
+      "sentiment_positive": 83,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 311210,
+      "name": "Call of Duty\u00ae: Black Ops III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 482,
+      "sentiment_positive": 84,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3164500,
+      "name": "Schedule I",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 134,
+      "sentiment_positive": 94,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1693980,
+      "name": "Dead Space",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 599,
+      "sentiment_positive": 82,
+      "tags": [
+        "Western",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

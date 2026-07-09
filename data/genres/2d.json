@@ -1,0 +1,392 @@
+{
+  "genre_id": "2d",
+  "genre_name": "2D",
+  "category": "Presentation",
+  "supply_count": 4025,
+  "demand_count": 5373,
+  "growth_pct": 32.8,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1612,
+    "youtube": 1612,
+    "tiktok": 806,
+    "steam": 806,
+    "bluesky": 672
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1960
+    },
+    {
+      "month": "Feb",
+      "count": 3105
+    },
+    {
+      "month": "Mar",
+      "count": 3800
+    },
+    {
+      "month": "Apr",
+      "count": 4779
+    },
+    {
+      "month": "May",
+      "count": 4890
+    },
+    {
+      "month": "Jun",
+      "count": 5881
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Great Soundtrack",
+    "Action",
+    "Roguelite",
+    "Story Rich"
+  ],
+  "games": [
+    {
+      "app_id": 1973530,
+      "name": "Limbus Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 440,
+      "sentiment_positive": 90,
+      "tags": [
+        "Story Rich",
+        "Lore-Rich",
+        "Free to Play",
+        "Turn-Based Combat",
+        "Turn-Based Tactics",
+        "Visual Novel",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Strategy",
+        "RPG"
+      ]
+    },
+    {
+      "app_id": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 249,
+      "sentiment_positive": 78,
+      "tags": [
+        "Action Roguelike",
+        "Roguelike",
+        "Indie",
+        "Replay Value",
+        "Difficult",
+        "Pixel Graphics",
+        "Dungeon Crawler",
+        "Great Soundtrack",
+        "Singleplayer",
+        "Dark"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 285,
+      "sentiment_positive": 81,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 23,
+      "sentiment_positive": 79,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 116,
+      "sentiment_positive": 82,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 294100,
+      "name": "RimWorld",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 130,
+      "sentiment_positive": 85,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 82,
+      "sentiment_positive": 87,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 312520,
+      "name": "Rain World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 338,
+      "sentiment_positive": 85,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 105600,
+      "name": "Terraria",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 225,
+      "sentiment_positive": 92,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2868840,
+      "name": "Slay the Spire 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 469,
+      "sentiment_positive": 81,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426300,
+      "name": "The Binding of Isaac: Repentance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 75,
+      "sentiment_positive": 83,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 213,
+      "sentiment_positive": 84,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1313140,
+      "name": "Cult of the Lamb",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 493,
+      "sentiment_positive": 91,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 322330,
+      "name": "Don't Starve Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 528,
+      "sentiment_positive": 95,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 367520,
+      "name": "Hollow Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 360,
+      "sentiment_positive": 81,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 401920,
+      "name": "The Binding of Isaac: Afterbirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401920/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 49,
+      "sentiment_positive": 90,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268910,
+      "name": "Cuphead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 315,
+      "sentiment_positive": 90,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2764370,
+      "name": "Starward",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2764370/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 147,
+      "sentiment_positive": 89,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 246620,
+      "name": "Plague Inc: Evolved",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 53,
+      "sentiment_positive": 93,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 686060,
+      "name": "Mewgenics",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 217,
+      "sentiment_positive": 79,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 813780,
+      "name": "Age of Empires II: Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 52,
+      "sentiment_positive": 95,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 570660,
+      "name": "The Binding of Isaac: Afterbirth+",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570660/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 527,
+      "sentiment_positive": 93,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2749950,
+      "name": "Esports Manager 2026",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2749950/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 471,
+      "sentiment_positive": 84,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1384160,
+      "name": "GUILTY GEAR -STRIVE-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 164,
+      "sentiment_positive": 85,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 427520,
+      "name": "Factorio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 239,
+      "sentiment_positive": 90,
+      "tags": [
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

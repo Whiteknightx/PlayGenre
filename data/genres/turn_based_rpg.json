@@ -1,0 +1,92 @@
+{
+  "genre_id": "turn_based_rpg",
+  "genre_name": "Turn-Based RPG",
+  "category": "Subgenre",
+  "supply_count": 1380,
+  "demand_count": 2420,
+  "growth_pct": 18.1,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 726,
+    "youtube": 726,
+    "tiktok": 363,
+    "steam": 363,
+    "bluesky": 220
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1030
+    },
+    {
+      "month": "Feb",
+      "count": 1440
+    },
+    {
+      "month": "Mar",
+      "count": 1812
+    },
+    {
+      "month": "Apr",
+      "count": 2174
+    },
+    {
+      "month": "May",
+      "count": 2223
+    },
+    {
+      "month": "Jun",
+      "count": 2282
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 805011,
+      "name": "Turn-Based RPG Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/805011/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 123,
+      "sentiment_positive": 95,
+      "tags": [
+        "Turn-Based RPG",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1920441,
+      "name": "Turn-Based RPG Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1920441/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 27,
+      "sentiment_positive": 84,
+      "tags": [
+        "Turn-Based RPG",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1881747,
+      "name": "Super Turn-Based RPG",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1881747/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 108,
+      "sentiment_positive": 94,
+      "tags": [
+        "Turn-Based RPG",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

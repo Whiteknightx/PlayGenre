@@ -37,6 +37,7 @@
 
       <nav class="header-nav">
         <button class="nav-tab active" onclick="switchTab('pulse')" id="tab-pulse">Market Pulse</button>
+        <button class="nav-tab" onclick="switchTab('trending')" id="tab-trending">Trending Games</button>
         <button class="nav-tab" onclick="switchTab('genre')" id="tab-genre">Genre Intelligence</button>
         <button class="nav-tab" onclick="switchTab('radar')" id="tab-radar">Opportunity Radar</button>
         <button class="nav-tab" onclick="switchTab('investigate')" id="tab-investigate">Game Investigator</button>
@@ -94,6 +95,7 @@
               </tbody>
             </table>
           </div>
+          <div class="pagination" id="trends-pagination"></div>
         </div>
 
         <!-- TRENDING GAMES BLOCK -->
@@ -102,6 +104,45 @@
           <div class="games-grid" id="trending-games-grid">
             <!-- Game cards injected dynamically -->
           </div>
+        </div>
+      </section>
+
+      <!-- ═══════════ SECTION: TRENDING GAMES (CATEGORIZED) ═══════════ -->
+      <section class="section" id="sec-trending">
+        <div class="page-hero">
+          <div class="feature-tag hot" style="margin: 0 auto 0.8rem auto;">🔥 Live Tracker</div>
+          <h1>Trending <span class="gradient">Games</span></h1>
+          <p>Which games are players discussing right now? Sorted by release state — released hits, most anticipated titles, and playable demos generating buzz.</p>
+        </div>
+
+        <!-- Released & Trending -->
+        <div class="panel">
+          <div class="trending-category-header">
+            <span class="cat-icon">🔥</span>
+            <h3>Released & Trending</h3>
+            <span class="cat-count" id="released-count"></span>
+          </div>
+          <div class="trending-cat-grid" id="trending-released-grid"></div>
+        </div>
+
+        <!-- Most Anticipated -->
+        <div class="panel">
+          <div class="trending-category-header">
+            <span class="cat-icon">⏳</span>
+            <h3>Most Anticipated</h3>
+            <span class="cat-count" id="anticipated-count"></span>
+          </div>
+          <div class="trending-cat-grid" id="trending-anticipated-grid"></div>
+        </div>
+
+        <!-- Demo Available -->
+        <div class="panel">
+          <div class="trending-category-header">
+            <span class="cat-icon">🎮</span>
+            <h3>Demo Available</h3>
+            <span class="cat-count" id="demo-count"></span>
+          </div>
+          <div class="trending-cat-grid" id="trending-demo-grid"></div>
         </div>
       </section>
 
@@ -116,9 +157,20 @@
           <!-- SIDEBAR -->
           <div class="panel" style="padding: 1.2rem;">
             <div class="panel-title" style="margin-bottom: 0.8rem;"><span class="dot purple"></span> Genres & Tags</div>
+            <input type="text" class="genre-search-input" id="genre-search-input" placeholder="🔍 Search genres..." oninput="filterGenreSidebar()"/>
+            <div class="category-filters" id="genre-category-filters">
+              <button class="cat-filter-btn active" onclick="setGenreCategoryFilter('All')">All</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Genre')">Genre</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Subgenre')">Subgenre</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Mechanic')">Mechanic</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Theme')">Theme</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Player Mode')">Player Mode</button>
+              <button class="cat-filter-btn" onclick="setGenreCategoryFilter('Presentation')">Presentation</button>
+            </div>
             <div class="genre-sidebar" id="genre-sidebar-list">
               <!-- Sidebar buttons loaded dynamically -->
             </div>
+            <div class="pagination" id="genre-pagination"></div>
           </div>
 
           <!-- DETAILED VIEW -->

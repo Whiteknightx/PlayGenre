@@ -1,0 +1,392 @@
+{
+  "genre_id": "retro",
+  "genre_name": "Retro",
+  "category": "Theme",
+  "supply_count": 1530,
+  "demand_count": 2506,
+  "growth_pct": 34.9,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 752,
+    "youtube": 752,
+    "tiktok": 376,
+    "steam": 376,
+    "bluesky": 209
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 941
+    },
+    {
+      "month": "Feb",
+      "count": 1474
+    },
+    {
+      "month": "Mar",
+      "count": 1750
+    },
+    {
+      "month": "Apr",
+      "count": 2191
+    },
+    {
+      "month": "May",
+      "count": 2599
+    },
+    {
+      "month": "Jun",
+      "count": 2338
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Funny",
+    "Comedy",
+    "Mystery",
+    "Multiplayer"
+  ],
+  "games": [
+    {
+      "app_id": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 330,
+      "sentiment_positive": 96,
+      "tags": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 162,
+      "sentiment_positive": 86,
+      "tags": [
+        "Story Rich",
+        "Great Soundtrack",
+        "Pixel Graphics",
+        "Funny",
+        "RPG",
+        "Singleplayer",
+        "Bullet Hell",
+        "Emotional",
+        "2D",
+        "Comedy"
+      ]
+    },
+    {
+      "app_id": 268910,
+      "name": "Cuphead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 489,
+      "sentiment_positive": 85,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2416450,
+      "name": "MOUSE: P.I. For Hire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416450/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 185,
+      "sentiment_positive": 96,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1229490,
+      "name": "ULTRAKILL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 555,
+      "sentiment_positive": 89,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3552140,
+      "name": "Retro Rewind - Video Store Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3552140/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 343,
+      "sentiment_positive": 93,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3948120,
+      "name": "Scritchy Scratchy",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3948120/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 222,
+      "sentiment_positive": 79,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 391540,
+      "name": "Undertale",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 471,
+      "sentiment_positive": 83,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3180070,
+      "name": "No, I'm not a Human",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3180070/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 540,
+      "sentiment_positive": 83,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3405340,
+      "name": "Megabonk",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405340/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 513,
+      "sentiment_positive": 80,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1244090,
+      "name": "Sea of Stars: Sunset Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 277,
+      "sentiment_positive": 94,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1794680,
+      "name": "Vampire Survivors",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 64,
+      "sentiment_positive": 91,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2379740,
+      "name": "Wizardry Variants Daphne",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379740/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 358,
+      "sentiment_positive": 94,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2754380,
+      "name": "The Roottrees are Dead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2754380/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 334,
+      "sentiment_positive": 94,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 219150,
+      "name": "Hotline Miami",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 392,
+      "sentiment_positive": 90,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2753970,
+      "name": "MARVEL Cosmic Invasion",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2753970/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 232,
+      "sentiment_positive": 83,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3314790,
+      "name": "CloverPit",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3314790/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 509,
+      "sentiment_positive": 92,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 239030,
+      "name": "Papers, Please",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 512,
+      "sentiment_positive": 85,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1637320,
+      "name": "Dome Keeper",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1637320/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 522,
+      "sentiment_positive": 91,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 274170,
+      "name": "Hotline Miami 2: Wrong Number",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 345,
+      "sentiment_positive": 90,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3314070,
+      "name": "The Sims\u2122 2 Legacy Collection",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3314070/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 408,
+      "sentiment_positive": 91,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 535930,
+      "name": "Two Point Hospital",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/535930/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 287,
+      "sentiment_positive": 80,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 504230,
+      "name": "Celeste",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 22,
+      "sentiment_positive": 95,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1859910,
+      "name": "Legend of Mortal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1859910/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 473,
+      "sentiment_positive": 82,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2475490,
+      "name": "Mouthwashing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 587,
+      "sentiment_positive": 85,
+      "tags": [
+        "Retro",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

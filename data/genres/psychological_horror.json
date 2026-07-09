@@ -1,61 +1,61 @@
 {
   "genre_id": "psychological_horror",
   "genre_name": "Psychological Horror",
-  "category": "Theme",
-  "supply_count": 3746,
-  "demand_count": 4092,
-  "growth_pct": 31.6,
+  "category": "Subgenre",
+  "supply_count": 4018,
+  "demand_count": 9322,
+  "growth_pct": -1.3,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 1023,
-    "youtube": 1638,
-    "tiktok": 1023,
-    "steam": 327,
-    "bluesky": 455
+    "reddit": 2797,
+    "youtube": 2797,
+    "tiktok": 1398,
+    "steam": 1398,
+    "bluesky": 777
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 1674
+      "count": 9965
     },
     {
       "month": "Feb",
-      "count": 2427
+      "count": 8009
     },
     {
       "month": "Mar",
-      "count": 2876
+      "count": 7536
     },
     {
       "month": "Apr",
-      "count": 3550
+      "count": 6017
     },
     {
       "month": "May",
-      "count": 3700
+      "count": 4809
     },
     {
       "month": "Jun",
-      "count": 4420
+      "count": 3454
     }
   ],
   "related_network": [
     "Singleplayer",
-    "Adventure",
     "Indie",
-    "3D",
-    "Action",
-    "Great Soundtrack"
+    "RPG",
+    "Story Rich",
+    "Sci-fi",
+    "Action"
   ],
   "games": [
     {
       "app_id": 1091500,
       "name": "Cyberpunk 2077",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
-      "trend_score": 84,
-      "growth_pct": 821,
-      "sentiment_positive": 89,
+      "trend_score": 89,
+      "growth_pct": 553,
+      "sentiment_positive": 79,
       "tags": [
         "Cyberpunk",
         "Open World",
@@ -66,18 +66,16 @@
         "Sci-fi",
         "FPS",
         "Futuristic",
-        "First-Person",
-        "Atmospheric",
-        "Exploration"
+        "First-Person"
       ]
     },
     {
       "app_id": 1973530,
       "name": "Limbus Company",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
-      "trend_score": 91,
-      "growth_pct": 469,
-      "sentiment_positive": 94,
+      "trend_score": 97,
+      "growth_pct": 27,
+      "sentiment_positive": 95,
       "tags": [
         "Story Rich",
         "Lore-Rich",
@@ -88,368 +86,306 @@
         "Singleplayer",
         "Great Soundtrack",
         "Strategy",
-        "RPG",
-        "Strategy RPG",
-        "Turn-Based Strategy"
+        "RPG"
       ]
     },
     {
       "app_id": 1174180,
       "name": "Red Dead Redemption 2",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-      "trend_score": 89,
-      "growth_pct": 809,
-      "sentiment_positive": 86,
+      "trend_score": 98,
+      "growth_pct": 179,
+      "sentiment_positive": 79,
       "tags": [
-        "Open World",
-        "Story Rich",
-        "Western",
-        "Multiplayer",
-        "Adventure",
-        "Action",
-        "Realistic",
-        "Singleplayer",
-        "Shooter",
-        "Horses",
-        "Beautiful",
-        "Atmospheric"
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 250900,
       "name": "The Binding of Isaac: Rebirth",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
-      "trend_score": 76,
-      "growth_pct": 1507,
-      "sentiment_positive": 84,
+      "trend_score": 75,
+      "growth_pct": 147,
+      "sentiment_positive": 78,
       "tags": [
-        "Action Roguelike",
-        "Roguelike",
+        "Psychological Horror",
         "Indie",
-        "Replay Value",
-        "Difficult",
-        "Pixel Graphics",
-        "Dungeon Crawler",
-        "Great Soundtrack",
-        "Singleplayer",
-        "Dark",
-        "2D",
-        "Local Co-Op"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2138330,
       "name": "Cyberpunk 2077: Phantom Liberty",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 1393,
-      "sentiment_positive": 96,
+      "trend_score": 75,
+      "growth_pct": 425,
+      "sentiment_positive": 86,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3513350,
       "name": "Wuthering Waves",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
-      "trend_score": 80,
-      "growth_pct": 645,
-      "sentiment_positive": 80,
+      "trend_score": 77,
+      "growth_pct": 180,
+      "sentiment_positive": 81,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1671210,
       "name": "DELTARUNE",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 916,
-      "sentiment_positive": 91,
+      "trend_score": 93,
+      "growth_pct": 306,
+      "sentiment_positive": 94,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 292030,
       "name": "The Witcher 3: Wild Hunt",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
-      "trend_score": 84,
-      "growth_pct": 1330,
-      "sentiment_positive": 80,
+      "trend_score": 81,
+      "growth_pct": 471,
+      "sentiment_positive": 88,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 413150,
-      "name": "Stardew Valley",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
-      "trend_score": 92,
-      "growth_pct": 1430,
-      "sentiment_positive": 82,
-      "tags": [
-        "Psychological Horror",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2651280,
       "name": "Marvel's Spider-Man 2",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 503,
+      "trend_score": 93,
+      "growth_pct": 346,
       "sentiment_positive": 79,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 108,
+      "sentiment_positive": 93,
+      "tags": [
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1903340,
       "name": "Clair Obscur: Expedition 33",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
-      "trend_score": 95,
-      "growth_pct": 949,
-      "sentiment_positive": 95,
+      "trend_score": 83,
+      "growth_pct": 338,
+      "sentiment_positive": 92,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 703080,
       "name": "Planet Zoo",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg",
-      "trend_score": 88,
-      "growth_pct": 1168,
-      "sentiment_positive": 94,
+      "trend_score": 95,
+      "growth_pct": 148,
+      "sentiment_positive": 89,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 553850,
       "name": "HELLDIVERS\u2122 2",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
-      "trend_score": 70,
-      "growth_pct": 1456,
-      "sentiment_positive": 84,
+      "trend_score": 97,
+      "growth_pct": 587,
+      "sentiment_positive": 83,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 814380,
       "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 437,
-      "sentiment_positive": 95,
-      "tags": [
-        "Psychological Horror",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1462040,
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 1560,
-      "sentiment_positive": 81,
-      "tags": [
-        "Psychological Horror",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2161700,
-      "name": "Persona 3 Reload",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
-      "trend_score": 97,
-      "growth_pct": 352,
+      "trend_score": 82,
+      "growth_pct": 134,
       "sentiment_positive": 87,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3017860,
       "name": "DOOM: The Dark Ages",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 1189,
-      "sentiment_positive": 85,
+      "trend_score": 88,
+      "growth_pct": 508,
+      "sentiment_positive": 86,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 89,
+      "sentiment_positive": 84,
+      "tags": [
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2161700,
+      "name": "Persona 3 Reload",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 285,
+      "sentiment_positive": 95,
+      "tags": [
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2246340,
       "name": "Monster Hunter Wilds",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
-      "trend_score": 91,
-      "growth_pct": 899,
-      "sentiment_positive": 86,
+      "trend_score": 89,
+      "growth_pct": 530,
+      "sentiment_positive": 83,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2552430,
-      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
-      "trend_score": 82,
-      "growth_pct": 842,
-      "sentiment_positive": 87,
-      "tags": [
-        "Psychological Horror",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 454650,
       "name": "DRAGON BALL XENOVERSE 2",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg",
-      "trend_score": 81,
-      "growth_pct": 1273,
-      "sentiment_positive": 83,
+      "trend_score": 83,
+      "growth_pct": 562,
+      "sentiment_positive": 95,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 318,
+      "sentiment_positive": 86,
+      "tags": [
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 281990,
       "name": "Stellaris",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
-      "trend_score": 93,
-      "growth_pct": 902,
-      "sentiment_positive": 78,
+      "trend_score": 73,
+      "growth_pct": 485,
+      "sentiment_positive": 96,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1245620,
-      "name": "ELDEN RING",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 1433,
-      "sentiment_positive": 90,
-      "tags": [
-        "Psychological Horror",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1449850,
       "name": "Yu-Gi-Oh! Master Duel",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
-      "trend_score": 96,
-      "growth_pct": 1220,
-      "sentiment_positive": 92,
+      "trend_score": 72,
+      "growth_pct": 257,
+      "sentiment_positive": 79,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1245620,
+      "name": "ELDEN RING",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 71,
+      "sentiment_positive": 96,
+      "tags": [
+        "Psychological Horror",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1364780,
       "name": "Street Fighter\u2122 6",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
-      "trend_score": 89,
-      "growth_pct": 1687,
-      "sentiment_positive": 90,
+      "trend_score": 80,
+      "growth_pct": 361,
+      "sentiment_positive": 92,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 261550,
       "name": "Mount &amp; Blade II: Bannerlord",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 1444,
-      "sentiment_positive": 90,
+      "trend_score": 92,
+      "growth_pct": 396,
+      "sentiment_positive": 86,
       "tags": [
         "Psychological Horror",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     }
   ]

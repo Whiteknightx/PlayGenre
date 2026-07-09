@@ -1,0 +1,392 @@
+{
+  "genre_id": "military",
+  "genre_name": "Military",
+  "category": "Theme",
+  "supply_count": 2286,
+  "demand_count": 2640,
+  "growth_pct": 39.1,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 792,
+    "youtube": 792,
+    "tiktok": 396,
+    "steam": 396,
+    "bluesky": 330
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1027
+    },
+    {
+      "month": "Feb",
+      "count": 1428
+    },
+    {
+      "month": "Mar",
+      "count": 1687
+    },
+    {
+      "month": "Apr",
+      "count": 2199
+    },
+    {
+      "month": "May",
+      "count": 2267
+    },
+    {
+      "month": "Jun",
+      "count": 2621
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Multiplayer",
+    "Funny",
+    "Comedy",
+    "Co-op"
+  ],
+  "games": [
+    {
+      "app_id": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 84,
+      "sentiment_positive": 79,
+      "tags": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ]
+    },
+    {
+      "app_id": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 289,
+      "sentiment_positive": 89,
+      "tags": [
+        "Open World",
+        "Sexual Content",
+        "Action",
+        "Multiplayer",
+        "Crime",
+        "Shooter",
+        "Third Person",
+        "Adventure",
+        "First-Person",
+        "Automobile Sim"
+      ]
+    },
+    {
+      "app_id": 1172470,
+      "name": "Apex Legends\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 554,
+      "sentiment_positive": 94,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2483190,
+      "name": "Forza Horizon 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 452,
+      "sentiment_positive": 78,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 60,
+      "sentiment_positive": 79,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 447040,
+      "name": "Watch_Dogs\u00ae 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 315,
+      "sentiment_positive": 89,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440,
+      "name": "Team Fortress 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 129,
+      "sentiment_positive": 89,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1285190,
+      "name": "Borderlands 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 246,
+      "sentiment_positive": 94,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 410,
+      "sentiment_positive": 85,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1665460,
+      "name": "eFootball\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 327,
+      "sentiment_positive": 91,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2001120,
+      "name": "Split Fiction",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 286,
+      "sentiment_positive": 87,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3241660,
+      "name": "R.E.P.O.",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 472,
+      "sentiment_positive": 94,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222670,
+      "name": "The Sims\u2122 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 384,
+      "sentiment_positive": 79,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2209900,
+      "name": "Moonlight Peaks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2209900/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 35,
+      "sentiment_positive": 83,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1659040,
+      "name": "HITMAN World of Assassination",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 195,
+      "sentiment_positive": 84,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1817070,
+      "name": "Marvel\u2019s Spider-Man Remastered",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 297,
+      "sentiment_positive": 95,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2592160,
+      "name": "Dispatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 65,
+      "sentiment_positive": 95,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3949040,
+      "name": "RV There Yet?",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 589,
+      "sentiment_positive": 79,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 431960,
+      "name": "Wallpaper Engine",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 578,
+      "sentiment_positive": 84,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1172620,
+      "name": "Sea of Thieves: 2026 Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 264,
+      "sentiment_positive": 79,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 389,
+      "sentiment_positive": 78,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1313140,
+      "name": "Cult of the Lamb",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 463,
+      "sentiment_positive": 80,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 284160,
+      "name": "BeamNG.drive",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 35,
+      "sentiment_positive": 90,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2215200,
+      "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 75,
+      "sentiment_positive": 87,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 322330,
+      "name": "Don't Starve Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 559,
+      "sentiment_positive": 94,
+      "tags": [
+        "Military",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

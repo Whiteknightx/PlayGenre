@@ -1,0 +1,106 @@
+{
+  "genre_id": "horror",
+  "genre_name": "Horror",
+  "category": "Genre",
+  "supply_count": 2092,
+  "demand_count": 7100,
+  "growth_pct": -1.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2130,
+    "youtube": 2130,
+    "tiktok": 1065,
+    "steam": 1065,
+    "bluesky": 789
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 7322
+    },
+    {
+      "month": "Feb",
+      "count": 6072
+    },
+    {
+      "month": "Mar",
+      "count": 6100
+    },
+    {
+      "month": "Apr",
+      "count": 4514
+    },
+    {
+      "month": "May",
+      "count": 4249
+    },
+    {
+      "month": "Jun",
+      "count": 2954
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 1966720,
+      "name": "Lethal Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 390,
+      "sentiment_positive": 92,
+      "tags": [
+        "Horror",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 739630,
+      "name": "Phasmophobia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 309,
+      "sentiment_positive": 94,
+      "tags": [
+        "Horror",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 381210,
+      "name": "Dead by Daylight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 142,
+      "sentiment_positive": 95,
+      "tags": [
+        "Horror",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 2050650,
+      "name": "Resident Evil 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 153,
+      "sentiment_positive": 93,
+      "tags": [
+        "Horror",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

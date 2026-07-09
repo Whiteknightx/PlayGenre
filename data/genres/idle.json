@@ -1,0 +1,92 @@
+{
+  "genre_id": "idle",
+  "genre_name": "Idle",
+  "category": "Mechanic",
+  "supply_count": 400,
+  "demand_count": 3813,
+  "growth_pct": 16.9,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1144,
+    "youtube": 1144,
+    "tiktok": 572,
+    "steam": 572,
+    "bluesky": 318
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1584
+    },
+    {
+      "month": "Feb",
+      "count": 2045
+    },
+    {
+      "month": "Mar",
+      "count": 2784
+    },
+    {
+      "month": "Apr",
+      "count": 3199
+    },
+    {
+      "month": "May",
+      "count": 3266
+    },
+    {
+      "month": "Jun",
+      "count": 3738
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 714500,
+      "name": "Idle Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/714500/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 70,
+      "sentiment_positive": 92,
+      "tags": [
+        "Idle",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1036932,
+      "name": "Idle Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1036932/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 230,
+      "sentiment_positive": 87,
+      "tags": [
+        "Idle",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1064262,
+      "name": "Super Idle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1064262/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 123,
+      "sentiment_positive": 91,
+      "tags": [
+        "Idle",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "genre_id": "hack_and_slash",
+  "genre_name": "Hack and Slash",
+  "category": "Subgenre",
+  "supply_count": 1859,
+  "demand_count": 4442,
+  "growth_pct": 23.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1333,
+    "youtube": 1333,
+    "tiktok": 666,
+    "steam": 666,
+    "bluesky": 404
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1920
+    },
+    {
+      "month": "Feb",
+      "count": 2512
+    },
+    {
+      "month": "Mar",
+      "count": 2935
+    },
+    {
+      "month": "Apr",
+      "count": 4083
+    },
+    {
+      "month": "May",
+      "count": 3915
+    },
+    {
+      "month": "Jun",
+      "count": 4372
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Anime",
+    "Action RPG",
+    "JRPG",
+    "Online Co-Op"
+  ],
+  "games": [
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 457,
+      "sentiment_positive": 90,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 230410,
+      "name": "Warframe",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 348,
+      "sentiment_positive": 95,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3489700,
+      "name": "Stellar Blade\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 358,
+      "sentiment_positive": 91,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3513350,
+      "name": "Wuthering Waves",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 507,
+      "sentiment_positive": 79,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 506,
+      "sentiment_positive": 87,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2694490,
+      "name": "Path of Exile 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 79,
+      "sentiment_positive": 94,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2344520,
+      "name": "Diablo\u00ae IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 120,
+      "sentiment_positive": 93,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 814380,
+      "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 519,
+      "sentiment_positive": 96,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2322010,
+      "name": "God of War Ragnar\u00f6k",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 21,
+      "sentiment_positive": 90,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 416,
+      "sentiment_positive": 91,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1371980,
+      "name": "No Rest for the Wicked",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1371980/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 392,
+      "sentiment_positive": 91,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 485,
+      "sentiment_positive": 87,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145350,
+      "name": "Hades II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 36,
+      "sentiment_positive": 95,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1203220,
+      "name": "NARAKA: BLADEPOINT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 538,
+      "sentiment_positive": 88,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1593500,
+      "name": "God of War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 411,
+      "sentiment_positive": 95,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 601150,
+      "name": "Devil May Cry 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 591,
+      "sentiment_positive": 93,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3404260,
+      "name": "Dead as Disco",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 429,
+      "sentiment_positive": 91,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4162040,
+      "name": "Zenless Zone Zero",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 570,
+      "sentiment_positive": 88,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2536520,
+      "name": "Diablo II: Resurrected \u2013 Infernal Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2536520/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 383,
+      "sentiment_positive": 86,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 582010,
+      "name": "Monster Hunter: World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 504,
+      "sentiment_positive": 90,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 934700,
+      "name": "Dead Island 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 507,
+      "sentiment_positive": 90,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145360,
+      "name": "Hades",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 138,
+      "sentiment_positive": 86,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 219990,
+      "name": "Grim Dawn",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 457,
+      "sentiment_positive": 83,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2515020,
+      "name": "FINAL FANTASY XVI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 334,
+      "sentiment_positive": 85,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3679080,
+      "name": "The Seven Deadly Sins: Origin",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3679080/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 442,
+      "sentiment_positive": 87,
+      "tags": [
+        "Hack and Slash",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

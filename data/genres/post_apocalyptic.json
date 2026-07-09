@@ -1,0 +1,392 @@
+{
+  "genre_id": "post_apocalyptic",
+  "genre_name": "Post-apocalyptic",
+  "category": "Theme",
+  "supply_count": 403,
+  "demand_count": 5886,
+  "growth_pct": 11.3,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1766,
+    "youtube": 1766,
+    "tiktok": 883,
+    "steam": 883,
+    "bluesky": 736
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2208
+    },
+    {
+      "month": "Feb",
+      "count": 3511
+    },
+    {
+      "month": "Mar",
+      "count": 3886
+    },
+    {
+      "month": "Apr",
+      "count": 4673
+    },
+    {
+      "month": "May",
+      "count": 6131
+    },
+    {
+      "month": "Jun",
+      "count": 5934
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Lovecraftian",
+    "Adventure",
+    "Atmospheric",
+    "Horror"
+  ],
+  "games": [
+    {
+      "app_id": 1562430,
+      "name": "DREDGE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 518,
+      "sentiment_positive": 86,
+      "tags": [
+        "Exploration",
+        "Fishing",
+        "Lovecraftian",
+        "Open World",
+        "Adventure",
+        "Inventory Management",
+        "Mystery",
+        "Atmospheric",
+        "Psychological Horror",
+        "Horror"
+      ]
+    },
+    {
+      "app_id": 953490,
+      "name": "CARRION",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 237,
+      "sentiment_positive": 89,
+      "tags": [
+        "Gore",
+        "Villain Protagonist",
+        "Pixel Graphics",
+        "Metroidvania",
+        "Action",
+        "Horror",
+        "Indie",
+        "Violent",
+        "2D",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 568220,
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 166,
+      "sentiment_positive": 79,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1940340,
+      "name": "Darkest Dungeon\u00ae II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 52,
+      "sentiment_positive": 92,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1262350,
+      "name": "SIGNALIS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 138,
+      "sentiment_positive": 81,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1620730,
+      "name": "Hell is Us",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1620730/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 250,
+      "sentiment_positive": 88,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 262060,
+      "name": "Darkest Dungeon\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 43,
+      "sentiment_positive": 90,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3052450,
+      "name": "Morimens",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3052450/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 69,
+      "sentiment_positive": 95,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1649240,
+      "name": "Returnal\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 165,
+      "sentiment_positive": 88,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3373660,
+      "name": "Look Outside",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3373660/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 99,
+      "sentiment_positive": 87,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1622910,
+      "name": "Still Wakes the Deep",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1622910/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 28,
+      "sentiment_positive": 80,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2885870,
+      "name": "Strange Antiquities",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2885870/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 187,
+      "sentiment_positive": 79,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1481170,
+      "name": "ZEPHON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1481170/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 140,
+      "sentiment_positive": 86,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1929610,
+      "name": "Demonologist",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 458,
+      "sentiment_positive": 80,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 642280,
+      "name": "Grim Dawn - Ashes of Malmouth Expansion",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/642280/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 313,
+      "sentiment_positive": 90,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 282140,
+      "name": "SOMA",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 511,
+      "sentiment_positive": 82,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3495730,
+      "name": "Lucid Blocks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3495730/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 179,
+      "sentiment_positive": 90,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1587130,
+      "name": "Blood West",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1587130/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 514,
+      "sentiment_positive": 95,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3755860,
+      "name": "BLACK SOULS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3755860/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 233,
+      "sentiment_positive": 90,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3855540,
+      "name": "BLACK SOULS II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855540/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 234,
+      "sentiment_positive": 90,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2103140,
+      "name": "Magicraft",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2103140/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 338,
+      "sentiment_positive": 82,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 698670,
+      "name": "Scorn",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/698670/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 465,
+      "sentiment_positive": 89,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 501300,
+      "name": "What Remains of Edith Finch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 122,
+      "sentiment_positive": 92,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 617290,
+      "name": "Remnant: From the Ashes",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 329,
+      "sentiment_positive": 89,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1574580,
+      "name": "Strange Horticulture",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574580/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 554,
+      "sentiment_positive": 89,
+      "tags": [
+        "Post-apocalyptic",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "genre_id": "local_co_op",
+  "genre_name": "Local Co-Op",
+  "category": "Player Mode",
+  "supply_count": 3430,
+  "demand_count": 8880,
+  "growth_pct": 28.4,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2664,
+    "youtube": 2664,
+    "tiktok": 1332,
+    "steam": 1332,
+    "bluesky": 740
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 3297
+    },
+    {
+      "month": "Feb",
+      "count": 5286
+    },
+    {
+      "month": "Mar",
+      "count": 6672
+    },
+    {
+      "month": "Apr",
+      "count": 7478
+    },
+    {
+      "month": "May",
+      "count": 8922
+    },
+    {
+      "month": "Jun",
+      "count": 8348
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Co-op",
+    "Football (Soccer)",
+    "Multiplayer",
+    "Sports"
+  ],
+  "games": [
+    {
+      "app_id": 3405690,
+      "name": "EA SPORTS FC\u2122 26",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 493,
+      "sentiment_positive": 83,
+      "tags": [
+        "Football (Soccer)",
+        "Multiplayer",
+        "Sports",
+        "Controller",
+        "Simulation",
+        "Singleplayer",
+        "Local Co-Op",
+        "Competitive",
+        "Online Co-Op",
+        "Realistic"
+      ]
+    },
+    {
+      "app_id": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 598,
+      "sentiment_positive": 86,
+      "tags": [
+        "Action Roguelike",
+        "Roguelike",
+        "Indie",
+        "Replay Value",
+        "Difficult",
+        "Pixel Graphics",
+        "Dungeon Crawler",
+        "Great Soundtrack",
+        "Singleplayer",
+        "Dark"
+      ]
+    },
+    {
+      "app_id": 1665460,
+      "name": "eFootball\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 561,
+      "sentiment_positive": 94,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2001120,
+      "name": "Split Fiction",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 552,
+      "sentiment_positive": 80,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3472040,
+      "name": "NBA 2K26",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 312,
+      "sentiment_positive": 89,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4032350,
+      "name": "EA SPORTS\u2122 College Football 27",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 320,
+      "sentiment_positive": 78,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 371970,
+      "name": "Barony",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371970/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 399,
+      "sentiment_positive": 89,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2995920,
+      "name": "It Takes Two Friend's Pass",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2995920/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 317,
+      "sentiment_positive": 81,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426210,
+      "name": "It Takes Two",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 178,
+      "sentiment_positive": 87,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2215200,
+      "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 509,
+      "sentiment_positive": 82,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268910,
+      "name": "Cuphead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 325,
+      "sentiment_positive": 86,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 570660,
+      "name": "The Binding of Isaac: Afterbirth+",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570660/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 390,
+      "sentiment_positive": 89,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 728880,
+      "name": "Overcooked! 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 81,
+      "sentiment_positive": 85,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2129530,
+      "name": "REANIMAL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 190,
+      "sentiment_positive": 86,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 550,
+      "name": "Left 4 Dead 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 271,
+      "sentiment_positive": 94,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2486820,
+      "name": "Sonic Racing: CrossWorlds",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486820/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 132,
+      "sentiment_positive": 94,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2968420,
+      "name": "PowerWash Simulator 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2968420/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 279,
+      "sentiment_positive": 94,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1971870,
+      "name": "Mortal Kombat 1",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 532,
+      "sentiment_positive": 93,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1260320,
+      "name": "Party Animals",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 402,
+      "sentiment_positive": 95,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 880940,
+      "name": "Pummel Party",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 468,
+      "sentiment_positive": 78,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 435150,
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 200,
+      "sentiment_positive": 80,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 291550,
+      "name": "Brawlhalla",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 363,
+      "sentiment_positive": 90,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 477160,
+      "name": "Human Fall Flat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 268,
+      "sentiment_positive": 83,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1244090,
+      "name": "Sea of Stars: Sunset Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 571,
+      "sentiment_positive": 87,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1010822,
+      "name": "Barony: Deserters &amp; Disciples",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1010822/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 202,
+      "sentiment_positive": 82,
+      "tags": [
+        "Local Co-Op",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

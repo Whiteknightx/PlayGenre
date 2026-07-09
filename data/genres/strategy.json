@@ -1,0 +1,385 @@
+{
+  "genre_id": "strategy",
+  "genre_name": "Strategy",
+  "category": "Genre",
+  "supply_count": 585,
+  "demand_count": 5549,
+  "growth_pct": 46.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1665,
+    "youtube": 1665,
+    "tiktok": 832,
+    "steam": 832,
+    "bluesky": 694
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2162
+    },
+    {
+      "month": "Feb",
+      "count": 3198
+    },
+    {
+      "month": "Mar",
+      "count": 3533
+    },
+    {
+      "month": "Apr",
+      "count": 4710
+    },
+    {
+      "month": "May",
+      "count": 5056
+    },
+    {
+      "month": "Jun",
+      "count": 5456
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "FPS",
+    "Shooter",
+    "Multiplayer",
+    "Competitive"
+  ],
+  "games": [
+    {
+      "app_id": 730,
+      "name": "Counter-Strike 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 79,
+      "sentiment_positive": 79,
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Competitive",
+        "Action",
+        "Team-Based",
+        "eSports",
+        "Tactical",
+        "First-Person",
+        "PvP"
+      ]
+    },
+    {
+      "app_id": 570,
+      "name": "Dota 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 234,
+      "sentiment_positive": 78,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 510,
+      "sentiment_positive": 96,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1973530,
+      "name": "Limbus Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 47,
+      "sentiment_positive": 90,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2767030,
+      "name": "Marvel Rivals",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 318,
+      "sentiment_positive": 86,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1086940,
+      "name": "Baldur's Gate 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 588,
+      "sentiment_positive": 84,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 381210,
+      "name": "Dead by Daylight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 582,
+      "sentiment_positive": 93,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 703080,
+      "name": "Planet Zoo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 368,
+      "sentiment_positive": 90,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1142710,
+      "name": "Total War: WARHAMMER III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 544,
+      "sentiment_positive": 84,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 294100,
+      "name": "RimWorld",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 588,
+      "sentiment_positive": 89,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 163,
+      "sentiment_positive": 94,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1158310,
+      "name": "Crusader Kings III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 339,
+      "sentiment_positive": 88,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2161700,
+      "name": "Persona 3 Reload",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 360,
+      "sentiment_positive": 94,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 261550,
+      "name": "Mount &amp; Blade II: Bannerlord",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 241,
+      "sentiment_positive": 78,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 248,
+      "sentiment_positive": 79,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 394360,
+      "name": "Hearts of Iron IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 433,
+      "sentiment_positive": 92,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 281990,
+      "name": "Stellaris",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 150,
+      "sentiment_positive": 89,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3164500,
+      "name": "Schedule I",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 41,
+      "sentiment_positive": 83,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2186680,
+      "name": "Warhammer 40,000: Rogue Trader",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2186680/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 146,
+      "sentiment_positive": 79,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3105440,
+      "name": "Heroes of Might and Magic: Olden Era",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 218,
+      "sentiment_positive": 82,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4032350,
+      "name": "EA SPORTS\u2122 College Football 27",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 410,
+      "sentiment_positive": 83,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 949230,
+      "name": "Cities: Skylines II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 484,
+      "sentiment_positive": 92,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2592160,
+      "name": "Dispatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 38,
+      "sentiment_positive": 96,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2868840,
+      "name": "Slay the Spire 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 178,
+      "sentiment_positive": 90,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 648800,
+      "name": "Raft",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 264,
+      "sentiment_positive": 80,
+      "tags": [
+        "Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

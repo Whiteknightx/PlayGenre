@@ -1,0 +1,392 @@
+{
+  "genre_id": "anime",
+  "genre_name": "Anime",
+  "category": "Theme",
+  "supply_count": 3021,
+  "demand_count": 1222,
+  "growth_pct": 36.8,
+  "opportunity_score": 6.1,
+  "opportunity_class": "High",
+  "heatmap": {
+    "reddit": 367,
+    "youtube": 367,
+    "tiktok": 183,
+    "steam": 183,
+    "bluesky": 153
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 509
+    },
+    {
+      "month": "Feb",
+      "count": 632
+    },
+    {
+      "month": "Mar",
+      "count": 865
+    },
+    {
+      "month": "Apr",
+      "count": 1137
+    },
+    {
+      "month": "May",
+      "count": 1254
+    },
+    {
+      "month": "Jun",
+      "count": 1120
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action",
+    "RPG",
+    "PvE",
+    "Action RPG"
+  ],
+  "games": [
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 416,
+      "sentiment_positive": 83,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1973530,
+      "name": "Limbus Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 117,
+      "sentiment_positive": 81,
+      "tags": [
+        "Story Rich",
+        "Lore-Rich",
+        "Free to Play",
+        "Turn-Based Combat",
+        "Turn-Based Tactics",
+        "Visual Novel",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Strategy",
+        "RPG"
+      ]
+    },
+    {
+      "app_id": 1623730,
+      "name": "Palworld",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 83,
+      "sentiment_positive": 89,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3513350,
+      "name": "Wuthering Waves",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 591,
+      "sentiment_positive": 79,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 544,
+      "sentiment_positive": 92,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1665460,
+      "name": "eFootball\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 215,
+      "sentiment_positive": 86,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 454650,
+      "name": "DRAGON BALL XENOVERSE 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 147,
+      "sentiment_positive": 83,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2161700,
+      "name": "Persona 3 Reload",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 274,
+      "sentiment_positive": 86,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 31,
+      "sentiment_positive": 88,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 96,
+      "sentiment_positive": 86,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 128,
+      "sentiment_positive": 78,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 431960,
+      "name": "Wallpaper Engine",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 296,
+      "sentiment_positive": 85,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 248,
+      "sentiment_positive": 92,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1203220,
+      "name": "NARAKA: BLADEPOINT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 554,
+      "sentiment_positive": 84,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1687950,
+      "name": "Persona 5 Royal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 465,
+      "sentiment_positive": 80,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 286,
+      "sentiment_positive": 90,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3404260,
+      "name": "Dead as Disco",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 278,
+      "sentiment_positive": 96,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4162040,
+      "name": "Zenless Zone Zero",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 460,
+      "sentiment_positive": 79,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 601150,
+      "name": "Devil May Cry 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 137,
+      "sentiment_positive": 85,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2764370,
+      "name": "Starward",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2764370/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 295,
+      "sentiment_positive": 90,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3375780,
+      "name": "Trails in the Sky 1st Chapter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 104,
+      "sentiment_positive": 87,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 129,
+      "sentiment_positive": 84,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1384160,
+      "name": "GUILTY GEAR -STRIVE-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 424,
+      "sentiment_positive": 91,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 438100,
+      "name": "VRChat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 486,
+      "sentiment_positive": 83,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1778820,
+      "name": "TEKKEN 8",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 58,
+      "sentiment_positive": 93,
+      "tags": [
+        "Anime",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

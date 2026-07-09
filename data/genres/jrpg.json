@@ -1,0 +1,392 @@
+{
+  "genre_id": "jrpg",
+  "genre_name": "JRPG",
+  "category": "Subgenre",
+  "supply_count": 2847,
+  "demand_count": 4689,
+  "growth_pct": 17.3,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1407,
+    "youtube": 1407,
+    "tiktok": 703,
+    "steam": 703,
+    "bluesky": 469
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1745
+    },
+    {
+      "month": "Feb",
+      "count": 2526
+    },
+    {
+      "month": "Mar",
+      "count": 3527
+    },
+    {
+      "month": "Apr",
+      "count": 3820
+    },
+    {
+      "month": "May",
+      "count": 4143
+    },
+    {
+      "month": "Jun",
+      "count": 4557
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Anime",
+    "Action RPG",
+    "Online Co-Op",
+    "Action"
+  ],
+  "games": [
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 60,
+      "sentiment_positive": 89,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 547,
+      "sentiment_positive": 95,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Action",
+        "Online Co-Op",
+        "Multiplayer",
+        "RPG",
+        "Fantasy",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 303,
+      "sentiment_positive": 96,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 150,
+      "sentiment_positive": 78,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 426,
+      "sentiment_positive": 88,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2161700,
+      "name": "Persona 3 Reload",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 164,
+      "sentiment_positive": 87,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 233,
+      "sentiment_positive": 86,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 389,
+      "sentiment_positive": 85,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984270/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 234,
+      "sentiment_positive": 90,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 39210,
+      "name": "FINAL FANTASY XIV Online",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 100,
+      "sentiment_positive": 88,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1687950,
+      "name": "Persona 5 Royal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 475,
+      "sentiment_positive": 95,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 263,
+      "sentiment_positive": 91,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 583,
+      "sentiment_positive": 84,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3375780,
+      "name": "Trails in the Sky 1st Chapter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 43,
+      "sentiment_positive": 89,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 582010,
+      "name": "Monster Hunter: World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 126,
+      "sentiment_positive": 93,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2515020,
+      "name": "FINAL FANTASY XVI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 72,
+      "sentiment_positive": 86,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 177,
+      "sentiment_positive": 89,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 524220,
+      "name": "NieR:Automata\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 534,
+      "sentiment_positive": 84,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2852190,
+      "name": "Monster Hunter Stories 3: Twisted Reflection",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2852190/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 48,
+      "sentiment_positive": 92,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4508340,
+      "name": "NTE: Neverness to Everness",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 281,
+      "sentiment_positive": 81,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1004640,
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 263,
+      "sentiment_positive": 92,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1875830,
+      "name": "Shin Megami Tensei V: Vengeance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 292,
+      "sentiment_positive": 81,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3681010,
+      "name": "Nioh 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 497,
+      "sentiment_positive": 90,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2499860,
+      "name": "DRAGON QUEST VII Reimagined",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499860/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 507,
+      "sentiment_positive": 89,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3483510,
+      "name": "The Adventures of Elliot: The Millennium Tales",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3483510/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 432,
+      "sentiment_positive": 89,
+      "tags": [
+        "JRPG",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

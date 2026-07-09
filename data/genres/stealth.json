@@ -1,0 +1,392 @@
+{
+  "genre_id": "stealth",
+  "genre_name": "Stealth",
+  "category": "Mechanic",
+  "supply_count": 2807,
+  "demand_count": 1609,
+  "growth_pct": 41.6,
+  "opportunity_score": 8.6,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 483,
+    "youtube": 483,
+    "tiktok": 241,
+    "steam": 241,
+    "bluesky": 179
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 631
+    },
+    {
+      "month": "Feb",
+      "count": 820
+    },
+    {
+      "month": "Mar",
+      "count": 1091
+    },
+    {
+      "month": "Apr",
+      "count": 1386
+    },
+    {
+      "month": "May",
+      "count": 1490
+    },
+    {
+      "month": "Jun",
+      "count": 1689
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "FPS",
+    "Shooter",
+    "Multiplayer",
+    "Competitive"
+  ],
+  "games": [
+    {
+      "app_id": 730,
+      "name": "Counter-Strike 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 245,
+      "sentiment_positive": 87,
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Competitive",
+        "Action",
+        "Team-Based",
+        "eSports",
+        "Tactical",
+        "First-Person",
+        "PvP"
+      ]
+    },
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 407,
+      "sentiment_positive": 78,
+      "tags": [
+        "Survival",
+        "Shooter",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Third-Person Shooter",
+        "Action",
+        "Online Co-Op",
+        "Tactical"
+      ]
+    },
+    {
+      "app_id": 1172470,
+      "name": "Apex Legends\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 303,
+      "sentiment_positive": 94,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1144200,
+      "name": "Ready or Not",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 563,
+      "sentiment_positive": 88,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3932890,
+      "name": "Escape from Tarkov",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 269,
+      "sentiment_positive": 79,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2807960,
+      "name": "Battlefield\u2122 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 51,
+      "sentiment_positive": 88,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 73,
+      "sentiment_positive": 90,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073850,
+      "name": "THE FINALS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 576,
+      "sentiment_positive": 86,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1142710,
+      "name": "Total War: WARHAMMER III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 185,
+      "sentiment_positive": 88,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440,
+      "name": "Team Fortress 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 385,
+      "sentiment_positive": 78,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 382,
+      "sentiment_positive": 85,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 394360,
+      "name": "Hearts of Iron IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 399,
+      "sentiment_positive": 95,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3105440,
+      "name": "Heroes of Might and Magic: Olden Era",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 578,
+      "sentiment_positive": 91,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1295660,
+      "name": "Sid Meier's Civilization VII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 54,
+      "sentiment_positive": 91,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2507950,
+      "name": "Delta Force",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 496,
+      "sentiment_positive": 84,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073620,
+      "name": "Arena Breakout: Infinite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073620/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 54,
+      "sentiment_positive": 92,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 326,
+      "sentiment_positive": 85,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 202970,
+      "name": "Call of Duty\u00ae: Black Ops II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 534,
+      "sentiment_positive": 88,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1874880,
+      "name": "Arma Reforger",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 385,
+      "sentiment_positive": 81,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 739630,
+      "name": "Phasmophobia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 182,
+      "sentiment_positive": 89,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2141910,
+      "name": "Magic: The Gathering Arena",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 560,
+      "sentiment_positive": 83,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 246620,
+      "name": "Plague Inc: Evolved",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 590,
+      "sentiment_positive": 84,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 813780,
+      "name": "Age of Empires II: Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 40,
+      "sentiment_positive": 93,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 594650,
+      "name": "Hunt: Showdown 1896",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 41,
+      "sentiment_positive": 78,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 686060,
+      "name": "Mewgenics",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 585,
+      "sentiment_positive": 91,
+      "tags": [
+        "Stealth",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "genre_id": "battle_royale",
+  "genre_name": "Battle Royale",
+  "category": "Subgenre",
+  "supply_count": 4029,
+  "demand_count": 4582,
+  "growth_pct": 40.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1375,
+    "youtube": 1375,
+    "tiktok": 687,
+    "steam": 687,
+    "bluesky": 573
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1954
+    },
+    {
+      "month": "Feb",
+      "count": 2268
+    },
+    {
+      "month": "Mar",
+      "count": 3429
+    },
+    {
+      "month": "Apr",
+      "count": 3864
+    },
+    {
+      "month": "May",
+      "count": 3968
+    },
+    {
+      "month": "Jun",
+      "count": 4964
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Survival",
+    "Shooter",
+    "Multiplayer",
+    "FPS"
+  ],
+  "games": [
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 301,
+      "sentiment_positive": 86,
+      "tags": [
+        "Survival",
+        "Shooter",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "PvP",
+        "Third-Person Shooter",
+        "Action",
+        "Online Co-Op",
+        "Tactical"
+      ]
+    },
+    {
+      "app_id": 1172470,
+      "name": "Apex Legends\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 594,
+      "sentiment_positive": 96,
+      "tags": [
+        "Free to Play",
+        "Battle Royale",
+        "Multiplayer",
+        "FPS",
+        "Shooter",
+        "First-Person",
+        "PvP",
+        "Action",
+        "Hero Shooter",
+        "Team-Based"
+      ]
+    },
+    {
+      "app_id": 2807960,
+      "name": "Battlefield\u2122 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 426,
+      "sentiment_positive": 92,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073850,
+      "name": "THE FINALS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 554,
+      "sentiment_positive": 87,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1431300,
+      "name": "SAND: Raiders of Sophie",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1431300/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 501,
+      "sentiment_positive": 81,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1203220,
+      "name": "NARAKA: BLADEPOINT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 24,
+      "sentiment_positive": 93,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 594650,
+      "name": "Hunt: Showdown 1896",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 388,
+      "sentiment_positive": 83,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3028330,
+      "name": "Battlefield\u2122 REDSEC",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3028330/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 532,
+      "sentiment_positive": 81,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1962663,
+      "name": "Call of Duty\u00ae: Warzone\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962663/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 360,
+      "sentiment_positive": 88,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1607250,
+      "name": "MY HERO ULTRA RUMBLE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1607250/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 203,
+      "sentiment_positive": 92,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1289670,
+      "name": "EA Play",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289670/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 259,
+      "sentiment_positive": 79,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2000950,
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 331,
+      "sentiment_positive": 90,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1238810,
+      "name": "Battlefield\u2122 V",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 291,
+      "sentiment_positive": 90,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3199170,
+      "name": "Blood Strike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199170/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 335,
+      "sentiment_positive": 91,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1938090,
+      "name": "Call of Duty\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 150,
+      "sentiment_positive": 92,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2016590,
+      "name": "Dark and Darker",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 546,
+      "sentiment_positive": 96,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3211120,
+      "name": "Dark and Darker - Legendary Status",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3211120/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 506,
+      "sentiment_positive": 89,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2452280,
+      "name": "Mecha BREAK",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2452280/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 51,
+      "sentiment_positive": 83,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2524890,
+      "name": "Pixel Gun 3D: PC Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2524890/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 217,
+      "sentiment_positive": 93,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4719180,
+      "name": "Hunt: Showdown 1896 - Twice a Renegade",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4719180/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 431,
+      "sentiment_positive": 80,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1366800,
+      "name": "Crosshair X",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366800/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 326,
+      "sentiment_positive": 87,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1969870,
+      "name": "Battle Teams 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1969870/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 348,
+      "sentiment_positive": 85,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1812620,
+      "name": "DSX",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812620/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 260,
+      "sentiment_positive": 87,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1677740,
+      "name": "Stumble Guys",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677740/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 286,
+      "sentiment_positive": 91,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1546400,
+      "name": "GigaBash",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546400/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 578,
+      "sentiment_positive": 78,
+      "tags": [
+        "Battle Royale",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

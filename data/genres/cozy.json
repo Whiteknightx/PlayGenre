@@ -3,49 +3,104 @@
   "genre_name": "Cozy",
   "category": "Theme",
   "supply_count": 0,
-  "demand_count": 3822,
-  "growth_pct": 48.9,
+  "demand_count": 9046,
+  "growth_pct": -2.1,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 1529,
-    "youtube": 764,
-    "tiktok": 1147,
-    "steam": 191,
-    "bluesky": 478
+    "reddit": 2714,
+    "youtube": 2714,
+    "tiktok": 1357,
+    "steam": 1357,
+    "bluesky": 754
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 1674
+      "count": 9333
     },
     {
       "month": "Feb",
-      "count": 2379
+      "count": 8207
     },
     {
       "month": "Mar",
-      "count": 3062
+      "count": 7027
     },
     {
       "month": "Apr",
-      "count": 3666
+      "count": 6082
     },
     {
       "month": "May",
-      "count": 3710
+      "count": 5192
     },
     {
       "month": "Jun",
-      "count": 3480
+      "count": 3827
     }
   ],
   "related_network": [
     "Indie",
     "Singleplayer",
-    "Casual",
-    "Strategy",
-    "Physics"
+    "Atmospheric"
   ],
-  "games": []
+  "games": [
+    {
+      "app_id": 292030,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 314,
+      "sentiment_positive": 87,
+      "tags": [
+        "Cozy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 2142790,
+      "name": "Fields of Mistria",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 58,
+      "sentiment_positive": 86,
+      "tags": [
+        "Cozy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1158160,
+      "name": "Coral Island",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 48,
+      "sentiment_positive": 81,
+      "tags": [
+        "Cozy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1458100,
+      "name": "Cozy Grove",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1458100/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 385,
+      "sentiment_positive": 84,
+      "tags": [
+        "Cozy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
 }

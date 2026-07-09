@@ -3,49 +3,104 @@
   "genre_name": "Automation",
   "category": "Mechanic",
   "supply_count": 0,
-  "demand_count": 6280,
-  "growth_pct": 65.3,
+  "demand_count": 6309,
+  "growth_pct": 2.6,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 1884,
-    "youtube": 1884,
-    "tiktok": 942,
-    "steam": 942,
-    "bluesky": 785
+    "reddit": 1893,
+    "youtube": 1893,
+    "tiktok": 946,
+    "steam": 946,
+    "bluesky": 631
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 2438
+      "count": 2750
     },
     {
       "month": "Feb",
-      "count": 3778
+      "count": 3565
     },
     {
       "month": "Mar",
-      "count": 4301
+      "count": 4335
     },
     {
       "month": "Apr",
-      "count": 5762
+      "count": 4995
     },
     {
       "month": "May",
-      "count": 6074
+      "count": 5849
     },
     {
       "month": "Jun",
-      "count": 5655
+      "count": 6742
     }
   ],
   "related_network": [
     "Indie",
     "Singleplayer",
-    "Casual",
-    "Strategy",
-    "Physics"
+    "Atmospheric"
   ],
-  "games": []
+  "games": [
+    {
+      "app_id": 526870,
+      "name": "Satisfactory",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 81,
+      "sentiment_positive": 96,
+      "tags": [
+        "Automation",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 427520,
+      "name": "Factorio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 28,
+      "sentiment_positive": 93,
+      "tags": [
+        "Automation",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1366540,
+      "name": "Dyson Sphere Program",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1366540/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 58,
+      "sentiment_positive": 82,
+      "tags": [
+        "Automation",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 2162800,
+      "name": "Shapez 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2162800/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 104,
+      "sentiment_positive": 89,
+      "tags": [
+        "Automation",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
 }

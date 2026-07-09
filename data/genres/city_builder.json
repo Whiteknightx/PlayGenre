@@ -1,0 +1,392 @@
+{
+  "genre_id": "city_builder",
+  "genre_name": "City Builder",
+  "category": "Subgenre",
+  "supply_count": 672,
+  "demand_count": 6162,
+  "growth_pct": 17.1,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1849,
+    "youtube": 1849,
+    "tiktok": 924,
+    "steam": 924,
+    "bluesky": 685
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2282
+    },
+    {
+      "month": "Feb",
+      "count": 3606
+    },
+    {
+      "month": "Mar",
+      "count": 4218
+    },
+    {
+      "month": "Apr",
+      "count": 5477
+    },
+    {
+      "month": "May",
+      "count": 5720
+    },
+    {
+      "month": "Jun",
+      "count": 6529
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Free to Play",
+    "Turn-Based Tactics",
+    "Great Soundtrack",
+    "Strategy"
+  ],
+  "games": [
+    {
+      "app_id": 1973530,
+      "name": "Limbus Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 150,
+      "sentiment_positive": 81,
+      "tags": [
+        "Story Rich",
+        "Lore-Rich",
+        "Free to Play",
+        "Turn-Based Combat",
+        "Turn-Based Tactics",
+        "Visual Novel",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Strategy",
+        "RPG"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 316,
+      "sentiment_positive": 83,
+      "tags": [
+        "Card Game",
+        "Free to Play",
+        "Strategy",
+        "Trading Card Game",
+        "Multiplayer",
+        "PvP",
+        "Anime",
+        "Card Battler",
+        "Turn-Based Tactics",
+        "Simulation"
+      ]
+    },
+    {
+      "app_id": 1295660,
+      "name": "Sid Meier's Civilization VII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 171,
+      "sentiment_positive": 84,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 86,
+      "sentiment_positive": 78,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 686060,
+      "name": "Mewgenics",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 89,
+      "sentiment_positive": 81,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3375780,
+      "name": "Trails in the Sky 1st Chapter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375780/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 257,
+      "sentiment_positive": 96,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1677280,
+      "name": "Company of Heroes 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 487,
+      "sentiment_positive": 83,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1004640,
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 97,
+      "sentiment_positive": 86,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2426960,
+      "name": "Summoners War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2426960/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 529,
+      "sentiment_positive": 87,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2432860,
+      "name": "MENACE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2432860/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 315,
+      "sentiment_positive": 91,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3447040,
+      "name": "Sora no Kiseki the 1st",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3447040/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 205,
+      "sentiment_positive": 86,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3609080,
+      "name": "StarSavior",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3609080/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 245,
+      "sentiment_positive": 95,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1940340,
+      "name": "Darkest Dungeon\u00ae II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 168,
+      "sentiment_positive": 91,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1876890,
+      "name": "Wandering Sword",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876890/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 80,
+      "sentiment_positive": 96,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 214950,
+      "name": "Total War: ROME II - Emperor Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 239,
+      "sentiment_positive": 87,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2532480,
+      "name": "Warhammer 40,000: Mechanicus II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2532480/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 543,
+      "sentiment_positive": 81,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 489630,
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 346,
+      "sentiment_positive": 84,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3347400,
+      "name": "GIRLS' FRONTLINE 2: EXILIUM",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3347400/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 169,
+      "sentiment_positive": 93,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2377930,
+      "name": "Destiny of Immortal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2377930/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 493,
+      "sentiment_positive": 79,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1932640,
+      "name": "Suikoden I&amp;II HD Remaster Gate Rune and Dunan Unification Wars",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1932640/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 577,
+      "sentiment_positive": 85,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1295500,
+      "name": "Warhammer 40,000: Battlesector",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295500/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 344,
+      "sentiment_positive": 91,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268500,
+      "name": "XCOM\u00ae 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 584,
+      "sentiment_positive": 92,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 365360,
+      "name": "Battle Brothers",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365360/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 385,
+      "sentiment_positive": 82,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2833580,
+      "name": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2833580/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 78,
+      "sentiment_positive": 83,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3009300,
+      "name": "Teamfight Manager 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3009300/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 194,
+      "sentiment_positive": 83,
+      "tags": [
+        "City Builder",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

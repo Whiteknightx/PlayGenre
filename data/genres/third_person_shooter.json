@@ -1,0 +1,92 @@
+{
+  "genre_id": "third_person_shooter",
+  "genre_name": "Third-Person Shooter",
+  "category": "Subgenre",
+  "supply_count": 3750,
+  "demand_count": 2553,
+  "growth_pct": 42.7,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 766,
+    "youtube": 766,
+    "tiktok": 383,
+    "steam": 383,
+    "bluesky": 213
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1045
+    },
+    {
+      "month": "Feb",
+      "count": 1443
+    },
+    {
+      "month": "Mar",
+      "count": 1639
+    },
+    {
+      "month": "Apr",
+      "count": 2259
+    },
+    {
+      "month": "May",
+      "count": 2470
+    },
+    {
+      "month": "Jun",
+      "count": 2689
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 815810,
+      "name": "Third-Person Shooter Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815810/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 334,
+      "sentiment_positive": 81,
+      "tags": [
+        "Third-Person Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1099190,
+      "name": "Third-Person Shooter Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1099190/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 31,
+      "sentiment_positive": 96,
+      "tags": [
+        "Third-Person Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1794810,
+      "name": "Super Third-Person Shooter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794810/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 204,
+      "sentiment_positive": 85,
+      "tags": [
+        "Third-Person Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

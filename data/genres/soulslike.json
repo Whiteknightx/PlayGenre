@@ -1,455 +1,105 @@
 {
   "genre_id": "soulslike",
   "genre_name": "Soulslike",
-  "category": "Genre",
-  "supply_count": 4238,
-  "demand_count": 3300,
-  "growth_pct": 4.8,
+  "category": "Subgenre",
+  "supply_count": 2636,
+  "demand_count": 2886,
+  "growth_pct": 13.8,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 990,
-    "youtube": 990,
-    "tiktok": 495,
-    "steam": 495,
-    "bluesky": 275
+    "reddit": 866,
+    "youtube": 866,
+    "tiktok": 433,
+    "steam": 433,
+    "bluesky": 321
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 1378
+      "count": 1108
     },
     {
       "month": "Feb",
-      "count": 1812
+      "count": 1481
     },
     {
       "month": "Mar",
-      "count": 2353
+      "count": 1873
     },
     {
       "month": "Apr",
-      "count": 3198
+      "count": 2637
     },
     {
       "month": "May",
-      "count": 3352
+      "count": 2813
     },
     {
       "month": "Jun",
-      "count": 2995
+      "count": 2891
     }
   ],
   "related_network": [
-    "Singleplayer",
-    "Adventure",
     "Indie",
-    "3D",
-    "First-Person",
+    "Singleplayer",
     "Atmospheric"
   ],
   "games": [
     {
-      "app_id": 1091500,
-      "name": "Cyberpunk 2077",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
-      "trend_score": 97,
-      "growth_pct": 1625,
-      "sentiment_positive": 80,
-      "tags": [
-        "Cyberpunk",
-        "Open World",
-        "Nudity",
-        "Singleplayer",
-        "RPG",
-        "Story Rich",
-        "Sci-fi",
-        "FPS",
-        "Futuristic",
-        "First-Person",
-        "Atmospheric",
-        "Exploration"
-      ]
-    },
-    {
-      "app_id": 381210,
-      "name": "Dead by Daylight",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 640,
-      "sentiment_positive": 88,
-      "tags": [
-        "Horror",
-        "Multiplayer",
-        "Survival Horror",
-        "Gore",
-        "Online Co-Op",
-        "Co-op",
-        "Survival",
-        "Team-Based",
-        "Third Person",
-        "Stealth",
-        "Violent",
-        "First-Person"
-      ]
-    },
-    {
-      "app_id": 2138330,
-      "name": "Cyberpunk 2077: Phantom Liberty",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 1092,
-      "sentiment_positive": 95,
-      "tags": [
-        "RPG",
-        "Sexual Content",
-        "Open World",
-        "Cyberpunk",
-        "Story Rich",
-        "Nudity",
-        "Singleplayer",
-        "Violent",
-        "Gore",
-        "First-Person",
-        "Character Customization",
-        "Atmospheric"
-      ]
-    },
-    {
-      "app_id": 1144200,
-      "name": "Ready or Not",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 432,
-      "sentiment_positive": 86,
-      "tags": [
-        "Tactical",
-        "Realistic",
-        "FPS",
-        "Shooter",
-        "Multiplayer",
-        "Singleplayer",
-        "Co-op",
-        "Horror",
-        "First-Person",
-        "Action",
-        "Psychological Horror",
-        "Violent"
-      ]
-    },
-    {
-      "app_id": 1361210,
-      "name": "Warhammer 40,000: Darktide",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
-      "trend_score": 82,
-      "growth_pct": 809,
-      "sentiment_positive": 94,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2807960,
-      "name": "Battlefield\u2122 6",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 448,
-      "sentiment_positive": 80,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2050650,
-      "name": "Resident Evil 4",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
-      "trend_score": 96,
-      "growth_pct": 1313,
-      "sentiment_positive": 80,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 814380,
-      "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 1267,
-      "sentiment_positive": 94,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 3764200,
-      "name": "Resident Evil Requiem",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 313,
-      "sentiment_positive": 80,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 553850,
-      "name": "HELLDIVERS\u2122 2",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
-      "trend_score": 73,
-      "growth_pct": 827,
-      "sentiment_positive": 79,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1665460,
-      "name": "eFootball\u2122",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 1475,
-      "sentiment_positive": 82,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 3017860,
-      "name": "DOOM: The Dark Ages",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
-      "trend_score": 96,
-      "growth_pct": 403,
-      "sentiment_positive": 78,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2215430,
-      "name": "Ghost of Tsushima DIRECTOR'S CUT",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 972,
-      "sentiment_positive": 86,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
       "app_id": 1245620,
-      "name": "ELDEN RING",
+      "name": "Elden Ring",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-      "trend_score": 90,
-      "growth_pct": 1582,
-      "sentiment_positive": 82,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1693980,
-      "name": "Dead Space",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
-      "trend_score": 91,
-      "growth_pct": 175,
-      "sentiment_positive": 80,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
-      "trend_score": 81,
-      "growth_pct": 1188,
+      "trend_score": 80,
+      "growth_pct": 145,
       "sentiment_positive": 96,
       "tags": [
         "Soulslike",
         "Indie",
-        "Adventure",
         "Singleplayer",
-        "3D"
+        "Atmospheric"
       ]
     },
     {
-      "app_id": 1659040,
-      "name": "HITMAN World of Assassination",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 1197,
-      "sentiment_positive": 78,
+      "app_id": 1627720,
+      "name": "Lies of P",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 140,
+      "sentiment_positive": 97,
       "tags": [
         "Soulslike",
         "Indie",
-        "Adventure",
         "Singleplayer",
-        "3D"
+        "Atmospheric"
       ]
     },
     {
-      "app_id": 1888930,
-      "name": "The Last of Us\u2122 Part I",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
-      "trend_score": 77,
-      "growth_pct": 1588,
-      "sentiment_positive": 81,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1593500,
-      "name": "God of War",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
-      "trend_score": 91,
-      "growth_pct": 1034,
-      "sentiment_positive": 79,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1222140,
-      "name": "Detroit: Become Human",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-      "trend_score": 70,
-      "growth_pct": 253,
-      "sentiment_positive": 79,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1203220,
-      "name": "NARAKA: BLADEPOINT",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
-      "trend_score": 95,
-      "growth_pct": 1316,
+      "app_id": 814380,
+      "name": "Sekiro: Shadows Die Twice",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 132,
       "sentiment_positive": 92,
       "tags": [
         "Soulslike",
         "Indie",
-        "Adventure",
         "Singleplayer",
-        "3D"
+        "Atmospheric"
       ]
     },
     {
-      "app_id": 3008130,
-      "name": "Dying Light: The Beast",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 68,
-      "sentiment_positive": 83,
+      "app_id": 379720,
+      "name": "Dark Souls III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 99,
+      "sentiment_positive": 94,
       "tags": [
         "Soulslike",
         "Indie",
-        "Adventure",
         "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 1687950,
-      "name": "Persona 5 Royal",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
-      "trend_score": 82,
-      "growth_pct": 649,
-      "sentiment_positive": 91,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 3159330,
-      "name": "Assassin\u2019s Creed Shadows",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 452,
-      "sentiment_positive": 87,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 3280350,
-      "name": "DEATH STRANDING 2: ON THE BEACH",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 81,
-      "sentiment_positive": 88,
-      "tags": [
-        "Soulslike",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Atmospheric"
       ]
     }
   ]

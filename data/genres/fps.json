@@ -1,0 +1,392 @@
+{
+  "genre_id": "fps",
+  "genre_name": "FPS",
+  "category": "Subgenre",
+  "supply_count": 1147,
+  "demand_count": 7226,
+  "growth_pct": 1.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2168,
+    "youtube": 2168,
+    "tiktok": 1084,
+    "steam": 1084,
+    "bluesky": 657
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2819
+    },
+    {
+      "month": "Feb",
+      "count": 3808
+    },
+    {
+      "month": "Mar",
+      "count": 4887
+    },
+    {
+      "month": "Apr",
+      "count": 6564
+    },
+    {
+      "month": "May",
+      "count": 6468
+    },
+    {
+      "month": "Jun",
+      "count": 7698
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action",
+    "First-Person",
+    "Shooter",
+    "Multiplayer"
+  ],
+  "games": [
+    {
+      "app_id": 730,
+      "name": "Counter-Strike 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 236,
+      "sentiment_positive": 90,
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Competitive",
+        "Action",
+        "Team-Based",
+        "eSports",
+        "Tactical",
+        "First-Person",
+        "PvP"
+      ]
+    },
+    {
+      "app_id": 1091500,
+      "name": "Cyberpunk 2077",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 276,
+      "sentiment_positive": 95,
+      "tags": [
+        "Cyberpunk",
+        "Open World",
+        "Nudity",
+        "Singleplayer",
+        "RPG",
+        "Story Rich",
+        "Sci-fi",
+        "FPS",
+        "Futuristic",
+        "First-Person"
+      ]
+    },
+    {
+      "app_id": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 143,
+      "sentiment_positive": 78,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1172470,
+      "name": "Apex Legends\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 474,
+      "sentiment_positive": 83,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1174180,
+      "name": "Red Dead Redemption 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 442,
+      "sentiment_positive": 86,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2138330,
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 277,
+      "sentiment_positive": 85,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 252490,
+      "name": "Rust",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 177,
+      "sentiment_positive": 78,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1144200,
+      "name": "Ready or Not",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 379,
+      "sentiment_positive": 79,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2767030,
+      "name": "Marvel Rivals",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 336,
+      "sentiment_positive": 84,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2807960,
+      "name": "Battlefield\u2122 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 368,
+      "sentiment_positive": 89,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3932890,
+      "name": "Escape from Tarkov",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 282,
+      "sentiment_positive": 91,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1085660,
+      "name": "Destiny 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 42,
+      "sentiment_positive": 92,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1361210,
+      "name": "Warhammer 40,000: Darktide",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 443,
+      "sentiment_positive": 96,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3017860,
+      "name": "DOOM: The Dark Ages",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 66,
+      "sentiment_positive": 79,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3764200,
+      "name": "Resident Evil Requiem",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 312,
+      "sentiment_positive": 80,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440,
+      "name": "Team Fortress 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 338,
+      "sentiment_positive": 83,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073850,
+      "name": "THE FINALS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 534,
+      "sentiment_positive": 95,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 57,
+      "sentiment_positive": 80,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1285190,
+      "name": "Borderlands 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 32,
+      "sentiment_positive": 82,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 311210,
+      "name": "Call of Duty\u00ae: Black Ops III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 46,
+      "sentiment_positive": 79,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3164500,
+      "name": "Schedule I",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 317,
+      "sentiment_positive": 91,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1431300,
+      "name": "SAND: Raiders of Sophie",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1431300/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 534,
+      "sentiment_positive": 85,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 202970,
+      "name": "Call of Duty\u00ae: Black Ops II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 527,
+      "sentiment_positive": 96,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2507950,
+      "name": "Delta Force",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 362,
+      "sentiment_positive": 93,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1172620,
+      "name": "Sea of Thieves: 2026 Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 373,
+      "sentiment_positive": 93,
+      "tags": [
+        "FPS",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

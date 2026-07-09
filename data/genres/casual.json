@@ -1,0 +1,392 @@
+{
+  "genre_id": "casual",
+  "genre_name": "Casual",
+  "category": "Genre",
+  "supply_count": 3288,
+  "demand_count": 2009,
+  "growth_pct": 53.9,
+  "opportunity_score": 9.2,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 603,
+    "youtube": 603,
+    "tiktok": 301,
+    "steam": 301,
+    "bluesky": 183
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 883
+    },
+    {
+      "month": "Feb",
+      "count": 1018
+    },
+    {
+      "month": "Mar",
+      "count": 1337
+    },
+    {
+      "month": "Apr",
+      "count": 1855
+    },
+    {
+      "month": "May",
+      "count": 1959
+    },
+    {
+      "month": "Jun",
+      "count": 2021
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Multiplayer",
+    "Controller",
+    "Realistic",
+    "Party Game"
+  ],
+  "games": [
+    {
+      "app_id": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 196,
+      "sentiment_positive": 91,
+      "tags": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ]
+    },
+    {
+      "app_id": 227300,
+      "name": "Euro Truck Simulator 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 255,
+      "sentiment_positive": 90,
+      "tags": [
+        "Driving",
+        "Transportation",
+        "Simulation",
+        "Open World",
+        "Automobile Sim",
+        "Realistic",
+        "Moddable",
+        "Relaxing",
+        "Exploration",
+        "Economy"
+      ]
+    },
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 51,
+      "sentiment_positive": 86,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1118520,
+      "name": "Paralives",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118520/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 517,
+      "sentiment_positive": 79,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 703080,
+      "name": "Planet Zoo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 291,
+      "sentiment_positive": 93,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 291,
+      "sentiment_positive": 87,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1962700,
+      "name": "Subnautica 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 138,
+      "sentiment_positive": 87,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1943950,
+      "name": "Escape the Backrooms",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 476,
+      "sentiment_positive": 80,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 454650,
+      "name": "DRAGON BALL XENOVERSE 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 517,
+      "sentiment_positive": 78,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1401590,
+      "name": "Disney Dreamlight Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 321,
+      "sentiment_positive": 85,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222670,
+      "name": "The Sims\u2122 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 421,
+      "sentiment_positive": 91,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2209900,
+      "name": "Moonlight Peaks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2209900/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 550,
+      "sentiment_positive": 94,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 270880,
+      "name": "American Truck Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/270880/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 489,
+      "sentiment_positive": 85,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 949230,
+      "name": "Cities: Skylines II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 489,
+      "sentiment_positive": 92,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3949040,
+      "name": "RV There Yet?",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 490,
+      "sentiment_positive": 93,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 385,
+      "sentiment_positive": 79,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2357570,
+      "name": "Overwatch\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 312,
+      "sentiment_positive": 80,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2141730,
+      "name": "Backrooms: Escape Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 334,
+      "sentiment_positive": 85,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2215200,
+      "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215200/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 583,
+      "sentiment_positive": 80,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 246620,
+      "name": "Plague Inc: Evolved",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 336,
+      "sentiment_positive": 83,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2185060,
+      "name": "Two Point Museum",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2185060/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 355,
+      "sentiment_positive": 84,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4162040,
+      "name": "Zenless Zone Zero",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 386,
+      "sentiment_positive": 94,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1190970,
+      "name": "House Flipper 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 103,
+      "sentiment_positive": 88,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 286160,
+      "name": "Tabletop Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 35,
+      "sentiment_positive": 78,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1384160,
+      "name": "GUILTY GEAR -STRIVE-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 254,
+      "sentiment_positive": 93,
+      "tags": [
+        "Casual",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

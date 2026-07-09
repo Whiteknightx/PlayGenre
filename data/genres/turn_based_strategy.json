@@ -1,0 +1,92 @@
+{
+  "genre_id": "turn_based_strategy",
+  "genre_name": "Turn-Based Strategy",
+  "category": "Subgenre",
+  "supply_count": 3458,
+  "demand_count": 2062,
+  "growth_pct": 19.4,
+  "opportunity_score": 8.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 619,
+    "youtube": 619,
+    "tiktok": 309,
+    "steam": 309,
+    "bluesky": 258
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 869
+    },
+    {
+      "month": "Feb",
+      "count": 1086
+    },
+    {
+      "month": "Mar",
+      "count": 1466
+    },
+    {
+      "month": "Apr",
+      "count": 1689
+    },
+    {
+      "month": "May",
+      "count": 1782
+    },
+    {
+      "month": "Jun",
+      "count": 2194
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 1435358,
+      "name": "Turn-Based Strategy Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1435358/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 201,
+      "sentiment_positive": 85,
+      "tags": [
+        "Turn-Based Strategy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 362814,
+      "name": "Turn-Based Strategy Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/362814/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 380,
+      "sentiment_positive": 87,
+      "tags": [
+        "Turn-Based Strategy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1321481,
+      "name": "Super Turn-Based Strategy",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1321481/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 244,
+      "sentiment_positive": 88,
+      "tags": [
+        "Turn-Based Strategy",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

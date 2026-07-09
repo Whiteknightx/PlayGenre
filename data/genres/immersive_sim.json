@@ -1,61 +1,61 @@
 {
   "genre_id": "immersive_sim",
   "genre_name": "Immersive Sim",
-  "category": "Genre",
-  "supply_count": 2015,
-  "demand_count": 3886,
-  "growth_pct": 42.7,
+  "category": "Subgenre",
+  "supply_count": 4210,
+  "demand_count": 3029,
+  "growth_pct": 45.8,
   "opportunity_score": 9.9,
   "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 1166,
-    "youtube": 1166,
-    "tiktok": 583,
-    "steam": 583,
-    "bluesky": 486
+    "reddit": 909,
+    "youtube": 909,
+    "tiktok": 454,
+    "steam": 454,
+    "bluesky": 303
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 1534
+      "count": 1095
     },
     {
       "month": "Feb",
-      "count": 2124
+      "count": 1534
     },
     {
       "month": "Mar",
-      "count": 2820
+      "count": 2262
     },
     {
       "month": "Apr",
-      "count": 3812
+      "count": 2386
     },
     {
       "month": "May",
-      "count": 3723
+      "count": 2654
     },
     {
       "month": "Jun",
-      "count": 4078
+      "count": 2832
     }
   ],
   "related_network": [
     "Singleplayer",
-    "3D",
     "Indie",
-    "Adventure",
     "Card Game",
-    "Strategy"
+    "Free to Play",
+    "Strategy",
+    "Trading Card Game"
   ],
   "games": [
     {
       "app_id": 1449850,
       "name": "Yu-Gi-Oh! Master Duel",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
-      "trend_score": 94,
-      "growth_pct": 830,
-      "sentiment_positive": 80,
+      "trend_score": 79,
+      "growth_pct": 259,
+      "sentiment_positive": 87,
       "tags": [
         "Card Game",
         "Free to Play",
@@ -66,18 +66,16 @@
         "Anime",
         "Card Battler",
         "Turn-Based Tactics",
-        "Simulation",
-        "Tactical",
-        "Singleplayer"
+        "Simulation"
       ]
     },
     {
       "app_id": 2141910,
       "name": "Magic: The Gathering Arena",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
-      "trend_score": 96,
-      "growth_pct": 1385,
-      "sentiment_positive": 80,
+      "trend_score": 76,
+      "growth_pct": 359,
+      "sentiment_positive": 95,
       "tags": [
         "Strategy",
         "Card Game",
@@ -88,308 +86,254 @@
         "Multiplayer",
         "Turn-Based Strategy",
         "Fantasy",
-        "Magic",
-        "eSports",
-        "Tactical"
+        "Magic"
       ]
     },
     {
       "app_id": 286160,
       "name": "Tabletop Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 1788,
-      "sentiment_positive": 94,
+      "trend_score": 84,
+      "growth_pct": 398,
+      "sentiment_positive": 84,
       "tags": [
-        "Tabletop",
-        "Board Game",
-        "Simulation",
-        "Multiplayer",
-        "Sandbox",
-        "Card Game",
-        "VR",
-        "Trading Card Game",
-        "Moddable",
-        "Physics",
-        "Strategy",
-        "Online Co-Op"
+        "Immersive Sim",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2584990,
       "name": "Shadowverse: Worlds Beyond",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2584990/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 1250,
-      "sentiment_positive": 84,
+      "trend_score": 94,
+      "growth_pct": 210,
+      "sentiment_positive": 95,
       "tags": [
-        "Free to Play",
-        "Card Battler",
-        "Trading Card Game",
-        "Deckbuilding",
-        "PvP",
-        "Competitive",
-        "Strategy",
-        "Turn-Based",
-        "Card Game",
-        "Sexual Content",
-        "Character Customization",
-        "Multiplayer"
+        "Immersive Sim",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3070070,
       "name": "TCG Card Shop Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 1739,
-      "sentiment_positive": 91,
+      "trend_score": 80,
+      "growth_pct": 387,
+      "sentiment_positive": 78,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 4045750,
       "name": "Out of the Park Baseball 27",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045750/header.jpg",
-      "trend_score": 76,
-      "growth_pct": 1346,
-      "sentiment_positive": 93,
+      "trend_score": 70,
+      "growth_pct": 557,
+      "sentiment_positive": 80,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 544810,
       "name": "KARDS - The WW2 Card Game",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544810/header.jpg",
-      "trend_score": 73,
-      "growth_pct": 1085,
-      "sentiment_positive": 81,
+      "trend_score": 79,
+      "growth_pct": 299,
+      "sentiment_positive": 79,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1997040,
       "name": "MARVEL SNAP",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1997040/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 95,
-      "sentiment_positive": 88,
+      "trend_score": 72,
+      "growth_pct": 101,
+      "sentiment_positive": 87,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 601510,
       "name": "Yu-Gi-Oh! Duel Links",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/header.jpg",
-      "trend_score": 96,
-      "growth_pct": 1098,
-      "sentiment_positive": 94,
+      "trend_score": 82,
+      "growth_pct": 404,
+      "sentiment_positive": 87,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3013550,
       "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3013550/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 1209,
-      "sentiment_positive": 79,
+      "trend_score": 95,
+      "growth_pct": 280,
+      "sentiment_positive": 88,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1367550,
       "name": "Kingdom Rush Vengeance - Tower Defense",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1367550/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 141,
-      "sentiment_positive": 82,
+      "trend_score": 93,
+      "growth_pct": 319,
+      "sentiment_positive": 95,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2842800,
       "name": "Dream of Corpse Lady",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2842800/header.jpg",
-      "trend_score": 74,
-      "growth_pct": 675,
+      "trend_score": 79,
+      "growth_pct": 181,
       "sentiment_positive": 83,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1150640,
       "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150640/header.jpg",
-      "trend_score": 84,
-      "growth_pct": 799,
-      "sentiment_positive": 91,
+      "trend_score": 72,
+      "growth_pct": 112,
+      "sentiment_positive": 79,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3569500,
       "name": "Card Shop Simulator Multiplayer",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3569500/header.jpg",
-      "trend_score": 73,
-      "growth_pct": 313,
-      "sentiment_positive": 91,
+      "trend_score": 81,
+      "growth_pct": 76,
+      "sentiment_positive": 92,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2674290,
       "name": "Kings Call",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2674290/header.jpg",
-      "trend_score": 77,
-      "growth_pct": 197,
-      "sentiment_positive": 96,
+      "trend_score": 74,
+      "growth_pct": 369,
+      "sentiment_positive": 81,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1163550,
       "name": "Captain Tsubasa: Rise of New Champions",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163550/header.jpg",
-      "trend_score": 74,
-      "growth_pct": 491,
-      "sentiment_positive": 90,
+      "trend_score": 96,
+      "growth_pct": 544,
+      "sentiment_positive": 81,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3918850,
       "name": "Might &amp; Magic Fates - Heroes TCG",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3918850/header.jpg",
-      "trend_score": 95,
-      "growth_pct": 429,
+      "trend_score": 90,
+      "growth_pct": 112,
       "sentiment_positive": 87,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 4157170,
       "name": "Sports Card Shop Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4157170/header.jpg",
-      "trend_score": 86,
-      "growth_pct": 1719,
-      "sentiment_positive": 96,
+      "trend_score": 97,
+      "growth_pct": 221,
+      "sentiment_positive": 91,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3868310,
       "name": "My Wife Threw Out My Card Collection (So I Bought a Dump to Find Them All) \u2b50",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3868310/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 1466,
-      "sentiment_positive": 82,
+      "trend_score": 89,
+      "growth_pct": 25,
+      "sentiment_positive": 87,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2457540,
       "name": "Cardfight!! Vanguard Dear Days 2",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2457540/header.jpg",
-      "trend_score": 97,
-      "growth_pct": 1715,
-      "sentiment_positive": 78,
+      "trend_score": 83,
+      "growth_pct": 299,
+      "sentiment_positive": 93,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1284410,
       "name": "GWENT: The Witcher Card Game",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284410/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 63,
+      "trend_score": 87,
+      "growth_pct": 337,
       "sentiment_positive": 81,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
@@ -397,59 +341,51 @@
       "name": "Cardfight!! Vanguard Dear Days",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1881420/header.jpg",
       "trend_score": 80,
-      "growth_pct": 515,
-      "sentiment_positive": 82,
+      "growth_pct": 223,
+      "sentiment_positive": 78,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3453600,
       "name": "Supercar Collection Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3453600/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 1111,
-      "sentiment_positive": 89,
+      "trend_score": 81,
+      "growth_pct": 564,
+      "sentiment_positive": 87,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 4221310,
       "name": "Chrono CCG",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4221310/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 117,
-      "sentiment_positive": 81,
+      "trend_score": 92,
+      "growth_pct": 565,
+      "sentiment_positive": 84,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3547880,
       "name": "FeeBay Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3547880/header.jpg",
-      "trend_score": 74,
-      "growth_pct": 796,
+      "trend_score": 88,
+      "growth_pct": 477,
       "sentiment_positive": 95,
       "tags": [
         "Immersive Sim",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     }
   ]

@@ -1,0 +1,392 @@
+{
+  "genre_id": "hidden_object",
+  "genre_name": "Hidden Object",
+  "category": "Mechanic",
+  "supply_count": 3735,
+  "demand_count": 6200,
+  "growth_pct": 21.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1860,
+    "youtube": 1860,
+    "tiktok": 930,
+    "steam": 930,
+    "bluesky": 689
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2567
+    },
+    {
+      "month": "Feb",
+      "count": 3184
+    },
+    {
+      "month": "Mar",
+      "count": 4064
+    },
+    {
+      "month": "Apr",
+      "count": 5123
+    },
+    {
+      "month": "May",
+      "count": 5842
+    },
+    {
+      "month": "Jun",
+      "count": 5827
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Multiplayer",
+    "Online Co-Op",
+    "Voxel",
+    "Sandbox"
+  ],
+  "games": [
+    {
+      "app_id": 251570,
+      "name": "7 Days to Die",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 391,
+      "sentiment_positive": 91,
+      "tags": [
+        "Survival",
+        "Zombies",
+        "Multiplayer",
+        "Open World",
+        "Open World Survival Craft",
+        "Base Building",
+        "Post-apocalyptic",
+        "Online Co-Op",
+        "Voxel",
+        "Building"
+      ]
+    },
+    {
+      "app_id": 1167630,
+      "name": "Teardown",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1167630/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 550,
+      "sentiment_positive": 82,
+      "tags": [
+        "Destruction",
+        "Physics",
+        "Sandbox",
+        "Voxel",
+        "Multiplayer",
+        "Singleplayer",
+        "Heist",
+        "Indie",
+        "First-Person",
+        "Replay Value"
+      ]
+    },
+    {
+      "app_id": 1062090,
+      "name": "Timberborn",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1062090/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 361,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1672970,
+      "name": "Minecraft Dungeons",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 344,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3115220,
+      "name": "Town to City",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3115220/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 247,
+      "sentiment_positive": 81,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 337320,
+      "name": "Paint the Town Red",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337320/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 39,
+      "sentiment_positive": 81,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1029780,
+      "name": "Going Medieval",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029780/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 336,
+      "sentiment_positive": 92,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3495730,
+      "name": "Lucid Blocks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3495730/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 261,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1072420,
+      "name": "DRAGON QUEST BUILDERS\u2122 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1072420/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 550,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 983870,
+      "name": "FOUNDRY",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/983870/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 323,
+      "sentiment_positive": 83,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 986130,
+      "name": "Shadows of Doubt",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/986130/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 271,
+      "sentiment_positive": 89,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 304050,
+      "name": "Trove",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304050/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 570,
+      "sentiment_positive": 86,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 597170,
+      "name": "Clone Drone in the Danger Zone",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597170/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 129,
+      "sentiment_positive": 86,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2524890,
+      "name": "Pixel Gun 3D: PC Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2524890/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 524,
+      "sentiment_positive": 94,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4767590,
+      "name": "Beachwear Armor Set",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4767590/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 115,
+      "sentiment_positive": 83,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1836730,
+      "name": "Echo Point Nova",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1836730/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 591,
+      "sentiment_positive": 90,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3976500,
+      "name": "The Spotter: Dig or Die",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3976500/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 549,
+      "sentiment_positive": 81,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2776090,
+      "name": "Lay of the Land",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2776090/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 474,
+      "sentiment_positive": 93,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1016920,
+      "name": "Unrailed!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 589,
+      "sentiment_positive": 96,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 445220,
+      "name": "Avorion",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/445220/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 597,
+      "sentiment_positive": 92,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1937500,
+      "name": "Let's School",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1937500/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 368,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 746850,
+      "name": "Cloudpunk",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/746850/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 599,
+      "sentiment_positive": 84,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2454960,
+      "name": "The Great Villainess: Strategy of Lily",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2454960/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 423,
+      "sentiment_positive": 79,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3244220,
+      "name": "A Game About Digging A Hole\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3244220/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 185,
+      "sentiment_positive": 88,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2436570,
+      "name": "DRAGON QUEST BUILDERS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2436570/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 352,
+      "sentiment_positive": 85,
+      "tags": [
+        "Hidden Object",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

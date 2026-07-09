@@ -1,0 +1,392 @@
+{
+  "genre_id": "life_sim",
+  "genre_name": "Life Sim",
+  "category": "Subgenre",
+  "supply_count": 1807,
+  "demand_count": 1526,
+  "growth_pct": 31.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 458,
+    "youtube": 458,
+    "tiktok": 229,
+    "steam": 229,
+    "bluesky": 191
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 634
+    },
+    {
+      "month": "Feb",
+      "count": 758
+    },
+    {
+      "month": "Mar",
+      "count": 1011
+    },
+    {
+      "month": "Apr",
+      "count": 1325
+    },
+    {
+      "month": "May",
+      "count": 1378
+    },
+    {
+      "month": "Jun",
+      "count": 1393
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Relaxing",
+    "Simulation",
+    "Sandbox",
+    "Building"
+  ],
+  "games": [
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 245,
+      "sentiment_positive": 96,
+      "tags": [
+        "Farming Sim",
+        "Pixel Graphics",
+        "Multiplayer",
+        "Life Sim",
+        "RPG",
+        "Relaxing",
+        "Simulation",
+        "Agriculture",
+        "Crafting",
+        "Indie"
+      ]
+    },
+    {
+      "app_id": 1118520,
+      "name": "Paralives",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118520/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 338,
+      "sentiment_positive": 92,
+      "tags": [
+        "Life Sim",
+        "Character Customization",
+        "Simulation",
+        "Building",
+        "Indie",
+        "Open World",
+        "Singleplayer",
+        "LGBTQ+",
+        "Sandbox",
+        "Relaxing"
+      ]
+    },
+    {
+      "app_id": 1158310,
+      "name": "Crusader Kings III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 153,
+      "sentiment_positive": 86,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1401590,
+      "name": "Disney Dreamlight Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 37,
+      "sentiment_positive": 89,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222670,
+      "name": "The Sims\u2122 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 39,
+      "sentiment_positive": 92,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2209900,
+      "name": "Moonlight Peaks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2209900/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 191,
+      "sentiment_positive": 94,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4380490,
+      "name": "Cat Mail Co.",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4380490/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 100,
+      "sentiment_positive": 82,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2185060,
+      "name": "Two Point Museum",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2185060/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 101,
+      "sentiment_positive": 94,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4025700,
+      "name": "Heartopia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4025700/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 579,
+      "sentiment_positive": 94,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2707930,
+      "name": "Palia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707930/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 149,
+      "sentiment_positive": 88,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4508340,
+      "name": "NTE: Neverness to Everness",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 211,
+      "sentiment_positive": 91,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2670630,
+      "name": "Supermarket Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 571,
+      "sentiment_positive": 88,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1812450,
+      "name": "Bellwright",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 45,
+      "sentiment_positive": 83,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2456740,
+      "name": "inZOI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 43,
+      "sentiment_positive": 80,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2495100,
+      "name": "Hello Kitty Island Adventure",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2495100/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 348,
+      "sentiment_positive": 79,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2142790,
+      "name": "Fields of Mistria",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 336,
+      "sentiment_positive": 95,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1040200,
+      "name": "Crime Scene Cleaner",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 466,
+      "sentiment_positive": 88,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3419520,
+      "name": "Quarantine Zone: The Last Check",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419520/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 218,
+      "sentiment_positive": 96,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3643170,
+      "name": "Roadside Research",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3643170/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 35,
+      "sentiment_positive": 78,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3164330,
+      "name": "Infinity Nikki",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164330/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 25,
+      "sentiment_positive": 85,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4128580,
+      "name": "BidKing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4128580/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 545,
+      "sentiment_positive": 81,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1158160,
+      "name": "Coral Island",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 350,
+      "sentiment_positive": 84,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3070070,
+      "name": "TCG Card Shop Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 446,
+      "sentiment_positive": 83,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2904040,
+      "name": "Cheap Car Repair",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904040/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 353,
+      "sentiment_positive": 88,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3562120,
+      "name": "Magical Princess",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3562120/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 301,
+      "sentiment_positive": 83,
+      "tags": [
+        "Life Sim",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

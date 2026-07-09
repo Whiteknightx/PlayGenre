@@ -1,0 +1,374 @@
+{
+  "genre_id": "roguelike",
+  "genre_name": "Roguelike",
+  "category": "Subgenre",
+  "supply_count": 2567,
+  "demand_count": 5929,
+  "growth_pct": 51.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1779,
+    "youtube": 1779,
+    "tiktok": 889,
+    "steam": 889,
+    "bluesky": 593
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2235
+    },
+    {
+      "month": "Feb",
+      "count": 3243
+    },
+    {
+      "month": "Mar",
+      "count": 3968
+    },
+    {
+      "month": "Apr",
+      "count": 5289
+    },
+    {
+      "month": "May",
+      "count": 5088
+    },
+    {
+      "month": "Jun",
+      "count": 5449
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer"
+  ],
+  "games": [
+    {
+      "app_id": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 216,
+      "sentiment_positive": 85,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 269,
+      "sentiment_positive": 80,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 371970,
+      "name": "Barony",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371970/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 280,
+      "sentiment_positive": 78,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 632360,
+      "name": "Risk of Rain 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 342,
+      "sentiment_positive": 86,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2868840,
+      "name": "Slay the Spire 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 476,
+      "sentiment_positive": 87,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426300,
+      "name": "The Binding of Isaac: Repentance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 53,
+      "sentiment_positive": 87,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145350,
+      "name": "Hades II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 488,
+      "sentiment_positive": 81,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 401920,
+      "name": "The Binding of Isaac: Afterbirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/401920/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 306,
+      "sentiment_positive": 82,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 322330,
+      "name": "Don't Starve Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 207,
+      "sentiment_positive": 78,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 570660,
+      "name": "The Binding of Isaac: Afterbirth+",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570660/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 388,
+      "sentiment_positive": 85,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145360,
+      "name": "Hades",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 430,
+      "sentiment_positive": 90,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3156770,
+      "name": "Witchfire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156770/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 402,
+      "sentiment_positive": 82,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2379780,
+      "name": "Balatro",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 107,
+      "sentiment_positive": 83,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2605790,
+      "name": "Deep Rock Galactic: Rogue Core",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2605790/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 595,
+      "sentiment_positive": 82,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 588650,
+      "name": "Dead Cells",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 139,
+      "sentiment_positive": 91,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3948120,
+      "name": "Scritchy Scratchy",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3948120/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 583,
+      "sentiment_positive": 87,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1569580,
+      "name": "Blue Prince",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 67,
+      "sentiment_positive": 95,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2781620,
+      "name": "Risk of Rain 2: Alloyed Collective",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2781620/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 450,
+      "sentiment_positive": 81,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4244510,
+      "name": "Pratfall",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244510/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 67,
+      "sentiment_positive": 81,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3526710,
+      "name": "Everything is Crab: The Animal Evolution Roguelite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3526710/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 510,
+      "sentiment_positive": 90,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 646570,
+      "name": "Slay the Spire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 202,
+      "sentiment_positive": 83,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3265700,
+      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 244,
+      "sentiment_positive": 93,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3784030,
+      "name": "RACCOIN: Coin Pusher Roguelike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3784030/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 409,
+      "sentiment_positive": 91,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3405340,
+      "name": "Megabonk",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405340/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 179,
+      "sentiment_positive": 86,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1010822,
+      "name": "Barony: Deserters &amp; Disciples",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1010822/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 452,
+      "sentiment_positive": 78,
+      "tags": [
+        "Roguelike",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

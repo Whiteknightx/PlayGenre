@@ -1,0 +1,383 @@
+{
+  "genre_id": "indie",
+  "genre_name": "Indie",
+  "category": "Genre",
+  "supply_count": 606,
+  "demand_count": 4009,
+  "growth_pct": 4.6,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1203,
+    "youtube": 1203,
+    "tiktok": 601,
+    "steam": 601,
+    "bluesky": 401
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1519
+    },
+    {
+      "month": "Feb",
+      "count": 2400
+    },
+    {
+      "month": "Mar",
+      "count": 2964
+    },
+    {
+      "month": "Apr",
+      "count": 3726
+    },
+    {
+      "month": "May",
+      "count": 3518
+    },
+    {
+      "month": "Jun",
+      "count": 3756
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Multiplayer",
+    "Casual",
+    "Party Game",
+    "Hidden Object",
+    "Funny"
+  ],
+  "games": [
+    {
+      "app_id": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 279,
+      "sentiment_positive": 90,
+      "tags": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ]
+    },
+    {
+      "app_id": 1623730,
+      "name": "Palworld",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 306,
+      "sentiment_positive": 90,
+      "tags": [
+        "Early Access"
+      ]
+    },
+    {
+      "app_id": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 372,
+      "sentiment_positive": 90,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 252490,
+      "name": "Rust",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 534,
+      "sentiment_positive": 79,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 227300,
+      "name": "Euro Truck Simulator 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 324,
+      "sentiment_positive": 81,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 413150,
+      "name": "Stardew Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 548,
+      "sentiment_positive": 95,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1118520,
+      "name": "Paralives",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1118520/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 372,
+      "sentiment_positive": 93,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 294100,
+      "name": "RimWorld",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 344,
+      "sentiment_positive": 93,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 46,
+      "sentiment_positive": 91,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 254,
+      "sentiment_positive": 80,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1943950,
+      "name": "Escape the Backrooms",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 243,
+      "sentiment_positive": 95,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3164500,
+      "name": "Schedule I",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 199,
+      "sentiment_positive": 93,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 371970,
+      "name": "Barony",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371970/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 331,
+      "sentiment_positive": 91,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 648800,
+      "name": "Raft",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 373,
+      "sentiment_positive": 87,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 264710,
+      "name": "Subnautica",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 596,
+      "sentiment_positive": 80,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 312520,
+      "name": "Rain World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 293,
+      "sentiment_positive": 93,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2592160,
+      "name": "Dispatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 77,
+      "sentiment_positive": 85,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 632360,
+      "name": "Risk of Rain 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 532,
+      "sentiment_positive": 92,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 431960,
+      "name": "Wallpaper Engine",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 31,
+      "sentiment_positive": 79,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2868840,
+      "name": "Slay the Spire 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 414,
+      "sentiment_positive": 90,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 105600,
+      "name": "Terraria",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 200,
+      "sentiment_positive": 89,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1426300,
+      "name": "The Binding of Isaac: Repentance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426300/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 302,
+      "sentiment_positive": 89,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145350,
+      "name": "Hades II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 582,
+      "sentiment_positive": 88,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2995920,
+      "name": "It Takes Two Friend's Pass",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2995920/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 438,
+      "sentiment_positive": 79,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3949040,
+      "name": "RV There Yet?",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 85,
+      "sentiment_positive": 87,
+      "tags": [
+        "Indie",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

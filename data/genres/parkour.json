@@ -1,0 +1,390 @@
+{
+  "genre_id": "parkour",
+  "genre_name": "Parkour",
+  "category": "Mechanic",
+  "supply_count": 1444,
+  "demand_count": 7020,
+  "growth_pct": 43.6,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2106,
+    "youtube": 2106,
+    "tiktok": 1053,
+    "steam": 1053,
+    "bluesky": 585
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2830
+    },
+    {
+      "month": "Feb",
+      "count": 4188
+    },
+    {
+      "month": "Mar",
+      "count": 4706
+    },
+    {
+      "month": "Apr",
+      "count": 6328
+    },
+    {
+      "month": "May",
+      "count": 7192
+    },
+    {
+      "month": "Jun",
+      "count": 6863
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "3D Fighter",
+    "Boxing",
+    "Fighting",
+    "Sports"
+  ],
+  "games": [
+    {
+      "app_id": 1451190,
+      "name": "Undisputed",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 215,
+      "sentiment_positive": 89,
+      "tags": [
+        "3D Fighter",
+        "Third Person",
+        "3D",
+        "Combat",
+        "Boxing",
+        "Controller",
+        "Fighting",
+        "Sports",
+        "Multiplayer",
+        "Realistic"
+      ]
+    },
+    {
+      "app_id": 494150,
+      "name": "The Thrill of the Fight - VR Boxing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/494150/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 27,
+      "sentiment_positive": 92,
+      "tags": [
+        "VR",
+        "Sports",
+        "Action",
+        "Boxing",
+        "3D Fighter",
+        "Fighting",
+        "Multiplayer",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 394310,
+      "name": "Punch Club",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394310/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 467,
+      "sentiment_positive": 81,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4289560,
+      "name": "Pound for Pound",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4289560/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 329,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 804490,
+      "name": "Creed: Rise to Glory\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/804490/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 463,
+      "sentiment_positive": 90,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2063480,
+      "name": "Voltage High Society",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2063480/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 548,
+      "sentiment_positive": 80,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3484680,
+      "name": "LES MILLS XR BODYCOMBAT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3484680/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 157,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2538880,
+      "name": "Spirit X Strike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2538880/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 500,
+      "sentiment_positive": 81,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2740280,
+      "name": "Tactic Boxing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2740280/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 255,
+      "sentiment_positive": 95,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2559270,
+      "name": "Gym Simulator 24",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2559270/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 474,
+      "sentiment_positive": 91,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3469230,
+      "name": "Baki Hanma: Blood Arena",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3469230/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 133,
+      "sentiment_positive": 88,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2677480,
+      "name": "Beat the Beats VR",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677480/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 54,
+      "sentiment_positive": 91,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1514840,
+      "name": "All-In-One Sports VR",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1514840/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 487,
+      "sentiment_positive": 91,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2613950,
+      "name": "Bloody Knuckles Street Boxing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2613950/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 342,
+      "sentiment_positive": 93,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2597300,
+      "name": "Guilty Loving Boxing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597300/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 82,
+      "sentiment_positive": 80,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4030960,
+      "name": "Undisputed - The Senator Pack",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4030960/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 297,
+      "sentiment_positive": 96,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1370140,
+      "name": "Kao the Kangaroo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370140/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 224,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4523770,
+      "name": "Sim: Heavyweight Boxing Champion",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4523770/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 394,
+      "sentiment_positive": 83,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1481780,
+      "name": "Dragon Fist: VR Kung Fu",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1481780/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 504,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2931330,
+      "name": "BROK the InvestiGator - The Brawl Bar",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2931330/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 435,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 296770,
+      "name": "Real Boxing\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/296770/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 151,
+      "sentiment_positive": 94,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3525000,
+      "name": "Undisputed - The Iron and Steel Pack",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3525000/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 573,
+      "sentiment_positive": 93,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2479340,
+      "name": "Boxing Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479340/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 335,
+      "sentiment_positive": 88,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2900100,
+      "name": "Undisputed - WBC Pack",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2900100/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 74,
+      "sentiment_positive": 85,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 544540,
+      "name": "The Fastest Fist",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544540/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 188,
+      "sentiment_positive": 92,
+      "tags": [
+        "Parkour",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "genre_id": "top_down_shooter",
+  "genre_name": "Top-Down Shooter",
+  "category": "Subgenre",
+  "supply_count": 4034,
+  "demand_count": 4440,
+  "growth_pct": 36.8,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1332,
+    "youtube": 1332,
+    "tiktok": 666,
+    "steam": 666,
+    "bluesky": 370
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1852
+    },
+    {
+      "month": "Feb",
+      "count": 2365
+    },
+    {
+      "month": "Mar",
+      "count": 3223
+    },
+    {
+      "month": "Apr",
+      "count": 4107
+    },
+    {
+      "month": "May",
+      "count": 3896
+    },
+    {
+      "month": "Jun",
+      "count": 4395
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 1488781,
+      "name": "Top-Down Shooter Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1488781/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 307,
+      "sentiment_positive": 88,
+      "tags": [
+        "Top-Down Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1325883,
+      "name": "Top-Down Shooter Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325883/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 377,
+      "sentiment_positive": 88,
+      "tags": [
+        "Top-Down Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 403106,
+      "name": "Super Top-Down Shooter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403106/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 167,
+      "sentiment_positive": 91,
+      "tags": [
+        "Top-Down Shooter",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

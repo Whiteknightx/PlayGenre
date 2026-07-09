@@ -1,0 +1,392 @@
+{
+  "genre_id": "card_game",
+  "genre_name": "Card Game",
+  "category": "Subgenre",
+  "supply_count": 3633,
+  "demand_count": 6800,
+  "growth_pct": 49.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2040,
+    "youtube": 2040,
+    "tiktok": 1020,
+    "steam": 1020,
+    "bluesky": 680
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2780
+    },
+    {
+      "month": "Feb",
+      "count": 3660
+    },
+    {
+      "month": "Mar",
+      "count": 4745
+    },
+    {
+      "month": "Apr",
+      "count": 5353
+    },
+    {
+      "month": "May",
+      "count": 6199
+    },
+    {
+      "month": "Jun",
+      "count": 6654
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Multiplayer",
+    "Simulation",
+    "3D",
+    "Free to Play"
+  ],
+  "games": [
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 100,
+      "sentiment_positive": 84,
+      "tags": [
+        "Card Game",
+        "Free to Play",
+        "Strategy",
+        "Trading Card Game",
+        "Multiplayer",
+        "PvP",
+        "Anime",
+        "Card Battler",
+        "Turn-Based Tactics",
+        "Simulation"
+      ]
+    },
+    {
+      "app_id": 3892270,
+      "name": "Gamble With Your Friends",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3892270/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 597,
+      "sentiment_positive": 96,
+      "tags": [
+        "Multiplayer",
+        "Gambling",
+        "Online Co-Op",
+        "Co-op",
+        "Comedy",
+        "Physics",
+        "First-Person",
+        "Adventure",
+        "Exploration",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2868840,
+      "name": "Slay the Spire 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 335,
+      "sentiment_positive": 81,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2141910,
+      "name": "Magic: The Gathering Arena",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 348,
+      "sentiment_positive": 93,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 286160,
+      "name": "Tabletop Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 192,
+      "sentiment_positive": 91,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2379780,
+      "name": "Balatro",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 242,
+      "sentiment_positive": 86,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1256670,
+      "name": "Library Of Ruina",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 241,
+      "sentiment_positive": 90,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 646570,
+      "name": "Slay the Spire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 560,
+      "sentiment_positive": 90,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3265700,
+      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 316,
+      "sentiment_positive": 86,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3784030,
+      "name": "RACCOIN: Coin Pusher Roguelike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3784030/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 383,
+      "sentiment_positive": 83,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2584990,
+      "name": "Shadowverse: Worlds Beyond",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2584990/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 168,
+      "sentiment_positive": 78,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3070070,
+      "name": "TCG Card Shop Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3070070/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 556,
+      "sentiment_positive": 96,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1617400,
+      "name": "The Bazaar",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1617400/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 520,
+      "sentiment_positive": 93,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1092790,
+      "name": "Inscryption",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 406,
+      "sentiment_positive": 89,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3052450,
+      "name": "Morimens",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3052450/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 485,
+      "sentiment_positive": 85,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2377930,
+      "name": "Destiny of Immortal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2377930/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 589,
+      "sentiment_positive": 92,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 799960,
+      "name": "Wizard101",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/799960/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 67,
+      "sentiment_positive": 91,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2784470,
+      "name": "9 Kings",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2784470/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 307,
+      "sentiment_positive": 82,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3117820,
+      "name": "Sultan's Game",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 486,
+      "sentiment_positive": 89,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2742830,
+      "name": "Monster Train 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2742830/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 357,
+      "sentiment_positive": 80,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 544810,
+      "name": "KARDS - The WW2 Card Game",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544810/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 439,
+      "sentiment_positive": 82,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 965580,
+      "name": "Root",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/965580/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 458,
+      "sentiment_positive": 85,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3100370,
+      "name": "Black Jacket",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3100370/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 411,
+      "sentiment_positive": 90,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1054490,
+      "name": "Wingspan",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 599,
+      "sentiment_positive": 92,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1948280,
+      "name": "Stacklands",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1948280/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 427,
+      "sentiment_positive": 95,
+      "tags": [
+        "Card Game",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

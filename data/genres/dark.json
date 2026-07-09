@@ -1,0 +1,392 @@
+{
+  "genre_id": "dark",
+  "genre_name": "Dark",
+  "category": "Theme",
+  "supply_count": 750,
+  "demand_count": 6809,
+  "growth_pct": 8.8,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2043,
+    "youtube": 2043,
+    "tiktok": 1021,
+    "steam": 1021,
+    "bluesky": 757
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2699
+    },
+    {
+      "month": "Feb",
+      "count": 3828
+    },
+    {
+      "month": "Mar",
+      "count": 4424
+    },
+    {
+      "month": "Apr",
+      "count": 5980
+    },
+    {
+      "month": "May",
+      "count": 6897
+    },
+    {
+      "month": "Jun",
+      "count": 6412
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Multiplayer",
+    "Funny",
+    "Comedy",
+    "Co-op"
+  ],
+  "games": [
+    {
+      "app_id": 4704690,
+      "name": "MECCHA CHAMELEON",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 91,
+      "sentiment_positive": 83,
+      "tags": [
+        "Multiplayer",
+        "Casual",
+        "Party Game",
+        "Hidden Object",
+        "Funny",
+        "Hand-drawn",
+        "Online Co-Op",
+        "Comedy",
+        "Stealth",
+        "Colorful"
+      ]
+    },
+    {
+      "app_id": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 41,
+      "sentiment_positive": 82,
+      "tags": [
+        "Open World",
+        "Sexual Content",
+        "Action",
+        "Multiplayer",
+        "Crime",
+        "Shooter",
+        "Third Person",
+        "Adventure",
+        "First-Person",
+        "Automobile Sim"
+      ]
+    },
+    {
+      "app_id": 381210,
+      "name": "Dead by Daylight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 91,
+      "sentiment_positive": 95,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 373,
+      "sentiment_positive": 93,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1665460,
+      "name": "eFootball\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1665460/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 335,
+      "sentiment_positive": 95,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 553850,
+      "name": "HELLDIVERS\u2122 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 222,
+      "sentiment_positive": 83,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 440,
+      "name": "Team Fortress 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 251,
+      "sentiment_positive": 93,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3892270,
+      "name": "Gamble With Your Friends",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3892270/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 160,
+      "sentiment_positive": 92,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3241660,
+      "name": "R.E.P.O.",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 207,
+      "sentiment_positive": 83,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3527290,
+      "name": "PEAK",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 196,
+      "sentiment_positive": 89,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2592160,
+      "name": "Dispatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 542,
+      "sentiment_positive": 87,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3124540,
+      "name": "Far Far West",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3124540/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 545,
+      "sentiment_positive": 86,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2185060,
+      "name": "Two Point Museum",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2185060/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 414,
+      "sentiment_positive": 88,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3935020,
+      "name": "Backyard Baseball",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935020/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 577,
+      "sentiment_positive": 89,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 728880,
+      "name": "Overcooked! 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 105,
+      "sentiment_positive": 96,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 438100,
+      "name": "VRChat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 282,
+      "sentiment_positive": 87,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4000,
+      "name": "Garry's Mod",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 468,
+      "sentiment_positive": 85,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 220200,
+      "name": "Kerbal Space Program",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 263,
+      "sentiment_positive": 79,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3834090,
+      "name": "YAPYAP",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834090/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 450,
+      "sentiment_positive": 86,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 880940,
+      "name": "Pummel Party",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 518,
+      "sentiment_positive": 93,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4244510,
+      "name": "Pratfall",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244510/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 459,
+      "sentiment_positive": 83,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4069520,
+      "name": "Super Battle Golf",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4069520/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 253,
+      "sentiment_positive": 81,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 477160,
+      "name": "Human Fall Flat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 282,
+      "sentiment_positive": 95,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 391540,
+      "name": "Undertale",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 412,
+      "sentiment_positive": 82,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 204360,
+      "name": "Castle Crashers\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 333,
+      "sentiment_positive": 94,
+      "tags": [
+        "Dark",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

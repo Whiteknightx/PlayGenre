@@ -1,0 +1,392 @@
+{
+  "genre_id": "3d",
+  "genre_name": "3D",
+  "category": "Presentation",
+  "supply_count": 3888,
+  "demand_count": 3806,
+  "growth_pct": 0.2,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1142,
+    "youtube": 1142,
+    "tiktok": 571,
+    "steam": 571,
+    "bluesky": 423
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1562
+    },
+    {
+      "month": "Feb",
+      "count": 2061
+    },
+    {
+      "month": "Mar",
+      "count": 2713
+    },
+    {
+      "month": "Apr",
+      "count": 3323
+    },
+    {
+      "month": "May",
+      "count": 3921
+    },
+    {
+      "month": "Jun",
+      "count": 4178
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Third Person",
+    "Action",
+    "Action-Adventure",
+    "Assassins"
+  ],
+  "games": [
+    {
+      "app_id": 3751950,
+      "name": "Assassin's Creed Black Flag Resynced",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 378,
+      "sentiment_positive": 86,
+      "tags": [
+        "Action-Adventure",
+        "Assassins",
+        "Pirates",
+        "Naval Combat",
+        "Stealth",
+        "Exploration",
+        "Open World",
+        "Third Person",
+        "Adventure",
+        "Historical"
+      ]
+    },
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 563,
+      "sentiment_positive": 88,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2767030,
+      "name": "Marvel Rivals",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 212,
+      "sentiment_positive": 83,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1771300,
+      "name": "Kingdom Come: Deliverance II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 552,
+      "sentiment_positive": 92,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3513350,
+      "name": "Wuthering Waves",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 276,
+      "sentiment_positive": 82,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3489700,
+      "name": "Stellar Blade\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 69,
+      "sentiment_positive": 88,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2183900,
+      "name": "Warhammer 40,000: Space Marine 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 327,
+      "sentiment_positive": 79,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 414,
+      "sentiment_positive": 86,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 184,
+      "sentiment_positive": 87,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3764200,
+      "name": "Resident Evil Requiem",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 251,
+      "sentiment_positive": 92,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3472040,
+      "name": "NBA 2K26",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 237,
+      "sentiment_positive": 94,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 354,
+      "sentiment_positive": 95,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1962700,
+      "name": "Subnautica 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 197,
+      "sentiment_positive": 84,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1943950,
+      "name": "Escape the Backrooms",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 171,
+      "sentiment_positive": 83,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 211,
+      "sentiment_positive": 79,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3892270,
+      "name": "Gamble With Your Friends",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3892270/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 447,
+      "sentiment_positive": 79,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1364780,
+      "name": "Street Fighter\u2122 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 301,
+      "sentiment_positive": 81,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2322010,
+      "name": "God of War Ragnar\u00f6k",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 351,
+      "sentiment_positive": 84,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1401590,
+      "name": "Disney Dreamlight Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 255,
+      "sentiment_positive": 93,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3241660,
+      "name": "R.E.P.O.",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 228,
+      "sentiment_positive": 85,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 399,
+      "sentiment_positive": 95,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3768760,
+      "name": "007 First Light",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 396,
+      "sentiment_positive": 78,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 335,
+      "sentiment_positive": 94,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1245620,
+      "name": "ELDEN RING",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 222,
+      "sentiment_positive": 96,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 201,
+      "sentiment_positive": 90,
+      "tags": [
+        "3D",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

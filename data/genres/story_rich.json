@@ -1,0 +1,392 @@
+{
+  "genre_id": "story_rich",
+  "genre_name": "Story Rich",
+  "category": "Presentation",
+  "supply_count": 4228,
+  "demand_count": 3935,
+  "growth_pct": 42.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1181,
+    "youtube": 1181,
+    "tiktok": 590,
+    "steam": 590,
+    "bluesky": 358
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1505
+    },
+    {
+      "month": "Feb",
+      "count": 2166
+    },
+    {
+      "month": "Mar",
+      "count": 2681
+    },
+    {
+      "month": "Apr",
+      "count": 3205
+    },
+    {
+      "month": "May",
+      "count": 3755
+    },
+    {
+      "month": "Jun",
+      "count": 4220
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Strategy",
+    "Turn-Based Strategy",
+    "Dark Fantasy",
+    "Action"
+  ],
+  "games": [
+    {
+      "app_id": 1973530,
+      "name": "Limbus Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 276,
+      "sentiment_positive": 88,
+      "tags": [
+        "Story Rich",
+        "Lore-Rich",
+        "Free to Play",
+        "Turn-Based Combat",
+        "Turn-Based Tactics",
+        "Visual Novel",
+        "Singleplayer",
+        "Great Soundtrack",
+        "Strategy",
+        "RPG"
+      ]
+    },
+    {
+      "app_id": 1142710,
+      "name": "Total War: WARHAMMER III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 97,
+      "sentiment_positive": 95,
+      "tags": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Grand Strategy",
+        "RTS",
+        "Fantasy",
+        "Real Time Tactics",
+        "War",
+        "Dark Fantasy",
+        "Dwarves",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 2161700,
+      "name": "Persona 3 Reload",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 446,
+      "sentiment_positive": 88,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2186680,
+      "name": "Warhammer 40,000: Rogue Trader",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2186680/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 451,
+      "sentiment_positive": 82,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3105440,
+      "name": "Heroes of Might and Magic: Olden Era",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 104,
+      "sentiment_positive": 87,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1295660,
+      "name": "Sid Meier's Civilization VII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 95,
+      "sentiment_positive": 82,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1687950,
+      "name": "Persona 5 Royal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 201,
+      "sentiment_positive": 95,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 426,
+      "sentiment_positive": 79,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2141910,
+      "name": "Magic: The Gathering Arena",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 61,
+      "sentiment_positive": 81,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 686060,
+      "name": "Mewgenics",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 346,
+      "sentiment_positive": 84,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1669000,
+      "name": "Age of Wonders 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 235,
+      "sentiment_positive": 93,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 594570,
+      "name": "Total War: WARHAMMER II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 554,
+      "sentiment_positive": 87,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 289070,
+      "name": "Sid Meier\u2019s Civilization\u00ae VI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 208,
+      "sentiment_positive": 79,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2379780,
+      "name": "Balatro",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 242,
+      "sentiment_positive": 96,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 435150,
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 413,
+      "sentiment_positive": 84,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 364360,
+      "name": "Total War: WARHAMMER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 74,
+      "sentiment_positive": 84,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1004640,
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 307,
+      "sentiment_positive": 95,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1677280,
+      "name": "Company of Heroes 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 292,
+      "sentiment_positive": 86,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2426960,
+      "name": "Summoners War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2426960/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 249,
+      "sentiment_positive": 91,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1256670,
+      "name": "Library Of Ruina",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 25,
+      "sentiment_positive": 78,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1875830,
+      "name": "Shin Megami Tensei V: Vengeance",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 230,
+      "sentiment_positive": 85,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1527950,
+      "name": "Wartales",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1527950/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 178,
+      "sentiment_positive": 88,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3784030,
+      "name": "RACCOIN: Coin Pusher Roguelike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3784030/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 399,
+      "sentiment_positive": 80,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2432860,
+      "name": "MENACE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2432860/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 568,
+      "sentiment_positive": 81,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3609080,
+      "name": "StarSavior",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3609080/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 504,
+      "sentiment_positive": 89,
+      "tags": [
+        "Story Rich",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

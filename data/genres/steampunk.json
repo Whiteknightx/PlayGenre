@@ -1,0 +1,392 @@
+{
+  "genre_id": "steampunk",
+  "genre_name": "Steampunk",
+  "category": "Theme",
+  "supply_count": 2605,
+  "demand_count": 1540,
+  "growth_pct": 3.8,
+  "opportunity_score": 8.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 462,
+    "youtube": 462,
+    "tiktok": 231,
+    "steam": 231,
+    "bluesky": 154
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 640
+    },
+    {
+      "month": "Feb",
+      "count": 794
+    },
+    {
+      "month": "Mar",
+      "count": 1143
+    },
+    {
+      "month": "Apr",
+      "count": 1430
+    },
+    {
+      "month": "May",
+      "count": 1392
+    },
+    {
+      "month": "Jun",
+      "count": 1570
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action RPG",
+    "Online Co-Op",
+    "Action",
+    "Multiplayer"
+  ],
+  "games": [
+    {
+      "app_id": 881020,
+      "name": "Granblue Fantasy: Relink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 450,
+      "sentiment_positive": 87,
+      "tags": [
+        "Anime",
+        "Action RPG",
+        "JRPG",
+        "Online Co-Op",
+        "Action",
+        "Multiplayer",
+        "Fantasy",
+        "RPG",
+        "Female Protagonist",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 570,
+      "name": "Dota 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 487,
+      "sentiment_positive": 92,
+      "tags": [
+        "Free to Play",
+        "MOBA",
+        "Multiplayer",
+        "Strategy",
+        "eSports",
+        "Team-Based",
+        "Competitive",
+        "Action",
+        "Online Co-Op",
+        "PvP"
+      ]
+    },
+    {
+      "app_id": 1086940,
+      "name": "Baldur's Gate 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 252,
+      "sentiment_positive": 82,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2399830,
+      "name": "ARK: Survival Ascended",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 263,
+      "sentiment_positive": 80,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3839790/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 265,
+      "sentiment_positive": 91,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2183900,
+      "name": "Warhammer 40,000: Space Marine 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 374,
+      "sentiment_positive": 81,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 194,
+      "sentiment_positive": 85,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 292030,
+      "name": "The Witcher 3: Wild Hunt",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 45,
+      "sentiment_positive": 88,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 485,
+      "sentiment_positive": 86,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 130,
+      "sentiment_positive": 82,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1374490,
+      "name": "RuneScape: Dragonwilds",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 366,
+      "sentiment_positive": 81,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2001120,
+      "name": "Split Fiction",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 370,
+      "sentiment_positive": 96,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1142710,
+      "name": "Total War: WARHAMMER III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 166,
+      "sentiment_positive": 80,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2246340,
+      "name": "Monster Hunter Wilds",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 379,
+      "sentiment_positive": 94,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2344520,
+      "name": "Diablo\u00ae IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 567,
+      "sentiment_positive": 91,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1401590,
+      "name": "Disney Dreamlight Valley",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 269,
+      "sentiment_positive": 86,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2322010,
+      "name": "God of War Ragnar\u00f6k",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 151,
+      "sentiment_positive": 83,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1449850,
+      "name": "Yu-Gi-Oh! Master Duel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 357,
+      "sentiment_positive": 79,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1245620,
+      "name": "ELDEN RING",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 246,
+      "sentiment_positive": 94,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 572,
+      "sentiment_positive": 82,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3564740,
+      "name": "Where Winds Meet",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 387,
+      "sentiment_positive": 89,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2552430,
+      "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 549,
+      "sentiment_positive": 80,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 306130,
+      "name": "The Elder Scrolls\u00ae Online",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306130/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 422,
+      "sentiment_positive": 89,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1222670,
+      "name": "The Sims\u2122 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 402,
+      "sentiment_positive": 93,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2186680,
+      "name": "Warhammer 40,000: Rogue Trader",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2186680/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 129,
+      "sentiment_positive": 89,
+      "tags": [
+        "Steampunk",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

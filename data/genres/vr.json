@@ -1,0 +1,392 @@
+{
+  "genre_id": "vr",
+  "genre_name": "VR",
+  "category": "Presentation",
+  "supply_count": 3904,
+  "demand_count": 3682,
+  "growth_pct": 11.8,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1105,
+    "youtube": 1105,
+    "tiktok": 552,
+    "steam": 552,
+    "bluesky": 307
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1337
+    },
+    {
+      "month": "Feb",
+      "count": 1849
+    },
+    {
+      "month": "Mar",
+      "count": 2448
+    },
+    {
+      "month": "Apr",
+      "count": 3197
+    },
+    {
+      "month": "May",
+      "count": 3774
+    },
+    {
+      "month": "Jun",
+      "count": 4048
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Multiplayer",
+    "Realistic",
+    "Atmospheric",
+    "First-Person"
+  ],
+  "games": [
+    {
+      "app_id": 2483190,
+      "name": "Forza Horizon 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 532,
+      "sentiment_positive": 92,
+      "tags": [
+        "Racing",
+        "Open World",
+        "Driving",
+        "Multiplayer",
+        "Automobile Sim",
+        "Simulation",
+        "Exploration",
+        "Arcade",
+        "Realistic",
+        "Sports"
+      ]
+    },
+    {
+      "app_id": 1144200,
+      "name": "Ready or Not",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 241,
+      "sentiment_positive": 90,
+      "tags": [
+        "Tactical",
+        "Realistic",
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Singleplayer",
+        "Co-op",
+        "Horror",
+        "First-Person",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 2050650,
+      "name": "Resident Evil 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 571,
+      "sentiment_positive": 87,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1326470,
+      "name": "Sons Of The Forest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 571,
+      "sentiment_positive": 78,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 236390,
+      "name": "War Thunder",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 531,
+      "sentiment_positive": 89,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 201,
+      "sentiment_positive": 78,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1551360,
+      "name": "Forza Horizon 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 295,
+      "sentiment_positive": 82,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1659040,
+      "name": "HITMAN World of Assassination",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659040/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 184,
+      "sentiment_positive": 78,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 264710,
+      "name": "Subnautica",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 268,
+      "sentiment_positive": 87,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2537590,
+      "name": "Microsoft Flight Simulator 2024",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2537590/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 399,
+      "sentiment_positive": 89,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 739630,
+      "name": "Phasmophobia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 451,
+      "sentiment_positive": 93,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 805550,
+      "name": "Assetto Corsa Competizione",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 518,
+      "sentiment_positive": 78,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 275850,
+      "name": "No Man's Sky",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 379,
+      "sentiment_positive": 91,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 284160,
+      "name": "BeamNG.drive",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 444,
+      "sentiment_positive": 89,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 266410,
+      "name": "iRacing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 535,
+      "sentiment_positive": 95,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3059520,
+      "name": "F1\u00ae 25",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 478,
+      "sentiment_positive": 80,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 438100,
+      "name": "VRChat",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 248,
+      "sentiment_positive": 87,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 286160,
+      "name": "Tabletop Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 49,
+      "sentiment_positive": 91,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 533,
+      "sentiment_positive": 86,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2399420,
+      "name": "Le Mans Ultimate",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399420/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 228,
+      "sentiment_positive": 92,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 244210,
+      "name": "Assetto Corsa",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 91,
+      "sentiment_positive": 92,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1196590,
+      "name": "Resident Evil Village",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 399,
+      "sentiment_positive": 79,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1066890,
+      "name": "Automobilista 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1066890/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 278,
+      "sentiment_positive": 93,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 223750,
+      "name": "DCS World Steam Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223750/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 134,
+      "sentiment_positive": 79,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 380600,
+      "name": "Fishing Planet",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 286,
+      "sentiment_positive": 83,
+      "tags": [
+        "VR",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

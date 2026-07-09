@@ -1,0 +1,392 @@
+{
+  "genre_id": "boomer_shooter",
+  "genre_name": "Boomer Shooter",
+  "category": "Subgenre",
+  "supply_count": 3474,
+  "demand_count": 1180,
+  "growth_pct": 31.7,
+  "opportunity_score": 5.1,
+  "opportunity_class": "Medium",
+  "heatmap": {
+    "reddit": 354,
+    "youtube": 354,
+    "tiktok": 177,
+    "steam": 177,
+    "bluesky": 118
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 496
+    },
+    {
+      "month": "Feb",
+      "count": 653
+    },
+    {
+      "month": "Mar",
+      "count": 799
+    },
+    {
+      "month": "Apr",
+      "count": 991
+    },
+    {
+      "month": "May",
+      "count": 1083
+    },
+    {
+      "month": "Jun",
+      "count": 1112
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action",
+    "FPS",
+    "Gore",
+    "First-Person"
+  ],
+  "games": [
+    {
+      "app_id": 3017860,
+      "name": "DOOM: The Dark Ages",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 407,
+      "sentiment_positive": 86,
+      "tags": [
+        "Action",
+        "FPS",
+        "Demons",
+        "Dark Fantasy",
+        "Singleplayer",
+        "Gore",
+        "Sci-fi",
+        "Cinematic",
+        "First-Person",
+        "Shooter"
+      ]
+    },
+    {
+      "app_id": 2416450,
+      "name": "MOUSE: P.I. For Hire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416450/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 399,
+      "sentiment_positive": 96,
+      "tags": [
+        "FPS",
+        "Cartoony",
+        "Action",
+        "Detective",
+        "Boomer Shooter",
+        "Noir",
+        "First-Person",
+        "Hand-drawn",
+        "Shooter",
+        "Indie"
+      ]
+    },
+    {
+      "app_id": 3469450,
+      "name": "DOOM: The Dark Ages | Revelations",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3469450/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 457,
+      "sentiment_positive": 95,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1229490,
+      "name": "ULTRAKILL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 203,
+      "sentiment_positive": 85,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 782330,
+      "name": "DOOM Eternal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 564,
+      "sentiment_positive": 89,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2124120,
+      "name": "SULFUR",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124120/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 243,
+      "sentiment_positive": 81,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2005010,
+      "name": "Warhammer 40,000: Boltgun",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2005010/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 477,
+      "sentiment_positive": 86,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 379720,
+      "name": "DOOM",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 555,
+      "sentiment_positive": 95,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1164940,
+      "name": "Trepang2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1164940/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 346,
+      "sentiment_positive": 85,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1933000,
+      "name": "Luna Abyss",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933000/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 345,
+      "sentiment_positive": 94,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2280,
+      "name": "DOOM + DOOM II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 437,
+      "sentiment_positive": 88,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1920430,
+      "name": "FUMES",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1920430/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 223,
+      "sentiment_positive": 86,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1684930,
+      "name": "CULTIC",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1684930/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 123,
+      "sentiment_positive": 84,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2111190,
+      "name": "MULLET MADJACK",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2111190/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 245,
+      "sentiment_positive": 81,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3371240,
+      "name": "Beyond Citadel",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3371240/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 81,
+      "sentiment_positive": 89,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 519860,
+      "name": "DUSK",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519860/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 343,
+      "sentiment_positive": 94,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2321780,
+      "name": "Starship Troopers: Ultimate Bug War!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321780/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 586,
+      "sentiment_positive": 78,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1876590,
+      "name": "I Am Your Beast",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 312,
+      "sentiment_positive": 96,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2272250,
+      "name": "Forgive Me Father 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2272250/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 373,
+      "sentiment_positive": 91,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1328350,
+      "name": "Turbo Overkill",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328350/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 387,
+      "sentiment_positive": 89,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1592280,
+      "name": "Selaco",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1592280/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 84,
+      "sentiment_positive": 88,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1590910,
+      "name": "Forgive Me Father",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1590910/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 493,
+      "sentiment_positive": 80,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1494810,
+      "name": "Mortal Sin",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1494810/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 286,
+      "sentiment_positive": 93,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1978590,
+      "name": "Anger Foot",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1978590/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 280,
+      "sentiment_positive": 82,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1792250,
+      "name": "Serious Sam: Siberian Mayhem",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1792250/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 433,
+      "sentiment_positive": 84,
+      "tags": [
+        "Boomer Shooter",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

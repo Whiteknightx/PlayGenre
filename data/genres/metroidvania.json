@@ -1,0 +1,92 @@
+{
+  "genre_id": "metroidvania",
+  "genre_name": "Metroidvania",
+  "category": "Subgenre",
+  "supply_count": 4993,
+  "demand_count": 1729,
+  "growth_pct": 15.7,
+  "opportunity_score": 5.2,
+  "opportunity_class": "Medium",
+  "heatmap": {
+    "reddit": 519,
+    "youtube": 519,
+    "tiktok": 259,
+    "steam": 259,
+    "bluesky": 173
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 726
+    },
+    {
+      "month": "Feb",
+      "count": 990
+    },
+    {
+      "month": "Mar",
+      "count": 1112
+    },
+    {
+      "month": "Apr",
+      "count": 1493
+    },
+    {
+      "month": "May",
+      "count": 1576
+    },
+    {
+      "month": "Jun",
+      "count": 1685
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "games": [
+    {
+      "app_id": 346185,
+      "name": "Metroidvania Quest",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/346185/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 296,
+      "sentiment_positive": 81,
+      "tags": [
+        "Metroidvania",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 1811845,
+      "name": "Metroidvania Chronicles",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1811845/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 185,
+      "sentiment_positive": 98,
+      "tags": [
+        "Metroidvania",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    },
+    {
+      "app_id": 706979,
+      "name": "Super Metroidvania",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/706979/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 343,
+      "sentiment_positive": 90,
+      "tags": [
+        "Metroidvania",
+        "Indie",
+        "Singleplayer",
+        "Atmospheric"
+      ]
+    }
+  ]
+}

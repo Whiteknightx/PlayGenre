@@ -1,0 +1,392 @@
+{
+  "genre_id": "choices_matter",
+  "genre_name": "Choices Matter",
+  "category": "Mechanic",
+  "supply_count": 2695,
+  "demand_count": 5273,
+  "growth_pct": 30.8,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1582,
+    "youtube": 1582,
+    "tiktok": 791,
+    "steam": 791,
+    "bluesky": 586
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2284
+    },
+    {
+      "month": "Feb",
+      "count": 3162
+    },
+    {
+      "month": "Mar",
+      "count": 3967
+    },
+    {
+      "month": "Apr",
+      "count": 4885
+    },
+    {
+      "month": "May",
+      "count": 4637
+    },
+    {
+      "month": "Jun",
+      "count": 5479
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action",
+    "Souls-like",
+    "Hack and Slash",
+    "Third Person"
+  ],
+  "games": [
+    {
+      "app_id": 3489700,
+      "name": "Stellar Blade\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 420,
+      "sentiment_positive": 84,
+      "tags": [
+        "Female Protagonist",
+        "Action",
+        "Souls-like",
+        "Hack and Slash",
+        "Sexual Content",
+        "Singleplayer",
+        "Third Person",
+        "Action RPG",
+        "Post-apocalyptic",
+        "Adventure"
+      ]
+    },
+    {
+      "app_id": 3513350,
+      "name": "Wuthering Waves",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 51,
+      "sentiment_positive": 87,
+      "tags": [
+        "Open World",
+        "Anime",
+        "Free to Play",
+        "Action",
+        "Story Rich",
+        "Adventure",
+        "RPG",
+        "Combat",
+        "Exploration",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2694490,
+      "name": "Path of Exile 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 302,
+      "sentiment_positive": 90,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 814380,
+      "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 372,
+      "sentiment_positive": 82,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 97,
+      "sentiment_positive": 80,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1245620,
+      "name": "ELDEN RING",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 491,
+      "sentiment_positive": 80,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2244210,
+      "name": "Echoes of Aincrad",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244210/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 241,
+      "sentiment_positive": 86,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2215430,
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 91,
+      "sentiment_positive": 89,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3564740,
+      "name": "Where Winds Meet",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 389,
+      "sentiment_positive": 78,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1371980,
+      "name": "No Rest for the Wicked",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1371980/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 461,
+      "sentiment_positive": 80,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 269,
+      "sentiment_positive": 81,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2322010,
+      "name": "God of War Ragnar\u00f6k",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 535,
+      "sentiment_positive": 84,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 312520,
+      "name": "Rain World",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 591,
+      "sentiment_positive": 85,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1145350,
+      "name": "Hades II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 371,
+      "sentiment_positive": 89,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1593500,
+      "name": "God of War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 320,
+      "sentiment_positive": 90,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 204,
+      "sentiment_positive": 93,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3321460,
+      "name": "Crimson Desert",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 460,
+      "sentiment_positive": 90,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1888160,
+      "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 35,
+      "sentiment_positive": 81,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 367520,
+      "name": "Hollow Knight",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 558,
+      "sentiment_positive": 82,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3404260,
+      "name": "Dead as Disco",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 432,
+      "sentiment_positive": 89,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1627720,
+      "name": "Lies of P",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 356,
+      "sentiment_positive": 85,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 268910,
+      "name": "Cuphead",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 96,
+      "sentiment_positive": 90,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2947440,
+      "name": "SILENT HILL f",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 328,
+      "sentiment_positive": 81,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3156770,
+      "name": "Witchfire",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156770/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 413,
+      "sentiment_positive": 83,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1809540,
+      "name": "Nine Sols",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 585,
+      "sentiment_positive": 81,
+      "tags": [
+        "Choices Matter",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

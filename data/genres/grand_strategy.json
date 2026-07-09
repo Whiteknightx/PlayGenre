@@ -1,0 +1,392 @@
+{
+  "genre_id": "grand_strategy",
+  "genre_name": "Grand Strategy",
+  "category": "Subgenre",
+  "supply_count": 1371,
+  "demand_count": 909,
+  "growth_pct": 18.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 273,
+    "youtube": 273,
+    "tiktok": 136,
+    "steam": 136,
+    "bluesky": 114
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 374
+    },
+    {
+      "month": "Feb",
+      "count": 474
+    },
+    {
+      "month": "Mar",
+      "count": 581
+    },
+    {
+      "month": "Apr",
+      "count": 730
+    },
+    {
+      "month": "May",
+      "count": 809
+    },
+    {
+      "month": "Jun",
+      "count": 845
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Strategy",
+    "RTS",
+    "War",
+    "Multiplayer"
+  ],
+  "games": [
+    {
+      "app_id": 1142710,
+      "name": "Total War: WARHAMMER III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 512,
+      "sentiment_positive": 91,
+      "tags": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Grand Strategy",
+        "RTS",
+        "Fantasy",
+        "Real Time Tactics",
+        "War",
+        "Dark Fantasy",
+        "Dwarves",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 1158310,
+      "name": "Crusader Kings III",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 224,
+      "sentiment_positive": 86,
+      "tags": [
+        "Strategy",
+        "Medieval",
+        "Grand Strategy",
+        "Simulation",
+        "RPG",
+        "Historical",
+        "Management",
+        "Character Customization",
+        "Life Sim",
+        "Sandbox"
+      ]
+    },
+    {
+      "app_id": 281990,
+      "name": "Stellaris",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 165,
+      "sentiment_positive": 84,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 394360,
+      "name": "Hearts of Iron IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 202,
+      "sentiment_positive": 85,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3105440,
+      "name": "Heroes of Might and Magic: Olden Era",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 298,
+      "sentiment_positive": 83,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1295660,
+      "name": "Sid Meier's Civilization VII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 312,
+      "sentiment_positive": 91,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1669000,
+      "name": "Age of Wonders 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 418,
+      "sentiment_positive": 84,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 594570,
+      "name": "Total War: WARHAMMER II",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 386,
+      "sentiment_positive": 80,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 289070,
+      "name": "Sid Meier\u2019s Civilization\u00ae VI",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 317,
+      "sentiment_positive": 87,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1363080,
+      "name": "Manor Lords",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 538,
+      "sentiment_positive": 89,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 529340,
+      "name": "Victoria 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/529340/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 598,
+      "sentiment_positive": 94,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 364360,
+      "name": "Total War: WARHAMMER",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 432,
+      "sentiment_positive": 84,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 236850,
+      "name": "Europa Universalis IV",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 160,
+      "sentiment_positive": 83,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1336490,
+      "name": "Against the Storm",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336490/header.jpg",
+      "trend_score": 73,
+      "growth_pct": 586,
+      "sentiment_positive": 87,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 214950,
+      "name": "Total War: ROME II - Emperor Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 505,
+      "sentiment_positive": 87,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 779340,
+      "name": "Total War: THREE KINGDOMS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 540,
+      "sentiment_positive": 78,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1162750,
+      "name": "Songs of Syx",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1162750/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 135,
+      "sentiment_positive": 87,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3556750,
+      "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 505,
+      "sentiment_positive": 85,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 784150,
+      "name": "Workers &amp; Resources: Soviet Republic",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 320,
+      "sentiment_positive": 78,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4399460,
+      "name": "Total War: WARHAMMER III - Bhashiva \u2013 Character Pack",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4399460/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 594,
+      "sentiment_positive": 85,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3450310,
+      "name": "Europa Universalis V",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3450310/header.jpg",
+      "trend_score": 88,
+      "growth_pct": 337,
+      "sentiment_positive": 96,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3315530,
+      "name": "Crusader Kings III: All Under Heaven",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3315530/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 466,
+      "sentiment_positive": 93,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 489630,
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 55,
+      "sentiment_positive": 93,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3152780,
+      "name": "Expansion - Hearts of Iron IV: G\u00f6tterd\u00e4mmerung",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3152780/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 510,
+      "sentiment_positive": 84,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3450960,
+      "name": "Total War: WARHAMMER III - Aislinn \u2013 Tides of Torment",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3450960/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 382,
+      "sentiment_positive": 80,
+      "tags": [
+        "Grand Strategy",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

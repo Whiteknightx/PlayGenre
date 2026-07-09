@@ -1,0 +1,392 @@
+{
+  "genre_id": "linear",
+  "genre_name": "Linear",
+  "category": "Presentation",
+  "supply_count": 4886,
+  "demand_count": 3140,
+  "growth_pct": 28.6,
+  "opportunity_score": 9.6,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 942,
+    "youtube": 942,
+    "tiktok": 471,
+    "steam": 471,
+    "bluesky": 349
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1300
+    },
+    {
+      "month": "Feb",
+      "count": 1844
+    },
+    {
+      "month": "Mar",
+      "count": 2079
+    },
+    {
+      "month": "Apr",
+      "count": 2718
+    },
+    {
+      "month": "May",
+      "count": 2832
+    },
+    {
+      "month": "Jun",
+      "count": 3181
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Action",
+    "Adventure",
+    "Gore",
+    "Souls-like"
+  ],
+  "games": [
+    {
+      "app_id": 2680010,
+      "name": "The First Berserker: Khazan",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 520,
+      "sentiment_positive": 91,
+      "tags": [
+        "Souls-like",
+        "Difficult",
+        "Hack and Slash",
+        "Anime",
+        "Action RPG",
+        "Action-Adventure",
+        "Third Person",
+        "RPG",
+        "Action",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 42700,
+      "name": "Call of Duty\u00ae: Black Ops",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 297,
+      "sentiment_positive": 92,
+      "tags": [
+        "Action",
+        "FPS",
+        "Zombies",
+        "Multiplayer",
+        "Shooter",
+        "Singleplayer",
+        "Cold War",
+        "First-Person",
+        "War",
+        "Military"
+      ]
+    },
+    {
+      "app_id": 8870,
+      "name": "BioShock Infinite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 507,
+      "sentiment_positive": 87,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1941540,
+      "name": "Mafia: The Old Country",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1941540/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 248,
+      "sentiment_positive": 96,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4731620,
+      "name": "Fortune Mill",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4731620/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 409,
+      "sentiment_positive": 84,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2513280,
+      "name": "SONIC X SHADOW GENERATIONS",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 529,
+      "sentiment_positive": 85,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3198890,
+      "name": "Scale the Depths",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3198890/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 429,
+      "sentiment_positive": 95,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1629520,
+      "name": "A Little to the Left",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1629520/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 383,
+      "sentiment_positive": 90,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 42680,
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42680/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 85,
+      "sentiment_positive": 84,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2963800,
+      "name": "DrainSim",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2963800/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 29,
+      "sentiment_positive": 89,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 359870,
+      "name": "FINAL FANTASY X/X-2 HD Remaster",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359870/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 372,
+      "sentiment_positive": 95,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1574820,
+      "name": "Until Then",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574820/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 141,
+      "sentiment_positive": 85,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2052410,
+      "name": "WITCH ON THE HOLY NIGHT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052410/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 416,
+      "sentiment_positive": 87,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 10180,
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 483,
+      "sentiment_positive": 88,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2000890,
+      "name": "MechWarrior 5: Clans",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000890/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 36,
+      "sentiment_positive": 96,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 204100,
+      "name": "Max Payne 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204100/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 562,
+      "sentiment_positive": 92,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3981100,
+      "name": "Leaf it Alone",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3981100/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 588,
+      "sentiment_positive": 93,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 209160,
+      "name": "Call of Duty\u00ae: Ghosts",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209160/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 309,
+      "sentiment_positive": 85,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1669480,
+      "name": "Firefighting Simulator: Ignite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669480/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 540,
+      "sentiment_positive": 79,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1206070,
+      "name": "Phonopolis",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206070/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 137,
+      "sentiment_positive": 84,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 7940,
+      "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7940/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 346,
+      "sentiment_positive": 87,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 209650,
+      "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 495,
+      "sentiment_positive": 89,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 865360,
+      "name": "We Were Here Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 253,
+      "sentiment_positive": 79,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 835960,
+      "name": "The Talos Principle 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 363,
+      "sentiment_positive": 92,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 292120,
+      "name": "FINAL FANTASY\u00ae XIII",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292120/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 502,
+      "sentiment_positive": 83,
+      "tags": [
+        "Linear",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}

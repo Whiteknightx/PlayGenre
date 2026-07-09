@@ -2,60 +2,60 @@
   "genre_id": "creature_collector",
   "genre_name": "Creature Collector",
   "category": "Theme",
-  "supply_count": 2990,
-  "demand_count": 1319,
-  "growth_pct": 171.2,
-  "opportunity_score": 6.6,
-  "opportunity_class": "High",
+  "supply_count": 4509,
+  "demand_count": 8193,
+  "growth_pct": 33.6,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
   "heatmap": {
-    "reddit": 396,
-    "youtube": 461,
-    "tiktok": 264,
-    "steam": 66,
-    "bluesky": 120
+    "reddit": 2458,
+    "youtube": 2458,
+    "tiktok": 1229,
+    "steam": 1229,
+    "bluesky": 745
   },
   "timeline": [
     {
       "month": "Jan",
-      "count": 539
+      "count": 3075
     },
     {
       "month": "Feb",
-      "count": 857
+      "count": 4255
     },
     {
       "month": "Mar",
-      "count": 890
+      "count": 5985
     },
     {
       "month": "Apr",
-      "count": 1130
+      "count": 7240
     },
     {
       "month": "May",
-      "count": 1258
+      "count": 7163
     },
     {
       "month": "Jun",
-      "count": 1284
+      "count": 8282
     }
   ],
   "related_network": [
-    "Adventure",
     "Singleplayer",
-    "3D",
     "Indie",
     "Character Customization",
-    "Action"
+    "Multiplayer",
+    "Action",
+    "Adventure"
   ],
   "games": [
     {
       "app_id": 1364780,
       "name": "Street Fighter\u2122 6",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
-      "trend_score": 98,
-      "growth_pct": 1128,
-      "sentiment_positive": 96,
+      "trend_score": 91,
+      "growth_pct": 73,
+      "sentiment_positive": 93,
       "tags": [
         "2D Fighter",
         "Fighting",
@@ -66,18 +66,16 @@
         "PvP",
         "Competitive",
         "Adventure",
-        "Local Multiplayer",
-        "eSports",
-        "Singleplayer"
+        "Local Multiplayer"
       ]
     },
     {
       "app_id": 3564740,
       "name": "Where Winds Meet",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
-      "trend_score": 83,
-      "growth_pct": 437,
-      "sentiment_positive": 88,
+      "trend_score": 79,
+      "growth_pct": 187,
+      "sentiment_positive": 92,
       "tags": [
         "Open World",
         "Free to Play",
@@ -88,368 +86,306 @@
         "Singleplayer",
         "Action-Adventure",
         "Adventure",
-        "Martial Arts",
-        "Fantasy",
-        "Atmospheric"
+        "Martial Arts"
       ]
     },
     {
       "app_id": 1203220,
       "name": "NARAKA: BLADEPOINT",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203220/header.jpg",
-      "trend_score": 83,
-      "growth_pct": 1066,
-      "sentiment_positive": 84,
+      "trend_score": 84,
+      "growth_pct": 484,
+      "sentiment_positive": 90,
       "tags": [
-        "Battle Royale",
-        "Multiplayer",
-        "Martial Arts",
-        "PvP",
-        "Action",
-        "Character Customization",
-        "Female Protagonist",
-        "Massively Multiplayer",
-        "Fighting",
-        "Survival",
-        "Third Person",
-        "Swordplay"
+        "Creature Collector",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3404260,
       "name": "Dead as Disco",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3404260/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 1465,
-      "sentiment_positive": 86,
+      "trend_score": 72,
+      "growth_pct": 242,
+      "sentiment_positive": 78,
       "tags": [
-        "Early Access",
-        "Rhythm",
-        "Beat 'em up",
-        "Spectacle fighter",
-        "Hack and Slash",
-        "Music",
-        "Martial Arts",
-        "PvE",
-        "Action",
-        "Arcade",
-        "Character Customization",
-        "Souls-like"
+        "Creature Collector",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1778820,
       "name": "TEKKEN 8",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/header.jpg",
-      "trend_score": 81,
-      "growth_pct": 1414,
-      "sentiment_positive": 93,
+      "trend_score": 95,
+      "growth_pct": 32,
+      "sentiment_positive": 94,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1971870,
       "name": "Mortal Kombat 1",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg",
-      "trend_score": 75,
-      "growth_pct": 957,
-      "sentiment_positive": 86,
+      "trend_score": 89,
+      "growth_pct": 444,
+      "sentiment_positive": 82,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1809540,
       "name": "Nine Sols",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg",
-      "trend_score": 76,
-      "growth_pct": 1122,
-      "sentiment_positive": 88,
+      "trend_score": 94,
+      "growth_pct": 411,
+      "sentiment_positive": 78,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1790600,
       "name": "DRAGON BALL: Sparking! ZERO",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
-      "trend_score": 88,
-      "growth_pct": 151,
+      "trend_score": 81,
+      "growth_pct": 156,
       "sentiment_positive": 78,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2384580,
       "name": "DYNASTY WARRIORS: ORIGINS",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2384580/header.jpg",
-      "trend_score": 97,
-      "growth_pct": 1221,
-      "sentiment_positive": 85,
+      "trend_score": 76,
+      "growth_pct": 182,
+      "sentiment_positive": 80,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2138710,
       "name": "Sifu",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 1094,
-      "sentiment_positive": 85,
+      "trend_score": 80,
+      "growth_pct": 191,
+      "sentiment_positive": 89,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1876890,
       "name": "Wandering Sword",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876890/header.jpg",
-      "trend_score": 79,
-      "growth_pct": 858,
-      "sentiment_positive": 94,
+      "trend_score": 77,
+      "growth_pct": 504,
+      "sentiment_positive": 91,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2424420,
       "name": "Avatar Legends: The Fighting Game",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2424420/header.jpg",
-      "trend_score": 89,
-      "growth_pct": 608,
+      "trend_score": 79,
+      "growth_pct": 578,
       "sentiment_positive": 80,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2072450,
       "name": "Like a Dragon: Infinite Wealth",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2072450/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 576,
-      "sentiment_positive": 78,
+      "trend_score": 78,
+      "growth_pct": 279,
+      "sentiment_positive": 88,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 838350,
       "name": "The Scroll of Taiwu : Beyond The Dome",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/838350/header.jpg",
-      "trend_score": 81,
-      "growth_pct": 754,
-      "sentiment_positive": 88,
+      "trend_score": 96,
+      "growth_pct": 424,
+      "sentiment_positive": 90,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2988580,
       "name": "Yakuza 0 Director's Cut",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2988580/header.jpg",
-      "trend_score": 78,
-      "growth_pct": 831,
-      "sentiment_positive": 78,
+      "trend_score": 83,
+      "growth_pct": 289,
+      "sentiment_positive": 81,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
-      ]
-    },
-    {
-      "app_id": 2597080,
-      "name": "Realm of Ink",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/header.jpg",
-      "trend_score": 87,
-      "growth_pct": 935,
-      "sentiment_positive": 80,
-      "tags": [
-        "Creature Collector",
-        "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1859910,
       "name": "Legend of Mortal",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1859910/header.jpg",
-      "trend_score": 82,
-      "growth_pct": 1594,
-      "sentiment_positive": 95,
+      "trend_score": 90,
+      "growth_pct": 160,
+      "sentiment_positive": 93,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2597080,
+      "name": "Realm of Ink",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2597080/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 163,
+      "sentiment_positive": 96,
+      "tags": [
+        "Creature Collector",
+        "Indie",
+        "Singleplayer"
       ]
     },
     {
       "app_id": 307690,
       "name": "Sleeping Dogs: Definitive Edition",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
-      "trend_score": 80,
-      "growth_pct": 646,
+      "trend_score": 94,
+      "growth_pct": 367,
       "sentiment_positive": 92,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1361510,
       "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg",
-      "trend_score": 84,
-      "growth_pct": 356,
-      "sentiment_positive": 90,
+      "trend_score": 93,
+      "growth_pct": 540,
+      "sentiment_positive": 84,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 4412690,
       "name": "Street Fighter\u2122 6\u00a0-\u00a0Year 4 Ultimate Pass",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412690/header.jpg",
-      "trend_score": 94,
-      "growth_pct": 482,
-      "sentiment_positive": 79,
+      "trend_score": 71,
+      "growth_pct": 82,
+      "sentiment_positive": 80,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3937550,
       "name": "Yakuza Kiwami 3 &amp; Dark Ties",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3937550/header.jpg",
-      "trend_score": 91,
-      "growth_pct": 1217,
-      "sentiment_positive": 94,
+      "trend_score": 79,
+      "growth_pct": 433,
+      "sentiment_positive": 95,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 2058190,
       "name": "Lost Judgment",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2058190/header.jpg",
-      "trend_score": 74,
-      "growth_pct": 963,
-      "sentiment_positive": 87,
+      "trend_score": 83,
+      "growth_pct": 538,
+      "sentiment_positive": 94,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 1597080,
       "name": "Killer Bean",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597080/header.jpg",
-      "trend_score": 71,
-      "growth_pct": 981,
-      "sentiment_positive": 96,
+      "trend_score": 91,
+      "growth_pct": 488,
+      "sentiment_positive": 81,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 4038930,
       "name": "DYNASTY WARRIORS: ORIGINS Visions of Four Heroes",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4038930/header.jpg",
-      "trend_score": 81,
-      "growth_pct": 294,
-      "sentiment_positive": 93,
+      "trend_score": 94,
+      "growth_pct": 186,
+      "sentiment_positive": 81,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     },
     {
       "app_id": 3717330,
       "name": "Yakuza Kiwami",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3717330/header.jpg",
-      "trend_score": 84,
-      "growth_pct": 1121,
-      "sentiment_positive": 87,
+      "trend_score": 83,
+      "growth_pct": 343,
+      "sentiment_positive": 85,
       "tags": [
         "Creature Collector",
         "Indie",
-        "Adventure",
-        "Singleplayer",
-        "3D"
+        "Singleplayer"
       ]
     }
   ]

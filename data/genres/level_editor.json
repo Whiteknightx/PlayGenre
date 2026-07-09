@@ -1,0 +1,392 @@
+{
+  "genre_id": "level_editor",
+  "genre_name": "Level Editor",
+  "category": "Mechanic",
+  "supply_count": 1457,
+  "demand_count": 5060,
+  "growth_pct": 46.4,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1518,
+    "youtube": 1518,
+    "tiktok": 759,
+    "steam": 759,
+    "bluesky": 460
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2007
+    },
+    {
+      "month": "Feb",
+      "count": 2791
+    },
+    {
+      "month": "Mar",
+      "count": 3726
+    },
+    {
+      "month": "Apr",
+      "count": 4328
+    },
+    {
+      "month": "May",
+      "count": 4752
+    },
+    {
+      "month": "Jun",
+      "count": 4648
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Indie",
+    "Psychological Horror",
+    "Gun Customization",
+    "Shooter",
+    "Tactical"
+  ],
+  "games": [
+    {
+      "app_id": 3932890,
+      "name": "Escape from Tarkov",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/header.jpg",
+      "trend_score": 78,
+      "growth_pct": 210,
+      "sentiment_positive": 95,
+      "tags": [
+        "Psychological Horror",
+        "Extraction Shooter",
+        "Gun Customization",
+        "Shooter",
+        "Looter Shooter",
+        "Tactical",
+        "FPS",
+        "Survival Horror",
+        "Military",
+        "First-Person"
+      ]
+    },
+    {
+      "app_id": 1144200,
+      "name": "Ready or Not",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 477,
+      "sentiment_positive": 87,
+      "tags": [
+        "Tactical",
+        "Realistic",
+        "FPS",
+        "Shooter",
+        "Multiplayer",
+        "Singleplayer",
+        "Co-op",
+        "Horror",
+        "First-Person",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 2507950,
+      "name": "Delta Force",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 344,
+      "sentiment_positive": 90,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2073620,
+      "name": "Arena Breakout: Infinite",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073620/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 42,
+      "sentiment_positive": 92,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2479810,
+      "name": "Gray Zone Warfare",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479810/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 475,
+      "sentiment_positive": 82,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3606480,
+      "name": "Call of Duty\u00ae: Black Ops 7",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 509,
+      "sentiment_positive": 80,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3065800,
+      "name": "Marathon",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3065800/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 276,
+      "sentiment_positive": 96,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1913370,
+      "name": "OPERATOR",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1913370/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 443,
+      "sentiment_positive": 89,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 218620,
+      "name": "PAYDAY 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 555,
+      "sentiment_positive": 92,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2369390,
+      "name": "Far Cry\u00ae 6",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 448,
+      "sentiment_positive": 89,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 699130,
+      "name": "World War Z",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 523,
+      "sentiment_positive": 91,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4435490,
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 272,
+      "sentiment_positive": 83,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4090980,
+      "name": "Escape from Tarkov - The Unheard Steam Edition Expansion Pack",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4090980/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 263,
+      "sentiment_positive": 92,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2000950,
+      "name": "Call of Duty\u00ae: Modern Warfare\u00ae",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 584,
+      "sentiment_positive": 89,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1272080,
+      "name": "PAYDAY 3",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 72,
+      "sentiment_positive": 91,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3167020,
+      "name": "Escape From Duckov",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 577,
+      "sentiment_positive": 93,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1985810,
+      "name": "Call of Duty\u00ae: Black Ops Cold War",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 233,
+      "sentiment_positive": 94,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 881100,
+      "name": "Noita",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 272,
+      "sentiment_positive": 80,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1029690,
+      "name": "Sniper Elite 5",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
+      "trend_score": 92,
+      "growth_pct": 266,
+      "sentiment_positive": 84,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3347400,
+      "name": "GIRLS' FRONTLINE 2: EXILIUM",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3347400/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 54,
+      "sentiment_positive": 93,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 1963610,
+      "name": "Road to Vostok",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1963610/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 509,
+      "sentiment_positive": 96,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 4323990,
+      "name": "EMPULSE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4323990/header.jpg",
+      "trend_score": 72,
+      "growth_pct": 194,
+      "sentiment_positive": 91,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2124120,
+      "name": "SULFUR",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124120/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 282,
+      "sentiment_positive": 82,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 2828860,
+      "name": "The Forever Winter",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828860/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 273,
+      "sentiment_positive": 93,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    },
+    {
+      "app_id": 3174120,
+      "name": "Ready or Not: Dark Waters",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3174120/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 397,
+      "sentiment_positive": 84,
+      "tags": [
+        "Level Editor",
+        "Indie",
+        "Singleplayer"
+      ]
+    }
+  ]
+}
