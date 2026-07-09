@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════════════════════════════════
-   PLAYGENRE DESIGN SYSTEM — Dark Glassmorphism & Neon Cyan/Purple Highlights
+   PLAYATLAS DESIGN SYSTEM — Dark Glassmorphism & Neon Cyan/Purple Highlights
    ══════════════════════════════════════════════════════════════════════════════ */
 :root {
   --bg:         #04040a;
@@ -936,6 +936,13 @@ body::before {
 @keyframes spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+/* ── NETWORK VISUALIZER CONTAINER ── */
+#genre-network-graph {
+  box-shadow: inset 0 0 20px rgba(6, 182, 212, 0.05);
+  position: relative;
+  overflow: hidden;
 }
 
 /* Responsive queries */

@@ -3,20 +3,22 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>PLAYGENRE — Market Intelligence Engine</title>
-  <meta name="description" content="PlayGenre is the market intelligence engine for indie game developers. Identify emerging micro-genres, spot low-competition niches, and track live social discussion heatmaps."/>
+  <title>PLAYATLAS — Market Intelligence Engine</title>
+  <meta name="description" content="PlayAtlas is the market intelligence engine for indie game developers. Identify emerging micro-genres, spot low-competition niches, and track live social discussion heatmaps."/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;700;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="style.css"/>
   <!-- Load Chart.js for data visualizations -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Load Vis-Network for interactive node graphs -->
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
 </head>
 <body>
 
   <!-- ═══════════ BOOT SCREEN ═══════════ -->
   <div id="boot">
-    <div class="boot-logo">PLAYGENRE</div>
+    <div class="boot-logo">PLAYATLAS</div>
     <div class="boot-sub">Market Intelligence Engine</div>
     <div class="boot-bar-wrap"><div class="boot-bar"></div></div>
     <div class="boot-status">INITIALIZING GENRE NETWORK...</div>
@@ -31,7 +33,7 @@
     <!-- HEADER NAVBAR -->
     <header class="header">
       <div class="header-logo" onclick="switchTab('pulse')">
-        PLAYGENRE
+        PLAYATLAS
         <span class="header-logo-sub">Market Watch</span>
       </div>
 
@@ -203,13 +205,10 @@
                 </div>
               </div>
 
-              <!-- Related mechanic network -->
               <div style="margin-top: 1.5rem;">
                 <div class="panel-title" style="margin-bottom: 0.5rem;"><span class="dot cyan"></span> Related Mechanics & Tags Network</div>
-                <p style="font-size: 0.8rem; color: var(--text-dim);">Co-occurrence analysis: Tags most commonly found alongside this genre on top performing Steam pages.</p>
-                <div class="network-list" id="genre-network-nodes">
-                  <!-- Nodes injected dynamically -->
-                </div>
+                <p style="font-size: 0.8rem; color: var(--text-dim); margin-bottom: 0.8rem;">Co-occurrence analysis: Tags most commonly found alongside this genre on top performing Steam pages. Hover to explore, drag nodes, or double-click a node to jump to it.</p>
+                <div id="genre-network-graph" style="height: 320px; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(4, 4, 12, 0.5); overflow: hidden;"></div>
               </div>
             </div>
 

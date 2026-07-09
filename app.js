@@ -1,6 +1,6 @@
 /* ══════════════════════════════════════════════════════════════════════════════
-   PLAYGENRE — Market Intelligence Engine
-   app.js — Routing, Data Loading, Charts, and Interaction Logic (v2)
+   PLAYATLAS — Market Intelligence Engine
+   app.js — Routing, Data Loading, Charts, and Interaction Logic (v3)
    ══════════════════════════════════════════════════════════════════════════════ */
 
 // ── STATE ──
@@ -9,13 +9,14 @@ let marketGrid = [];
 let networks = {};
 let trendingGames = [];
 let trendingCategorized = { released: [], anticipated: [], demo_available: [] };
-let genreDetailCache = {};
+let genreDetailsDatabase = {}; // Consolidated details map
 let activeGenreKey = null;
 
-// Chart Instances
+// Chart/Visual Instances
 let timelineChartInstance = null;
 let platformChartInstance = null;
 let radarChartInstance = null;
+let activeNetworkInstance = null; // Vis-Network Graph instance
 
 // Pagination & Filtering State
 let trendsCurrentPage = 1;
@@ -56,12 +57,13 @@ function switchTab(tab) {
 // ── DATA LOADING ──
 async function loadAllData() {
   try {
-    const [trendsRes, gridRes, netRes, gamesRes, catRes] = await Promise.allSettled([
+    const [trendsRes, gridRes, netRes, gamesRes, catRes, detailsRes] = await Promise.allSettled([
       fetch('data/global_trends.json').then(r => r.ok ? r.json() : null),
       fetch('data/market_grid.json').then(r => r.ok ? r.json() : null),
       fetch('data/networks.json').then(r => r.ok ? r.json() : null),
       fetch('data/games_trend.json').then(r => r.ok ? r.json() : null),
       fetch('data/trending_categorized.json').then(r => r.ok ? r.json() : null),
+      fetch('data/genre_details.json').then(r => r.ok ? r.json() : null),
     ]);
 
     globalTrends = trendsRes.status === 'fulfilled' && trendsRes.value ? trendsRes.value : getFallbackTrends();
@@ -69,6 +71,7 @@ async function loadAllData() {
     networks = netRes.status === 'fulfilled' && netRes.value ? netRes.value : getFallbackNetworks();
     trendingGames = gamesRes.status === 'fulfilled' && gamesRes.value ? gamesRes.value : getFallbackTrendingGames();
     trendingCategorized = catRes.status === 'fulfilled' && catRes.value ? catRes.value : getFallbackTrendingCategorized();
+    genreDetailsDatabase = detailsRes.status === 'fulfilled' && detailsRes.value ? detailsRes.value : {};
   } catch (e) {
     console.warn('Data load failed, using fallback data:', e);
     globalTrends = getFallbackTrends();
@@ -76,6 +79,7 @@ async function loadAllData() {
     networks = getFallbackNetworks();
     trendingGames = getFallbackTrendingGames();
     trendingCategorized = getFallbackTrendingCategorized();
+    genreDetailsDatabase = {};
   }
 
   renderPulseDashboard();
@@ -146,7 +150,6 @@ function renderTrendsTable() {
   const paginationContainer = document.getElementById('trends-pagination');
   if (!tbody) return;
 
-  // Pagination bounds
   const totalItems = globalTrends.length;
   const totalPages = Math.ceil(totalItems / trendsRowsPerPage);
   if (trendsCurrentPage > totalPages) trendsCurrentPage = totalPages;
@@ -177,7 +180,6 @@ function renderTrendsTable() {
     `;
   }).join('');
 
-  // Render Table Pagination Controls
   if (paginationContainer) {
     paginationContainer.innerHTML = `
       <button onclick="setTrendsPage(${trendsCurrentPage - 1})" ${trendsCurrentPage === 1 ? 'disabled' : ''}>« Prev</button>
@@ -231,11 +233,11 @@ function renderGameCard(game) {
 
 function jumpToGenre(genreId) {
   switchTab('genre');
-  setTimeout(() => selectGenre(genreId), 100);
+  setTimeout(() => selectGenre(genreId), 150);
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
-// NEW SECTION: TRENDING GAMES (CATEGORIZED)
+// SECTION: TRENDING GAMES (CATEGORIZED)
 // ══════════════════════════════════════════════════════════════════════════════
 
 function renderTrendingGamesSection() {
@@ -300,14 +302,12 @@ function renderGenreSidebar() {
   const paginationContainer = document.getElementById('genre-pagination');
   if (!container) return;
 
-  // Filter trends list
   const filtered = globalTrends.filter(g => {
     const matchesSearch = g.genre_name.toLowerCase().includes(genreSearchQuery.toLowerCase());
     const matchesCategory = genreCategoryFilter === "All" || g.category === genreCategoryFilter;
     return matchesSearch && matchesCategory;
   });
 
-  // Paginate filtered sidebar
   const totalItems = filtered.length;
   const totalPages = Math.ceil(totalItems / genreRowsPerPage) || 1;
   if (genreCurrentPage > totalPages) genreCurrentPage = totalPages;
@@ -327,7 +327,6 @@ function renderGenreSidebar() {
     container.innerHTML = `<div style="padding:1.5rem; text-align:center; color:var(--text-muted); font-size:0.85rem;">No tags found.</div>`;
   }
 
-  // Sidebar Pagination Controls
   if (paginationContainer) {
     paginationContainer.innerHTML = `
       <button onclick="setGenreSidebarPage(${genreCurrentPage - 1})" ${genreCurrentPage === 1 ? 'disabled' : ''}>«</button>
@@ -336,7 +335,6 @@ function renderGenreSidebar() {
     `;
   }
 
-  // Automatically select first element if none selected
   if (!activeGenreKey && paginated.length > 0) {
     selectGenre(paginated[0].genre_id);
   }
@@ -366,7 +364,7 @@ function setGenreCategoryFilter(category) {
   renderGenreSidebar();
 }
 
-async function selectGenre(genreId) {
+function selectGenre(genreId) {
   activeGenreKey = genreId;
 
   document.querySelectorAll('.sidebar-item').forEach(b => b.classList.remove('active'));
@@ -376,19 +374,10 @@ async function selectGenre(genreId) {
   const panel = document.getElementById('genre-detail-panel');
   if (panel) panel.style.display = 'block';
 
-  let data = genreDetailCache[genreId];
-  if (!data) {
-    try {
-      const res = await fetch(`data/genres/${genreId}.json`);
-      if (res.ok) {
-        data = await res.json();
-        genreDetailCache[genreId] = data;
-      }
-    } catch (e) {
-      console.warn('Genre detail fetch failed:', e);
-    }
-  }
+  // Instant lookup from consolidated database loaded on boot
+  let data = genreDetailsDatabase[genreId];
 
+  // Smart fallback if database lookup returned nothing
   if (!data) {
     const summary = globalTrends.find(g => g.genre_id === genreId);
     if (summary) {
@@ -452,9 +441,8 @@ function renderGenreDetail(data) {
   oppBadge.textContent = (data.opportunity_class === 'Excellent' ? '⭐ ' : '') + data.opportunity_class;
   oppBadge.className = 'opp-badge ' + oppClass;
 
-  const networkContainer = document.getElementById('genre-network-nodes');
-  const relatedTags = data.related_network || [];
-  networkContainer.innerHTML = relatedTags.map(tag => `<div class="network-node">${tag}</div>`).join('');
+  // Render Interactive Vis-Network Graph instead of static text badges
+  renderNetworkVisualizer(data);
 
   renderTimelineChart(data.timeline || []);
   renderPlatformChart(data.heatmap || {});
@@ -470,6 +458,107 @@ function renderGenreDetail(data) {
       </div>
     `;
   }
+}
+
+// ── RENDER INTERACTIVE NETWORK GRAPH (VIS-NETWORK) ──
+function renderNetworkVisualizer(data) {
+  const container = document.getElementById('genre-network-graph');
+  if (!container) return;
+
+  // Destroy previous network visualization to clean up memory
+  if (activeNetworkInstance) {
+    activeNetworkInstance.destroy();
+    activeNetworkInstance = null;
+  }
+
+  const mainNodeId = 'main_hub';
+  const nodesArray = [
+    {
+      id: mainNodeId,
+      label: data.genre_name,
+      color: {
+        background: '#04040a',
+        border: '#06b6d4',
+        highlight: { background: '#04040a', border: '#06b6d4' }
+      },
+      font: { color: '#f1f5f9', face: 'Outfit', size: 16, bold: true },
+      shape: 'dot',
+      size: 24,
+      shadow: { enabled: true, color: 'rgba(6, 182, 212, 0.4)', size: 10, x: 0, y: 0 }
+    }
+  ];
+
+  const edgesArray = [];
+  const relatedTags = data.related_network || [];
+
+  relatedTags.forEach((tag, idx) => {
+    const tagNodeId = `tag_${idx}`;
+    nodesArray.push({
+      id: tagNodeId,
+      label: tag,
+      color: {
+        background: '#04040a',
+        border: '#8b5cf6',
+        highlight: { background: '#04040a', border: '#8b5cf6' }
+      },
+      font: { color: '#94a3b8', face: 'Outfit', size: 12 },
+      shape: 'dot',
+      size: 16,
+      shadow: { enabled: true, color: 'rgba(139, 92, 246, 0.3)', size: 8, x: 0, y: 0 }
+    });
+
+    edgesArray.push({
+      from: mainNodeId,
+      to: tagNodeId,
+      color: { color: 'rgba(255, 255, 255, 0.12)', highlight: '#8b5cf6' },
+      width: 1.5
+    });
+  });
+
+  const visNodes = new vis.DataSet(nodesArray);
+  const visEdges = new vis.DataSet(edgesArray);
+
+  const visData = { nodes: visNodes, edges: visEdges };
+  const visOptions = {
+    physics: {
+      stabilization: true,
+      barnesHut: {
+        gravitationalConstant: -2200,
+        centralGravity: 0.35,
+        springLength: 95,
+        springConstant: 0.04
+      }
+    },
+    interaction: {
+      hover: true,
+      zoomView: false,
+      dragView: true
+    }
+  };
+
+  activeNetworkInstance = new vis.Network(container, visData, visOptions);
+
+  // Hover cursor states
+  activeNetworkInstance.on("hoverNode", () => {
+    container.style.cursor = 'pointer';
+  });
+  activeNetworkInstance.on("blurNode", () => {
+    container.style.cursor = 'default';
+  });
+
+  // Double click a related tag to navigate to its details immediately
+  activeNetworkInstance.on("doubleClick", (params) => {
+    if (params.nodes.length > 0) {
+      const clickedId = params.nodes[0];
+      if (clickedId !== mainNodeId) {
+        const nodeLabel = visNodes.get(clickedId).label;
+        const matched = globalTrends.find(g => g.genre_name.toLowerCase() === nodeLabel.toLowerCase());
+        if (matched) {
+          selectGenre(matched.genre_id);
+        }
+      }
+    }
+  });
 }
 
 function renderTimelineChart(timeline) {
@@ -584,6 +673,19 @@ function renderRadarScatter() {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      onClick: (e, elements) => {
+        // Jump directly to the clicked subgenre's detail page
+        if (elements.length > 0) {
+          const el = elements[0];
+          const point = radarChartInstance.data.datasets[el.datasetIndex].data[el.index];
+          if (point && point.label) {
+            const matched = globalTrends.find(g => g.genre_name.toLowerCase() === point.label.toLowerCase());
+            if (matched) {
+              jumpToGenre(matched.genre_id);
+            }
+          }
+        }
+      },
       scales: {
         x: {
           title: { display: true, text: 'SUPPLY → (Game Listings Index)', color: '#94a3b8', font: { family: "'Outfit', sans-serif", size: 12, weight: '600' } },
@@ -620,8 +722,7 @@ function renderRadarScatter() {
           const meta = chart.getDatasetMeta(i);
           meta.data.forEach((point, j) => {
             const dataPoint = dataset.data[j];
-            // Label only top performing and interesting nodes to prevent clutter
-            if (dataPoint && dataPoint.label && (dataset.label === 'Excellent' || dataset.label === 'High' || Math.random() < 0.1)) {
+            if (dataPoint && dataPoint.label && (dataset.label === 'Excellent' || dataset.label === 'High' || Math.random() < 0.12)) {
               ctx.save();
               ctx.fillStyle = '#e2e8f0';
               ctx.font = "600 10px 'Outfit', sans-serif";
@@ -636,7 +737,7 @@ function renderRadarScatter() {
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
-// SECTION 4: GAME INVESTIGATOR (CORS Proof Proxy Fetch Chain)
+// SECTION 4: GAME INVESTIGATOR (CORS Proof Proxy Fetch Chain + XML Follower Estimates)
 // ══════════════════════════════════════════════════════════════════════════════
 
 async function fetchWithProxy(targetUrl) {
@@ -682,22 +783,20 @@ async function investigateGame() {
     <div class="panel" style="text-align: center; padding: 3rem;">
       <div style="font-size: 2.2rem; animation: spin 1.2s linear infinite; display: inline-block; margin-bottom: 1.2rem;">🔄</div>
       <h3>Querying Steam Storefront for "${query}"...</h3>
-      <p style="color: var(--text-dim); margin-top: 0.5rem; font-size: 0.9rem;">Resolving Steam AppID and analyzing player counts using dynamic CORS proxy routing...</p>
+      <p style="color: var(--text-dim); margin-top: 0.5rem; font-size: 0.9rem;">Resolving Steam AppID and analyzing community member counts via XML group parsing...</p>
     </div>
   `;
 
   let appId = '';
-  // Check if search query is a Steam store URL
   if (query.includes('steampowered.com/app/')) {
     const match = query.match(/\/app\/(\d+)/);
     if (match) appId = match[1];
   } else if (/^\d+$/.test(query)) {
-    appId = query; // direct appid entered
+    appId = query;
   }
 
   try {
     if (!appId) {
-      // 1. Resolve AppID via search suggest
       const suggestUrl = `https://store.steampowered.com/search/suggest?term=${encodeURIComponent(query)}&f=games&cc=US&realm=1&l=english`;
       const htmlContents = await fetchWithProxy(suggestUrl);
       
@@ -716,13 +815,43 @@ async function investigateGame() {
       return;
     }
 
-    // 2. Fetch App details from Steam Storefront API
+    // Parallel fetch: App details API + keyless XML Group follower lookup
     const detailsUrl = `https://store.steampowered.com/api/appdetails?appids=${appId}`;
-    const rawDetails = await fetchWithProxy(detailsUrl);
-    const parsed = JSON.parse(rawDetails);
+    const xmlGroupUrl = `https://steamcommunity.com/games/${appId}/memberslistxml/?xml=1`;
 
-    if (parsed && parsed[appId] && parsed[appId].success) {
-      const appData = parsed[appId].data;
+    const [detailsRaw, xmlRaw] = await Promise.allSettled([
+      fetchWithProxy(detailsUrl),
+      fetchWithProxy(xmlGroupUrl)
+    ]);
+
+    let appData = null;
+    let followers = 0;
+
+    if (detailsRaw.status === 'fulfilled') {
+      try {
+        const parsed = JSON.parse(detailsRaw.value);
+        if (parsed && parsed[appId] && parsed[appId].success) {
+          appData = parsed[appId].data;
+        }
+      } catch (err) {
+        console.warn("Details parse error:", err);
+      }
+    }
+
+    if (xmlRaw.status === 'fulfilled') {
+      try {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlRaw.value, 'text/xml');
+        const memberCountNode = xmlDoc.querySelector('memberCount');
+        if (memberCountNode) {
+          followers = parseInt(memberCountNode.textContent.trim(), 10) || 0;
+        }
+      } catch (err) {
+        console.warn("Follower XML parsing failed:", err);
+      }
+    }
+
+    if (appData) {
       const tags = (appData.genres || []).map(g => g.description)
         .concat((appData.categories || []).map(c => c.description))
         .concat(['Indie', 'Singleplayer']);
@@ -740,7 +869,8 @@ async function investigateGame() {
         reviews_count: reviewsCount,
         coming_soon: isComingSoon,
         release_date: appData.release_date ? appData.release_date.date : 'TBD',
-        app_id: appId
+        app_id: appId,
+        followers: followers
       }, resultsPanel);
     } else {
       throw new Error("Steam AppDetails lookup returned success=false");
@@ -752,14 +882,12 @@ async function investigateGame() {
 }
 
 function renderFallbackInvestigatorResult(query, container) {
-  // If we can't fetch Steam directly, check local trending games first
   const cacheMatch = trendingGames.find(g => g.name.toLowerCase().includes(query.toLowerCase()));
   if (cacheMatch) {
     renderInvestigatorResult(cacheMatch, container);
     return;
   }
 
-  // Create a realistic early-stage fallback profile
   renderInvestigatorResult({
     name: query,
     capsule_url: '',
@@ -770,7 +898,8 @@ function renderFallbackInvestigatorResult(query, container) {
     reviews_count: 0,
     coming_soon: true,
     release_date: 'TBD',
-    is_fallback: true
+    is_fallback: true,
+    followers: 0
   }, container);
 }
 
@@ -780,13 +909,15 @@ function renderInvestigatorResult(game, container) {
   const sentiment = game.sentiment_positive || 90;
   const reviewsCount = game.reviews_count || 0;
   const isComingSoon = game.coming_soon || false;
+  const followers = game.followers || 0;
+  const estimatedWishlists = followers * 11; // 11x is the standard industry average multiplier
   
   let platforms = [];
   let events = [];
   let report = "";
 
   if (reviewsCount > 5000) {
-    // Massive Released Hit (e.g. Hades, Hollow Knight)
+    // Released Hit (e.g. Hades, Hollow Knight)
     platforms = [
       { name: 'Reddit', pct: 36, color: '#f97316' },
       { name: 'YouTube', pct: 28, color: '#ef4444' },
@@ -800,7 +931,7 @@ function renderInvestigatorResult(game, container) {
       { time: 'Milestone 3', desc: '<strong>Steam launch</strong> — review counts skyrocket with overwhelming positive consensus.' },
       { time: 'Milestone 4', desc: '<strong>Deep engagement</strong> — community content active on Reddit and YouTube.' }
     ];
-    report = `"${game.name}" displays substantial global market momentum (Trend Score: ${trendScore}). Discussions are highly distributed, with massive video sharing and fan art/modding circles. Players praise the deep mechanics. Recommend monitoring for micro-genre spinoff opportunities.`;
+    report = `"${game.name}" displays substantial global market momentum (Trend Score: ${game.trend_score}). With ${followers.toLocaleString()} registered community hub followers, the game holds deep root placement in its category. Sentiment remains high.`;
   } else if (isComingSoon) {
     // Unreleased / Most Anticipated (e.g. Silksong, The Wrong Ones playtest)
     platforms = [
@@ -816,7 +947,7 @@ function renderInvestigatorResult(game, container) {
       { time: 'Community', desc: '<strong>Reddit developer logs</strong> shared, starting organic wishlists.' },
       { time: 'Launch State', desc: '<strong>Coming Soon status active</strong>. Wishlists accumulating steadily.' }
     ];
-    report = `"${game.name}" is currently in its pre-launch cycle. Discussions are highly localized to Steam Community Hub wishlists and developer logs. External platforms (TikTok/YouTube) show minimal footprint, which is expected before release. Focus should remain on player feedback collection and wishlist drives.`;
+    report = `"${game.name}" is currently in its pre-launch cycle. We tracked <strong>${followers.toLocaleString()}</strong> active Steam Community Hub followers, resolving to a projected **${estimatedWishlists.toLocaleString()} wishlists** (using standard community multipliers). Traction is concentrated primarily inside the Steam community forum.`;
   } else {
     // Small released game or demo
     platforms = [
@@ -832,7 +963,7 @@ function renderInvestigatorResult(game, container) {
       { time: 'Milestone 3', desc: '<strong>YouTube creators showcase</strong> gameplay streams.' },
       { time: 'Current Phase', desc: '<strong>Post-release cycle</strong>. Steady, small-scale player recommendations.' }
     ];
-    report = `"${game.name}" shows quiet, steady community support. Sentiment is positive, centered on core player updates. Main traffic flows from Steam discovery algorithms. Recommendation: build wishlists via regular seasonal events.`;
+    report = `"${game.name}" shows quiet, steady community support. Community hub count resolves to ${followers.toLocaleString()} registered players. Focus should remain on regular, organic developer updates.`;
   }
 
   container.innerHTML = `
@@ -844,10 +975,11 @@ function renderInvestigatorResult(game, container) {
           <div class="game-pill-row">
             ${(game.tags || []).slice(0, 6).map(t => `<span class="tag-badge">${t}</span>`).join('')}
           </div>
-          <div style="margin-top: 0.8rem; display: flex; gap: 2rem; font-size: 0.9rem;">
+          <div style="margin-top: 0.8rem; display: flex; flex-wrap: wrap; gap: 1.5rem; font-size: 0.9rem;">
             <span>Trend Score: <strong style="color: var(--cyan); font-size: 1.1rem;">${trendScore}</strong></span>
-            <span>Growth: <strong style="color: var(--success); font-size: 1.1rem;">+${growth}%</strong></span>
             <span>Sentiment: <strong style="color: var(--success); font-size: 1.1rem;">${sentiment}%</strong> positive</span>
+            ${followers > 0 ? `<span>Followers: <strong style="color: var(--cyan); font-size: 1.1rem;">${followers.toLocaleString()}</strong></span>` : ''}
+            ${followers > 0 && isComingSoon ? `<span>Est. Wishlists: <strong style="color: var(--success); font-size: 1.1rem;">${estimatedWishlists.toLocaleString()}</strong></span>` : ''}
           </div>
         </div>
       </div>
@@ -1012,6 +1144,7 @@ function getFallbackMarketGrid() {
   return getFallbackTrends().map(t => ({
     genre_name: t.genre_name,
     supply: Math.min(100, Math.max(5, Math.round((t.this_month / 15000) * 100))),
+    margin: Math.min(100, Math.max(5, Math.round((t.this_month / 12000) * 100))),
     demand: Math.min(100, Math.max(5, Math.round((t.this_month / 12000) * 100))),
     opportunity_score: t.opportunity_score,
     opportunity_class: t.opportunity_class
@@ -1041,18 +1174,18 @@ function getFallbackTrendingGames() {
 function getFallbackTrendingCategorized() {
   return {
     released: [
-      { app_id: 2363900, name: 'Balatro', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2363900/header.jpg', trend_score: 98, sentiment_positive: 97 },
+      { app_id: 2379780, name: 'Balatro', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg', trend_score: 98, sentiment_positive: 97 },
       { app_id: 1172470, name: 'Apex Legends', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg', trend_score: 92, sentiment_positive: 80 },
-      { app_id: 2118170, name: 'Satisactory', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg', trend_score: 96, sentiment_positive: 98 }
+      { app_id: 526870, name: 'Satisfactory', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg', trend_score: 96, sentiment_positive: 98 }
     ],
     anticipated: [
       { app_id: 1324830, name: 'Hollow Knight: Silksong', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1324830/header.jpg', trend_score: 97, sentiment_positive: 95 },
       { app_id: 2129530, name: 'REANIMAL', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg', trend_score: 94, sentiment_positive: 91 },
-      { app_id: 1485590, name: 'Blue Prince', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg', trend_score: 89, sentiment_positive: 93 }
+      { app_id: 1569580, name: 'Blue Prince', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg', trend_score: 89, sentiment_positive: 93 }
     ],
     demo_available: [
       { app_id: 3109400, name: 'Lofi Cabin', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3109400/header.jpg', trend_score: 85, sentiment_positive: 94 },
-      { app_id: 254890, name: 'Cozy Grove Demo', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1458100/header.jpg', trend_score: 82, sentiment_positive: 89 }
+      { app_id: 1458100, name: 'Cozy Grove Demo', capsule_url: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1458100/header.jpg', trend_score: 82, sentiment_positive: 89 }
     ]
   };
 }

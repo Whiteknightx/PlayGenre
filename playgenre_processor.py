@@ -7,6 +7,8 @@ import requests
 import random
 from bs4 import BeautifulSoup
 import concurrent.futures
+import threading
+import shutil
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -428,8 +430,11 @@ def scrape_trending_categorized():
 # ══════════════════════════════════════════════════════════════════════════════
 
 def main():
-    print(f"===== PLAYGENRE DATA ENGINE v2 — {len(TAGS_TO_TRACK)} TAGS =====")
-    os.makedirs("data/genres", exist_ok=True)
+    print(f"===== PLAYATLAS DATA ENGINE v2 — {len(TAGS_TO_TRACK)} TAGS =====")
+    
+    # Initialize thread-safe database variables
+    genre_details_db = {}
+    db_lock = threading.Lock()
 
     genre_trends = []
     market_grid = []
@@ -534,8 +539,8 @@ def main():
             "heatmap": {"reddit": reddit_vol, "youtube": youtube_vol, "tiktok": tiktok_vol, "steam": steam_vol, "bluesky": bsky_count},
             "timeline": timeline, "related_network": top_related, "games": scraped_games
         }
-        with open(f"data/genres/{key}.json", "w", encoding="utf-8") as f:
-            json.dump(genre_payload, f, indent=2)
+        with db_lock:
+            genre_details_db[key] = genre_payload
 
         d5 = max(total_demand / 5, 1)
         genre_trends.append({
@@ -578,6 +583,18 @@ def main():
         json.dump(networks, f, indent=2)
     with open("data/games_trend.json", "w", encoding="utf-8") as f:
         json.dump(trending_games_all[:30], f, indent=2)
+
+    # Write the consolidated database
+    with open("data/genre_details.json", "w", encoding="utf-8") as f:
+        json.dump(genre_details_db, f, indent=2)
+
+    # Clean up deprecated folders to prevent Git bloat
+    if os.path.exists("data/genres"):
+        try:
+            shutil.rmtree("data/genres")
+            print("  Cleaned up data/genres directory successfully.")
+        except Exception as e:
+            print(f"  [WARN] Failed to clean up data/genres directory: {e}")
 
     # Trending categorized
     scrape_trending_categorized()
