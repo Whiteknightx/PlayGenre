@@ -1,0 +1,51 @@
+{
+  "genre_id": "deckbuilder",
+  "genre_name": "Deckbuilder",
+  "category": "Mechanic",
+  "supply_count": 0,
+  "demand_count": 4520,
+  "growth_pct": 33.6,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1356,
+    "youtube": 1356,
+    "tiktok": 678,
+    "steam": 678,
+    "bluesky": 452
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1967
+    },
+    {
+      "month": "Feb",
+      "count": 2663
+    },
+    {
+      "month": "Mar",
+      "count": 3596
+    },
+    {
+      "month": "Apr",
+      "count": 3699
+    },
+    {
+      "month": "May",
+      "count": 4613
+    },
+    {
+      "month": "Jun",
+      "count": 4717
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Casual",
+    "Strategy",
+    "Physics"
+  ],
+  "games": []
+}

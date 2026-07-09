@@ -1,0 +1,51 @@
+{
+  "genre_id": "incremental",
+  "genre_name": "Incremental",
+  "category": "Mechanic",
+  "supply_count": 0,
+  "demand_count": 8085,
+  "growth_pct": 142.5,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 3639,
+    "youtube": 808,
+    "tiktok": 404,
+    "steam": 2830,
+    "bluesky": 674
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 3242
+    },
+    {
+      "month": "Feb",
+      "count": 4735
+    },
+    {
+      "month": "Mar",
+      "count": 5950
+    },
+    {
+      "month": "Apr",
+      "count": 6649
+    },
+    {
+      "month": "May",
+      "count": 8317
+    },
+    {
+      "month": "Jun",
+      "count": 7353
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Casual",
+    "Strategy",
+    "Physics"
+  ],
+  "games": []
+}

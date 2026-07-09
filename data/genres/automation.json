@@ -1,0 +1,51 @@
+{
+  "genre_id": "automation",
+  "genre_name": "Automation",
+  "category": "Mechanic",
+  "supply_count": 0,
+  "demand_count": 6280,
+  "growth_pct": 65.3,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1884,
+    "youtube": 1884,
+    "tiktok": 942,
+    "steam": 942,
+    "bluesky": 785
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2438
+    },
+    {
+      "month": "Feb",
+      "count": 3778
+    },
+    {
+      "month": "Mar",
+      "count": 4301
+    },
+    {
+      "month": "Apr",
+      "count": 5762
+    },
+    {
+      "month": "May",
+      "count": 6074
+    },
+    {
+      "month": "Jun",
+      "count": 5655
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Casual",
+    "Strategy",
+    "Physics"
+  ],
+  "games": []
+}

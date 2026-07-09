@@ -1,0 +1,456 @@
+{
+  "genre_id": "walking_simulator",
+  "genre_name": "Walking Simulator",
+  "category": "Genre",
+  "supply_count": 2837,
+  "demand_count": 5789,
+  "growth_pct": 37.6,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1737,
+    "youtube": 1737,
+    "tiktok": 868,
+    "steam": 868,
+    "bluesky": 724
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 2456
+    },
+    {
+      "month": "Feb",
+      "count": 3445
+    },
+    {
+      "month": "Mar",
+      "count": 4136
+    },
+    {
+      "month": "Apr",
+      "count": 5107
+    },
+    {
+      "month": "May",
+      "count": 5644
+    },
+    {
+      "month": "Jun",
+      "count": 6211
+    }
+  ],
+  "related_network": [
+    "Adventure",
+    "Singleplayer",
+    "Indie",
+    "3D",
+    "Open World",
+    "Stealth"
+  ],
+  "games": [
+    {
+      "app_id": 518790,
+      "name": "theHunter: Call of the Wild\u2122",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 1249,
+      "sentiment_positive": 87,
+      "tags": [
+        "Hunting",
+        "Open World",
+        "Multiplayer",
+        "Nature",
+        "Relaxing",
+        "Stealth",
+        "FPS",
+        "Simulation",
+        "Survival",
+        "Realistic",
+        "Sandbox",
+        "Online Co-Op"
+      ]
+    },
+    {
+      "app_id": 3280350,
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 608,
+      "sentiment_positive": 80,
+      "tags": [
+        "Open World",
+        "Exploration",
+        "Sci-fi",
+        "Walking Simulator",
+        "Atmospheric",
+        "Action",
+        "Third-Person Shooter",
+        "Action-Adventure",
+        "Post-apocalyptic",
+        "Third Person",
+        "Adventure",
+        "Emotional"
+      ]
+    },
+    {
+      "app_id": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+      "trend_score": 98,
+      "growth_pct": 1787,
+      "sentiment_positive": 83,
+      "tags": [
+        "Open World",
+        "RPG",
+        "Adventure",
+        "Fantasy",
+        "Singleplayer",
+        "Character Customization",
+        "Moddable",
+        "Dragons",
+        "Story Rich",
+        "Magic",
+        "First-Person",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 376210,
+      "name": "The Isle",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/376210/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 227,
+      "sentiment_positive": 87,
+      "tags": [
+        "Dinosaurs",
+        "Survival",
+        "Open World",
+        "Multiplayer",
+        "Simulation",
+        "Hunting",
+        "Realistic",
+        "Massively Multiplayer",
+        "Adventure",
+        "Horror",
+        "Early Access",
+        "Action"
+      ]
+    },
+    {
+      "app_id": 731040,
+      "name": "The Invincible",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/731040/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 922,
+      "sentiment_positive": 92,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 752590,
+      "name": "A Plague Tale: Innocence",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 674,
+      "sentiment_positive": 94,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 4121170,
+      "name": "Fears to Fathom\u00ae - Scratch Creek",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4121170/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 1510,
+      "sentiment_positive": 91,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1850570,
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 211,
+      "sentiment_positive": 94,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1588550,
+      "name": "Cairn",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1588550/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 1615,
+      "sentiment_positive": 89,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1040200,
+      "name": "Crime Scene Cleaner",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1040200/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 994,
+      "sentiment_positive": 81,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 4800590,
+      "name": "Supermarket Chaos",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4800590/header.jpg",
+      "trend_score": 89,
+      "growth_pct": 1714,
+      "sentiment_positive": 87,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1703340,
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1703340/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 323,
+      "sentiment_positive": 91,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2582320,
+      "name": "Mixtape",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2582320/header.jpg",
+      "trend_score": 79,
+      "growth_pct": 1651,
+      "sentiment_positive": 89,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 383870,
+      "name": "Firewatch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383870/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 140,
+      "sentiment_positive": 86,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1622910,
+      "name": "Still Wakes the Deep",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1622910/header.jpg",
+      "trend_score": 74,
+      "growth_pct": 476,
+      "sentiment_positive": 92,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1746860,
+      "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746860/header.jpg",
+      "trend_score": 84,
+      "growth_pct": 1663,
+      "sentiment_positive": 81,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 305620,
+      "name": "The Long Dark",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/305620/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 943,
+      "sentiment_positive": 91,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2461850,
+      "name": "Hellblade II: Senua\u2019s Saga",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2461850/header.jpg",
+      "trend_score": 70,
+      "growth_pct": 1634,
+      "sentiment_positive": 80,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2475490,
+      "name": "Mouthwashing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 1397,
+      "sentiment_positive": 91,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 501300,
+      "name": "What Remains of Edith Finch",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 887,
+      "sentiment_positive": 92,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 606160,
+      "name": "ROUTINE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606160/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 1294,
+      "sentiment_positive": 87,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 238320,
+      "name": "Outlast",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 1761,
+      "sentiment_positive": 85,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1041320,
+      "name": "Lords Mobile: Kingdom Wars",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1041320/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 1546,
+      "sentiment_positive": 92,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2458980,
+      "name": "Dimhaven - The Lost Source",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458980/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 1097,
+      "sentiment_positive": 89,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 282140,
+      "name": "SOMA",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
+      "trend_score": 93,
+      "growth_pct": 997,
+      "sentiment_positive": 90,
+      "tags": [
+        "Walking Simulator",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    }
+  ]
+}

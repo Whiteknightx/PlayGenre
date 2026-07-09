@@ -1,0 +1,456 @@
+{
+  "genre_id": "colony_sim",
+  "genre_name": "Colony Sim",
+  "category": "Genre",
+  "supply_count": 2138,
+  "demand_count": 6900,
+  "growth_pct": 18.9,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 2070,
+    "youtube": 2070,
+    "tiktok": 1035,
+    "steam": 1035,
+    "bluesky": 575
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 3018
+    },
+    {
+      "month": "Feb",
+      "count": 4090
+    },
+    {
+      "month": "Mar",
+      "count": 5512
+    },
+    {
+      "month": "Apr",
+      "count": 6693
+    },
+    {
+      "month": "May",
+      "count": 6776
+    },
+    {
+      "month": "Jun",
+      "count": 6809
+    }
+  ],
+  "related_network": [
+    "Singleplayer",
+    "Adventure",
+    "3D",
+    "Indie",
+    "Surreal",
+    "Mystery"
+  ],
+  "games": [
+    {
+      "app_id": 1671210,
+      "name": "DELTARUNE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 928,
+      "sentiment_positive": 87,
+      "tags": [
+        "Story Rich",
+        "Great Soundtrack",
+        "Pixel Graphics",
+        "Funny",
+        "RPG",
+        "Singleplayer",
+        "Bullet Hell",
+        "Emotional",
+        "2D",
+        "Comedy",
+        "Fantasy",
+        "Soundtrack"
+      ]
+    },
+    {
+      "app_id": 686060,
+      "name": "Mewgenics",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+      "trend_score": 97,
+      "growth_pct": 955,
+      "sentiment_positive": 79,
+      "tags": [
+        "Turn-Based Tactics",
+        "Roguelite",
+        "Cats",
+        "Dark Humor",
+        "Turn-Based Strategy",
+        "Turn-Based Combat",
+        "RPG",
+        "Funny",
+        "Cute",
+        "2D",
+        "Comic Book",
+        "Horror"
+      ]
+    },
+    {
+      "app_id": 1475810,
+      "name": "Ghostwire: Tokyo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg",
+      "trend_score": 94,
+      "growth_pct": 815,
+      "sentiment_positive": 82,
+      "tags": [
+        "Singleplayer",
+        "Open World",
+        "Supernatural",
+        "First-Person",
+        "Horror",
+        "Action-Adventure",
+        "Action",
+        "Story Rich",
+        "Atmospheric",
+        "Surreal",
+        "Lore-Rich",
+        "Mystery"
+      ]
+    },
+    {
+      "app_id": 2129530,
+      "name": "REANIMAL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 1182,
+      "sentiment_positive": 96,
+      "tags": [
+        "Horror",
+        "Co-op",
+        "Adventure",
+        "Atmospheric",
+        "Multiplayer",
+        "Dark",
+        "Local Co-Op",
+        "Puzzle",
+        "3D",
+        "Third Person",
+        "Online Co-Op",
+        "Cinematic"
+      ]
+    },
+    {
+      "app_id": 4508340,
+      "name": "NTE: Neverness to Everness",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 737,
+      "sentiment_positive": 85,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2567870,
+      "name": "Chained Together",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 1472,
+      "sentiment_positive": 84,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 632470,
+      "name": "Disco Elysium - The Final Cut",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
+      "trend_score": 95,
+      "growth_pct": 222,
+      "sentiment_positive": 86,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1250410,
+      "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg",
+      "trend_score": 87,
+      "growth_pct": 1570,
+      "sentiment_positive": 87,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2835570,
+      "name": "Buckshot Roulette",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835570/header.jpg",
+      "trend_score": 80,
+      "growth_pct": 243,
+      "sentiment_positive": 83,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2444750,
+      "name": "Shape of Dreams",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2444750/header.jpg",
+      "trend_score": 96,
+      "growth_pct": 428,
+      "sentiment_positive": 95,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 219150,
+      "name": "Hotline Miami",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 332,
+      "sentiment_positive": 81,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1092790,
+      "name": "Inscryption",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 666,
+      "sentiment_positive": 93,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 3314790,
+      "name": "CloverPit",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3314790/header.jpg",
+      "trend_score": 90,
+      "growth_pct": 1489,
+      "sentiment_positive": 86,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 870780,
+      "name": "CONTROL Ultimate Edition",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/870780/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 494,
+      "sentiment_positive": 86,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2475490,
+      "name": "Mouthwashing",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg",
+      "trend_score": 75,
+      "growth_pct": 1193,
+      "sentiment_positive": 94,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 3370870,
+      "name": "Berry Bury Berry",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3370870/header.jpg",
+      "trend_score": 86,
+      "growth_pct": 1323,
+      "sentiment_positive": 93,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 813230,
+      "name": "ANIMAL WELL",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg",
+      "trend_score": 91,
+      "growth_pct": 1089,
+      "sentiment_positive": 88,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1929610,
+      "name": "Demonologist",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 700,
+      "sentiment_positive": 79,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2307350,
+      "name": "Into the Radius 2",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2307350/header.jpg",
+      "trend_score": 76,
+      "growth_pct": 1567,
+      "sentiment_positive": 88,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 3495730,
+      "name": "Lucid Blocks",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3495730/header.jpg",
+      "trend_score": 71,
+      "growth_pct": 111,
+      "sentiment_positive": 84,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1382070,
+      "name": "Viewfinder",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382070/header.jpg",
+      "trend_score": 77,
+      "growth_pct": 1680,
+      "sentiment_positive": 81,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 1049410,
+      "name": "Superliminal",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049410/header.jpg",
+      "trend_score": 83,
+      "growth_pct": 633,
+      "sentiment_positive": 79,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 4064510,
+      "name": "MOLE",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4064510/header.jpg",
+      "trend_score": 82,
+      "growth_pct": 1679,
+      "sentiment_positive": 87,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2458980,
+      "name": "Dimhaven - The Lost Source",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2458980/header.jpg",
+      "trend_score": 85,
+      "growth_pct": 1537,
+      "sentiment_positive": 90,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    },
+    {
+      "app_id": 2982610,
+      "name": "Stonemachia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2982610/header.jpg",
+      "trend_score": 81,
+      "growth_pct": 392,
+      "sentiment_positive": 78,
+      "tags": [
+        "Colony Sim",
+        "Indie",
+        "Adventure",
+        "Singleplayer",
+        "3D"
+      ]
+    }
+  ]
+}

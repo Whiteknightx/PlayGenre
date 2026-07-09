@@ -1,0 +1,51 @@
+{
+  "genre_id": "cozy",
+  "genre_name": "Cozy",
+  "category": "Theme",
+  "supply_count": 0,
+  "demand_count": 3822,
+  "growth_pct": 48.9,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 1529,
+    "youtube": 764,
+    "tiktok": 1147,
+    "steam": 191,
+    "bluesky": 478
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1674
+    },
+    {
+      "month": "Feb",
+      "count": 2379
+    },
+    {
+      "month": "Mar",
+      "count": 3062
+    },
+    {
+      "month": "Apr",
+      "count": 3666
+    },
+    {
+      "month": "May",
+      "count": 3710
+    },
+    {
+      "month": "Jun",
+      "count": 3480
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Casual",
+    "Strategy",
+    "Physics"
+  ],
+  "games": []
+}

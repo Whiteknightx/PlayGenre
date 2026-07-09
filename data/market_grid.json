@@ -1,0 +1,114 @@
+[
+  {
+    "genre_id": "incremental",
+    "genre_name": "Incremental",
+    "supply": 5,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "cozy",
+    "genre_name": "Cozy",
+    "supply": 5,
+    "demand": 76,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "bullet_heaven",
+    "genre_name": "Bullet Heaven",
+    "supply": 5,
+    "demand": 91,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "creature_collector",
+    "genre_name": "Creature Collector",
+    "supply": 49,
+    "demand": 26,
+    "opportunity_score": 6.6,
+    "opportunity_class": "High"
+  },
+  {
+    "genre_id": "psychological_horror",
+    "genre_name": "Psychological Horror",
+    "supply": 62,
+    "demand": 81,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "automation",
+    "genre_name": "Automation",
+    "supply": 5,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "roguelite",
+    "genre_name": "Roguelite",
+    "supply": 67,
+    "demand": 38,
+    "opportunity_score": 7.2,
+    "opportunity_class": "High"
+  },
+  {
+    "genre_id": "deckbuilder",
+    "genre_name": "Deckbuilder",
+    "supply": 5,
+    "demand": 90,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "colony_sim",
+    "genre_name": "Colony Sim",
+    "supply": 35,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "precision_platformer",
+    "genre_name": "Precision Platformer",
+    "supply": 49,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "soulslike",
+    "genre_name": "Soulslike",
+    "supply": 70,
+    "demand": 66,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "walking_simulator",
+    "genre_name": "Walking Simulator",
+    "supply": 47,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "open_world_survival_craft",
+    "genre_name": "Open World Survival Craft",
+    "supply": 5,
+    "demand": 66,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "immersive_sim",
+    "genre_name": "Immersive Sim",
+    "supply": 33,
+    "demand": 77,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  }
+]

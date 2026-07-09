@@ -1,0 +1,51 @@
+{
+  "genre_id": "open_world_survival_craft",
+  "genre_name": "Open World Survival Craft",
+  "category": "Genre",
+  "supply_count": 0,
+  "demand_count": 3309,
+  "growth_pct": 7.0,
+  "opportunity_score": 9.9,
+  "opportunity_class": "Excellent",
+  "heatmap": {
+    "reddit": 993,
+    "youtube": 993,
+    "tiktok": 496,
+    "steam": 496,
+    "bluesky": 414
+  },
+  "timeline": [
+    {
+      "month": "Jan",
+      "count": 1408
+    },
+    {
+      "month": "Feb",
+      "count": 1901
+    },
+    {
+      "month": "Mar",
+      "count": 2432
+    },
+    {
+      "month": "Apr",
+      "count": 2789
+    },
+    {
+      "month": "May",
+      "count": 3387
+    },
+    {
+      "month": "Jun",
+      "count": 3296
+    }
+  ],
+  "related_network": [
+    "Indie",
+    "Singleplayer",
+    "Casual",
+    "Strategy",
+    "Physics"
+  ],
+  "games": []
+}
