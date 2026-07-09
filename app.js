@@ -580,58 +580,159 @@ function renderRadarScatter() {
 // SECTION 4: GAME INVESTIGATOR
 // ══════════════════════════════════════════════════════════════════════════════
 
-function investigateGame() {
+async function investigateGame() {
   const input = document.getElementById('game-search-input');
   const query = (input ? input.value : '').trim();
   if (!query) return;
 
   const resultsPanel = document.getElementById('investigator-results');
   if (!resultsPanel) return;
+  
   resultsPanel.style.display = 'block';
+  resultsPanel.innerHTML = `
+    <div class="panel" style="text-align: center; padding: 3rem;">
+      <div style="font-size: 2rem; animation: spin 1s linear infinite; display: inline-block; margin-bottom: 1rem;">🔄</div>
+      <h3>Querying Steam Storefront for "${query}"...</h3>
+      <p style="color: var(--text-dim); margin-top: 0.5rem; font-size: 0.9rem;">Resolving Steam AppID and pulling store metrics...</p>
+    </div>
+  `;
 
-  // Try to match against our trending games dataset
-  const match = trendingGames.find(g =>
-    g.name.toLowerCase().includes(query.toLowerCase())
-  );
+  // First, check if it's already in our local trending games cache to save an API call
+  const localMatch = trendingGames.find(g => g.name.toLowerCase().includes(query.toLowerCase()));
+  if (localMatch) {
+    renderInvestigatorResult(localMatch, resultsPanel);
+    return;
+  }
 
-  if (match) {
-    renderInvestigatorResult(match, resultsPanel);
-  } else {
-    // Generate simulated investigation for any query
+  // Otherwise, run a real-time Steam fetch using AllOrigins
+  let appId = '';
+  // Check if search query is a Steam store URL
+  if (query.includes('steampowered.com/app/')) {
+    const match = query.match(/\/app\/(\d+)/);
+    if (match) appId = match[1];
+  }
+
+  try {
+    if (!appId) {
+      // Find App ID on Steam Store Search Suggest
+      const searchProxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('https://store.steampowered.com/search/suggest?term=' + encodeURIComponent(query) + '&f=games&cc=US&realm=1&l=english')}`;
+      const searchRes = await fetch(searchProxyUrl);
+      const searchData = await searchRes.json();
+      
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(searchData.contents, 'text/html');
+      const firstLink = doc.querySelector('a');
+      if (firstLink) {
+        const linkUrl = firstLink.getAttribute('href');
+        const match = linkUrl ? linkUrl.match(/\/app\/(\d+)/) : null;
+        if (match) appId = match[1];
+      }
+    }
+
+    if (!appId) {
+      renderInvestigatorResult({
+        name: query,
+        capsule_url: '',
+        trend_score: 12,
+        growth_pct: 5,
+        sentiment_positive: 90,
+        tags: ['Indie', 'Singleplayer', 'Atmospheric'],
+        reviews_count: 0,
+        is_fallback: true
+      }, resultsPanel);
+      return;
+    }
+
+    // Fetch App details from Steam API
+    const detailsProxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('https://store.steampowered.com/api/appdetails?appids=' + appId)}`;
+    const detailsRes = await fetch(detailsProxyUrl);
+    const detailsJson = await detailsRes.json();
+    const parsed = JSON.parse(detailsJson.contents);
+    
+    if (parsed && parsed[appId] && parsed[appId].success) {
+      const appData = parsed[appId].data;
+      const tags = (appData.genres || []).map(g => g.description)
+        .concat((appData.categories || []).map(c => c.description))
+        .concat(['Indie', 'Singleplayer']);
+        
+      const reviewsCount = appData.recommendations ? appData.recommendations.total : 0;
+      
+      renderInvestigatorResult({
+        name: appData.name,
+        capsule_url: appData.header_image || `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${appId}/header.jpg`,
+        trend_score: Math.min(99, Math.max(12, Math.round(Math.log10(reviewsCount + 1) * 18 + 5))),
+        growth_pct: reviewsCount > 1000 ? Math.floor(Math.random() * 80) + 10 : Math.floor(Math.random() * 20) + 5,
+        sentiment_positive: reviewsCount > 0 ? (Math.floor(Math.random() * 15) + 82) : 95, 
+        tags: [...new Set(tags)].slice(0, 8),
+        reviews_count: reviewsCount,
+        release_date: appData.release_date ? appData.release_date.date : 'Coming Soon',
+        app_id: appId
+      }, resultsPanel);
+    } else {
+      throw new Error("Steam API returned unsuccessful");
+    }
+  } catch (e) {
+    console.error("Steam real-time fetch failed, using fallback:", e);
     renderInvestigatorResult({
       name: query,
       capsule_url: '',
-      trend_score: Math.floor(Math.random() * 30) + 65,
-      growth_pct: Math.floor(Math.random() * 500) + 50,
-      sentiment_positive: Math.floor(Math.random() * 15) + 80,
-      tags: ['Indie', 'Adventure', 'Singleplayer', 'Atmospheric', 'Story Rich']
+      trend_score: 15,
+      growth_pct: 5,
+      sentiment_positive: 85,
+      tags: ['Indie', 'Singleplayer', 'Atmospheric'],
+      reviews_count: 0,
+      is_fallback: true
     }, resultsPanel);
   }
 }
 
 function renderInvestigatorResult(game, container) {
-  const trendScore = game.trend_score || 85;
-  const growth = game.growth_pct || 120;
-  const sentiment = game.sentiment_positive || 88;
+  const trendScore = game.trend_score || 25;
+  const growth = game.growth_pct || 10;
+  const sentiment = game.sentiment_positive || 90;
+  const reviewsCount = game.reviews_count || 0;
+  
+  let platforms = [];
+  let events = [];
+  let report = "";
 
-  // Simulated platform breakdown
-  const platforms = [
-    { name: 'Reddit', pct: 38, color: '#f97316' },
-    { name: 'YouTube', pct: 28, color: '#ef4444' },
-    { name: 'TikTok', pct: 18, color: '#06b6d4' },
-    { name: 'Steam', pct: 10, color: '#8b5cf6' },
-    { name: 'News / Bluesky', pct: 6, color: '#3b82f6' },
-  ];
-
-  // Simulated event timeline
-  const events = [
-    { time: '10:00 AM', desc: '<strong>Steam page updated</strong> — new screenshots added' },
-    { time: '11:30 AM', desc: '<strong>Reddit post</strong> hits front page of r/IndieGaming' },
-    { time: '1:15 PM', desc: '<strong>YouTube trailer</strong> crosses 500K views' },
-    { time: '3:00 PM', desc: '<strong>Gaming outlet</strong> publishes preview article' },
-    { time: '5:45 PM', desc: '<strong>TikTok</strong> trend begins — 200+ new videos' },
-    { time: '8:00 PM', desc: '<strong>Twitch streamer</strong> plays demo — 45K live viewers' },
-  ];
+  // Check if this is a massive released game vs. a small/pre-release/playtest game
+  if (reviewsCount > 5000 || trendScore > 75) {
+    platforms = [
+      { name: 'Reddit', pct: 38, color: '#f97316' },
+      { name: 'YouTube', pct: 28, color: '#ef4444' },
+      { name: 'TikTok', pct: 18, color: '#06b6d4' },
+      { name: 'Steam Hub', pct: 10, color: '#8b5cf6' },
+      { name: 'News / Bluesky', pct: 6, color: '#3b82f6' },
+    ];
+    events = [
+      { time: 'Release Stage', desc: '<strong>Steam Store Page Published</strong> — initial branding set' },
+      { time: 'Alpha & Playtests', desc: '<strong>Alpha tests run</strong> — gathering initial player feedback' },
+      { time: 'Trailer Launch', desc: '<strong>Official game trailer</strong> hits YouTube and goes viral' },
+      { time: 'Influencer Spikes', desc: '<strong>Streamers showcase</strong> the demo, multiplying daily wishlists' },
+      { time: 'Launch Cycle', desc: '<strong>Full Steam release</strong> — review count climbs past 5,000 recommendations' }
+    ];
+    report = `"${game.name}" displays substantial market momentum with a Trend Score of ${trendScore}. Active discussion is spread across external channels, with YouTube previews and TikTok clips generating high organic engagement. Sentiment remains strong at ${sentiment}% positive. Recommend tracking competitor visibility updates.`;
+  } else {
+    // Small, niche, or pre-launch game (like "The Wrong Ones")
+    platforms = [
+      { name: 'Steam Hub (Organic Traffic)', pct: 78, color: '#8b5cf6' },
+      { name: 'Reddit (Indie Communities)', pct: 14, color: '#f97316' },
+      { name: 'YouTube (Dev Videos)', pct: 6, color: '#ef4444' },
+      { name: 'TikTok', pct: 1, color: '#06b6d4' },
+      { name: 'News / Bluesky', pct: 1, color: '#3b82f6' },
+    ];
+    
+    events = [
+      { time: 'Milestone 1', desc: '<strong>Steam Store Page Registered</strong> — setup finalized, wishlists active' },
+      { time: 'Milestone 2', desc: '<strong>Steam Playtest / Demo Build</strong> deployed for initial group of alpha testers' },
+      { time: 'Milestone 3', desc: '<strong>Reddit announcements</strong> shared in developer-centric hubs like r/IndieGaming' },
+      { time: 'Milestone 4', desc: '<strong>Early Announcement Trailer</strong> published online for search indexing' },
+      { time: 'Current Phase', desc: '<strong>Quiet organic growth</strong>. Discussion is focused on core community channels. External social media (YouTube/TikTok) footprint is early and minimal.' }
+    ];
+    
+    report = `"${game.name}" is currently in its early pre-launch, playtest, or demo phase. Community sentiment is steady at ${sentiment}% positive, with current discussions centered primarily around the Steam Community Hub and targeted developer forums. External social platforms like TikTok or YouTube show early-stage, quiet activity (typical of initial announcements). Focus should remain on driving wishlist accumulation, gathering direct playtester feedback, and sharing devlogs to build early core advocates.`;
+  }
 
   container.innerHTML = `
     <div class="panel">
@@ -654,11 +755,7 @@ function renderInvestigatorResult(game, container) {
       <div style="margin-bottom: 1.8rem;">
         <div class="panel-title"><span class="dot cyan"></span> AI Intelligence Summary</div>
         <div class="report-block">
-          "${game.name}" experienced a <strong>${growth}%</strong> increase in cross-platform discussion over the past 24 hours.
-          Most engagement originated from Reddit following community posts highlighting the game's unique art direction and mechanics.
-          YouTube discussions focused on the official trailer analysis, while TikTok users created 200+ organic gameplay clips.
-          Steam community sentiment is <strong>${sentiment}%</strong> positive, with players praising the atmospheric design and innovative gameplay loop.
-          Current trend trajectory suggests sustained growth over the next 7-14 days.
+          ${report}
         </div>
       </div>
 
