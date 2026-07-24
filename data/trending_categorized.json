@@ -1,253 +1,77 @@
 {
   "released": [
     {
-      "app_id": 730,
-      "name": "Counter-Strike 2",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
-      "release_state": "released",
-      "trend_score": 87,
-      "sentiment_positive": 98
-    },
-    {
-      "app_id": 1623730,
-      "name": "Palworld",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
-      "release_state": "released",
-      "trend_score": 92,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 3564740,
-      "name": "Where Winds Meet",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
-      "release_state": "released",
-      "trend_score": 99,
-      "sentiment_positive": 92
-    },
-    {
-      "app_id": 230410,
-      "name": "Warframe",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+      "app_id": 2363900,
+      "name": "Balatro",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2363900/header.jpg",
       "release_state": "released",
       "trend_score": 98,
-      "sentiment_positive": 82
-    },
-    {
-      "app_id": 3751950,
-      "name": "Assassin's Creed Black Flag Resynced",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/header.jpg",
-      "release_state": "released",
-      "trend_score": 92,
-      "sentiment_positive": 83
-    },
-    {
-      "app_id": 2767030,
-      "name": "Marvel Rivals",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg",
-      "release_state": "released",
-      "trend_score": 96,
-      "sentiment_positive": 92
-    },
-    {
-      "app_id": 4704690,
-      "name": "MECCHA CHAMELEON",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4704690/header.jpg",
-      "release_state": "released",
-      "trend_score": 88,
-      "sentiment_positive": 82
-    },
-    {
-      "app_id": 1172470,
-      "name": "Apex Legends\u2122",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
-      "release_state": "released",
-      "trend_score": 95,
-      "sentiment_positive": 89
-    },
-    {
-      "app_id": 381210,
-      "name": "Dead by Daylight",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
-      "release_state": "released",
-      "trend_score": 97,
-      "sentiment_positive": 90
-    },
-    {
-      "app_id": 3240220,
-      "name": "Grand Theft Auto V Enhanced",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
-      "release_state": "released",
-      "trend_score": 98,
-      "sentiment_positive": 95
-    },
-    {
-      "app_id": 3405690,
-      "name": "EA SPORTS FC\u2122 26",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/header.jpg",
-      "release_state": "released",
-      "trend_score": 89,
-      "sentiment_positive": 83
-    },
-    {
-      "app_id": 2483190,
-      "name": "Forza Horizon 6",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/header.jpg",
-      "release_state": "released",
-      "trend_score": 96,
-      "sentiment_positive": 95
-    },
-    {
-      "app_id": 2807960,
-      "name": "Battlefield\u2122 6",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
-      "release_state": "released",
-      "trend_score": 85,
       "sentiment_positive": 97
     },
     {
-      "app_id": 3513350,
-      "name": "Wuthering Waves",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
+      "app_id": 1966720,
+      "name": "Lethal Company",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
       "release_state": "released",
-      "trend_score": 87,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 1085660,
-      "name": "Destiny 2",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
-      "release_state": "released",
-      "trend_score": 98,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 359550,
-      "name": "Tom Clancy's Rainbow Six Siege",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
-      "release_state": "released",
-      "trend_score": 85,
-      "sentiment_positive": 84
-    },
-    {
-      "app_id": 216150,
-      "name": "MapleStory",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/header.jpg",
-      "release_state": "released",
-      "trend_score": 96,
-      "sentiment_positive": 88
-    },
-    {
-      "app_id": 1973530,
-      "name": "Limbus Company",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
-      "release_state": "released",
-      "trend_score": 89,
+      "trend_score": 95,
       "sentiment_positive": 97
     },
     {
-      "app_id": 236390,
-      "name": "War Thunder",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+      "app_id": 2118170,
+      "name": "Satisfactory",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
       "release_state": "released",
-      "trend_score": 90,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 570,
-      "name": "Dota 2",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
-      "release_state": "released",
-      "trend_score": 97,
-      "sentiment_positive": 91
-    },
-    {
-      "app_id": 39210,
-      "name": "FINAL FANTASY XIV Online",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg",
-      "release_state": "released",
-      "trend_score": 95,
-      "sentiment_positive": 84
-    },
-    {
-      "app_id": 1174180,
-      "name": "Red Dead Redemption 2",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-      "release_state": "released",
-      "trend_score": 89,
-      "sentiment_positive": 82
-    },
-    {
-      "app_id": 252490,
-      "name": "Rust",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
-      "release_state": "released",
-      "trend_score": 91,
-      "sentiment_positive": 84
-    },
-    {
-      "app_id": 3712080,
-      "name": "Funnel Runners",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3712080/header.jpg",
-      "release_state": "released",
-      "trend_score": 85,
+      "trend_score": 94,
       "sentiment_positive": 96
     },
     {
-      "app_id": 2139460,
-      "name": "Once Human",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2139460/header.jpg",
+      "app_id": 1055540,
+      "name": "A Short Hike",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg",
       "release_state": "released",
-      "trend_score": 92,
-      "sentiment_positive": 94
+      "trend_score": 86,
+      "sentiment_positive": 98
     }
   ],
   "anticipated": [
-    {
-      "app_id": 3440070,
-      "name": "Dinoblade",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3440070/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 80,
-      "sentiment_positive": 97
-    },
-    {
-      "app_id": 1181550,
-      "name": "Carnival Hunt",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1181550/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 94,
-      "sentiment_positive": 89
-    },
     {
       "app_id": 2806050,
       "name": "Halo: Campaign Evolved",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2806050/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 84,
-      "sentiment_positive": 98
+      "trend_score": 90,
+      "sentiment_positive": 94
     },
     {
       "app_id": 3282300,
       "name": "Mistfall Hunter",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282300/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 91,
-      "sentiment_positive": 95
+      "trend_score": 84,
+      "sentiment_positive": 90
     },
     {
       "app_id": 4212480,
       "name": "Ragnarok: The New World",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4212480/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 83,
-      "sentiment_positive": 97
+      "trend_score": 90,
+      "sentiment_positive": 88
     },
     {
-      "app_id": 2699230,
-      "name": "Grim Dawn - Fangs of Asterkarn",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2699230/header.jpg",
+      "app_id": 951770,
+      "name": "Forsaken Realms: Vahrin's Call",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/951770/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 96,
+      "trend_score": 97,
+      "sentiment_positive": 91
+    },
+    {
+      "app_id": 2001760,
+      "name": "Beast of Reincarnation",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001760/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 86,
       "sentiment_positive": 93
     },
     {
@@ -255,39 +79,31 @@
       "name": "Corsair Cove",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1368140/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 92,
-      "sentiment_positive": 88
-    },
-    {
-      "app_id": 2001760,
-      "name": "Beast of Reincarnation",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001760/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 93,
-      "sentiment_positive": 92
-    },
-    {
-      "app_id": 951770,
-      "name": "Forsaken Realms: Vahrin's Call",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/951770/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 82,
-      "sentiment_positive": 94
+      "trend_score": 91,
+      "sentiment_positive": 95
     },
     {
       "app_id": 3759670,
       "name": "no fox season",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3759670/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 88,
-      "sentiment_positive": 92
+      "trend_score": 94,
+      "sentiment_positive": 90
     },
     {
       "app_id": 2433630,
       "name": "The Left Behind",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2433630/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 91,
+      "trend_score": 92,
+      "sentiment_positive": 98
+    },
+    {
+      "app_id": 2684630,
+      "name": "Endacopia",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2684630/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 94,
       "sentiment_positive": 98
     },
     {
@@ -295,31 +111,23 @@
       "name": "IRON NEST: Heavy Turret Simulator",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950790/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 81,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 2684630,
-      "name": "Endacopia",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2684630/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 88,
-      "sentiment_positive": 96
+      "trend_score": 80,
+      "sentiment_positive": 89
     },
     {
       "app_id": 4112070,
       "name": "An Eggstremely Hard Game",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4112070/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 88,
-      "sentiment_positive": 89
+      "trend_score": 97,
+      "sentiment_positive": 93
     },
     {
       "app_id": 3555780,
       "name": "Bookbinding \u2013 Dark Cozy Sim",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3555780/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 93,
+      "trend_score": 96,
       "sentiment_positive": 97
     },
     {
@@ -327,55 +135,47 @@
       "name": "Codename CURE II",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2810210/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 93,
-      "sentiment_positive": 95
-    },
-    {
-      "app_id": 4656000,
-      "name": "BOMBANANA!",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656000/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 91,
-      "sentiment_positive": 98
+      "trend_score": 86,
+      "sentiment_positive": 89
     },
     {
       "app_id": 1501310,
       "name": "The Ranchers",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1501310/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 91,
-      "sentiment_positive": 98
-    },
-    {
-      "app_id": 2827820,
-      "name": "The Relic: First Guardian",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2827820/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 94,
-      "sentiment_positive": 98
-    },
-    {
-      "app_id": 3558600,
-      "name": "Leafy Corner",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3558600/header.jpg",
-      "release_state": "anticipated",
-      "trend_score": 81,
-      "sentiment_positive": 91
+      "trend_score": 82,
+      "sentiment_positive": 95
     },
     {
       "app_id": 4108000,
       "name": "Machine Party",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4108000/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 81,
-      "sentiment_positive": 90
+      "trend_score": 95,
+      "sentiment_positive": 92
     },
     {
-      "app_id": 3683770,
-      "name": "Boba Cafe Simulator",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3683770/header.jpg",
+      "app_id": 3558600,
+      "name": "Leafy Corner",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3558600/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 93,
+      "trend_score": 86,
+      "sentiment_positive": 95
+    },
+    {
+      "app_id": 2827820,
+      "name": "The Relic: First Guardian",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2827820/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 82,
+      "sentiment_positive": 94
+    },
+    {
+      "app_id": 4656000,
+      "name": "BOMBANANA!",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4656000/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 83,
       "sentiment_positive": 93
     },
     {
@@ -384,23 +184,55 @@
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2939790/header.jpg",
       "release_state": "anticipated",
       "trend_score": 92,
-      "sentiment_positive": 94
+      "sentiment_positive": 88
+    },
+    {
+      "app_id": 3683770,
+      "name": "Boba Cafe Simulator",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3683770/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 94,
+      "sentiment_positive": 93
     },
     {
       "app_id": 1478500,
       "name": "Big Walk",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 90,
-      "sentiment_positive": 90
+      "trend_score": 86,
+      "sentiment_positive": 95
     },
     {
       "app_id": 4739040,
       "name": "DISCIPLINE SIMULATOR",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739040/header.jpg",
       "release_state": "anticipated",
-      "trend_score": 82,
-      "sentiment_positive": 94
+      "trend_score": 92,
+      "sentiment_positive": 93
+    },
+    {
+      "app_id": 3968160,
+      "name": "Island Beekeeper",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3968160/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 95,
+      "sentiment_positive": 96
+    },
+    {
+      "app_id": 4450620,
+      "name": "GRAIN ROT",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4450620/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 96,
+      "sentiment_positive": 95
+    },
+    {
+      "app_id": 3934270,
+      "name": "How Many Dudes?",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934270/header.jpg",
+      "release_state": "anticipated",
+      "trend_score": 94,
+      "sentiment_positive": 97
     }
   ],
   "demo_available": [
@@ -409,200 +241,200 @@
       "name": "COIL",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31500/header.jpg",
       "release_state": "demo",
-      "trend_score": 89,
-      "sentiment_positive": 89
+      "trend_score": 92,
+      "sentiment_positive": 87
     },
     {
       "app_id": 29150,
       "name": "Mightier",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29150/header.jpg",
       "release_state": "demo",
-      "trend_score": 94,
-      "sentiment_positive": 90
+      "trend_score": 85,
+      "sentiment_positive": 94
     },
     {
       "app_id": 29140,
       "name": "Between",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29140/header.jpg",
       "release_state": "demo",
-      "trend_score": 83,
-      "sentiment_positive": 84
+      "trend_score": 78,
+      "sentiment_positive": 88
     },
     {
       "app_id": 27040,
       "name": "The Path - Prologue",
       "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27040/header.jpg",
       "release_state": "demo",
-      "trend_score": 94,
-      "sentiment_positive": 85
+      "trend_score": 89,
+      "sentiment_positive": 92
     },
     {
-      "app_id": 1710,
-      "name": "Arx Fatalis Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1710/header.jpg",
+      "app_id": 10620,
+      "name": "Empire: Total War\u2122 Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10620/header.jpg",
       "release_state": "demo",
-      "trend_score": 76,
-      "sentiment_positive": 89
+      "trend_score": 90,
+      "sentiment_positive": 96
     },
     {
-      "app_id": 2730,
-      "name": "ThreadSpace: Hyperbol Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2730/header.jpg",
+      "app_id": 18710,
+      "name": "And Yet It Moves Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18710/header.jpg",
       "release_state": "demo",
       "trend_score": 91,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 4440,
-      "name": "Silverfall Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4440/header.jpg",
-      "release_state": "demo",
-      "trend_score": 84,
-      "sentiment_positive": 94
-    },
-    {
-      "app_id": 4820,
-      "name": "Heroes... Multiplayer Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4820/header.jpg",
-      "release_state": "demo",
-      "trend_score": 81,
-      "sentiment_positive": 88
-    },
-    {
-      "app_id": 6230,
-      "name": "FlatOut Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6230/header.jpg",
-      "release_state": "demo",
-      "trend_score": 83,
       "sentiment_positive": 91
     },
     {
-      "app_id": 6260,
-      "name": "Making History Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6260/header.jpg",
+      "app_id": 21020,
+      "name": "Watchmen: The End is Nigh Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21020/header.jpg",
       "release_state": "demo",
-      "trend_score": 79,
+      "trend_score": 85,
+      "sentiment_positive": 95
+    },
+    {
+      "app_id": 21650,
+      "name": "Flock! Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21650/header.jpg",
+      "release_state": "demo",
+      "trend_score": 90,
+      "sentiment_positive": 94
+    },
+    {
+      "app_id": 22150,
+      "name": "Europa Universalis III Complete Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22150/header.jpg",
+      "release_state": "demo",
+      "trend_score": 86,
       "sentiment_positive": 88
     },
     {
-      "app_id": 6320,
-      "name": "The Longest Journey Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6320/header.jpg",
+      "app_id": 22160,
+      "name": "Europa Universalis: Rome - Gold Edition Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22160/header.jpg",
       "release_state": "demo",
-      "trend_score": 80,
-      "sentiment_positive": 85
+      "trend_score": 86,
+      "sentiment_positive": 86
     },
     {
-      "app_id": 6410,
-      "name": "Joint Task Force Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6410/header.jpg",
-      "release_state": "demo",
-      "trend_score": 83,
-      "sentiment_positive": 91
-    },
-    {
-      "app_id": 6580,
-      "name": "Lost Planet Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6580/header.jpg",
-      "release_state": "demo",
-      "trend_score": 82,
-      "sentiment_positive": 87
-    },
-    {
-      "app_id": 6930,
-      "name": "Just Cause Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6930/header.jpg",
+      "app_id": 22170,
+      "name": "Hearts of Iron 2 Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22170/header.jpg",
       "release_state": "demo",
       "trend_score": 77,
-      "sentiment_positive": 85
+      "sentiment_positive": 96
     },
     {
-      "app_id": 6940,
-      "name": "Battlestations: Midway Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6940/header.jpg",
+      "app_id": 26010,
+      "name": "The Maw Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26010/header.jpg",
       "release_state": "demo",
-      "trend_score": 88,
-      "sentiment_positive": 85
-    },
-    {
-      "app_id": 6950,
-      "name": "Hitman Blood Money Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6950/header.jpg",
-      "release_state": "demo",
-      "trend_score": 87,
+      "trend_score": 83,
       "sentiment_positive": 93
     },
     {
-      "app_id": 7030,
-      "name": "Tomb Raider: Legend Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7030/header.jpg",
+      "app_id": 26910,
+      "name": "Crayon Physics Deluxe Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26910/header.jpg",
       "release_state": "demo",
-      "trend_score": 77,
+      "trend_score": 94,
+      "sentiment_positive": 93
+    },
+    {
+      "app_id": 27030,
+      "name": "The Graveyard Trial",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27030/header.jpg",
+      "release_state": "demo",
+      "trend_score": 91,
+      "sentiment_positive": 96
+    },
+    {
+      "app_id": 27610,
+      "name": "Mevo and The Grooveriders Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27610/header.jpg",
+      "release_state": "demo",
+      "trend_score": 83,
+      "sentiment_positive": 89
+    },
+    {
+      "app_id": 29200,
+      "name": "Osmos Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29200/header.jpg",
+      "release_state": "demo",
+      "trend_score": 81,
+      "sentiment_positive": 86
+    },
+    {
+      "app_id": 3532,
+      "name": "Amazing Adventures Around the World Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3532/header.jpg",
+      "release_state": "demo",
+      "trend_score": 93,
       "sentiment_positive": 91
     },
     {
-      "app_id": 7050,
-      "name": "Project: Snowblind Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7050/header.jpg",
+      "app_id": 3582,
+      "name": "The Wizard's Pen&trade; Free Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3582/header.jpg",
       "release_state": "demo",
-      "trend_score": 80,
+      "trend_score": 76,
+      "sentiment_positive": 86
+    },
+    {
+      "app_id": 3602,
+      "name": "Escape Rosecliff Island Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3602/header.jpg",
+      "release_state": "demo",
+      "trend_score": 90,
       "sentiment_positive": 85
     },
     {
-      "app_id": 7230,
-      "name": "Runaway, The Dream of The Turtle Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7230/header.jpg",
+      "app_id": 16062,
+      "name": "Samantha Swift and the Golden Touch Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/16062/header.jpg",
       "release_state": "demo",
-      "trend_score": 95,
+      "trend_score": 85,
+      "sentiment_positive": 94
+    },
+    {
+      "app_id": 16210,
+      "name": "Virtual Families Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/16210/header.jpg",
+      "release_state": "demo",
+      "trend_score": 87,
+      "sentiment_positive": 96
+    },
+    {
+      "app_id": 22220,
+      "name": "Zeno Clash Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22220/header.jpg",
+      "release_state": "demo",
+      "trend_score": 84,
       "sentiment_positive": 91
     },
     {
-      "app_id": 11000,
-      "name": "Loki Demo - Norse Warrior",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11000/header.jpg",
+      "app_id": 26510,
+      "name": "Cogs Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26510/header.jpg",
       "release_state": "demo",
-      "trend_score": 84,
-      "sentiment_positive": 84
+      "trend_score": 89,
+      "sentiment_positive": 93
     },
     {
-      "app_id": 11470,
-      "name": "Overlord&trade; Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11470/header.jpg",
+      "app_id": 26810,
+      "name": "Braid Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26810/header.jpg",
       "release_state": "demo",
-      "trend_score": 87,
-      "sentiment_positive": 88
+      "trend_score": 85,
+      "sentiment_positive": 85
     },
     {
-      "app_id": 3280,
-      "name": "Painkiller Overdose Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280/header.jpg",
+      "app_id": 32010,
+      "name": "Raycatcher Demo",
+      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32010/header.jpg",
       "release_state": "demo",
-      "trend_score": 96,
-      "sentiment_positive": 88
-    },
-    {
-      "app_id": 3502,
-      "name": "Mystery P.I.&trade; - The Lottery Ticket Free Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3502/header.jpg",
-      "release_state": "demo",
-      "trend_score": 75,
-      "sentiment_positive": 90
-    },
-    {
-      "app_id": 3512,
-      "name": "Amazing Adventures The Lost Tomb&trade; Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3512/header.jpg",
-      "release_state": "demo",
-      "trend_score": 79,
-      "sentiment_positive": 87
-    },
-    {
-      "app_id": 4260,
-      "name": "RACE 07 Demo",
-      "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4260/header.jpg",
-      "release_state": "demo",
-      "trend_score": 83,
-      "sentiment_positive": 88
+      "trend_score": 92,
+      "sentiment_positive": 95
     }
   ]
 }
