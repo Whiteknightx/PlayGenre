@@ -1,11 +1,44 @@
 [
   {
-    "app_id": 216150,
-    "name": "MapleStory",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/header.jpg",
+    "app_id": 1623730,
+    "name": "Palworld",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
     "trend_score": 98,
-    "growth_pct": 138,
-    "sentiment_positive": 81,
+    "growth_pct": 284,
+    "sentiment_positive": 90,
+    "tags": [
+      "Open World",
+      "Survival",
+      "Creature Collector",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Online Co-Op",
+      "Crafting",
+      "Indie",
+      "Co-op",
+      "Adventure"
+    ]
+  },
+  {
+    "app_id": 4162040,
+    "name": "Zenless Zone Zero",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 179,
+    "sentiment_positive": 95,
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2694490,
+    "name": "Path of Exile 2",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 218,
+    "sentiment_positive": 78,
     "tags": [
       "RPG",
       "Indie",
@@ -13,347 +46,79 @@
     ]
   },
   {
-    "app_id": 2950790,
-    "name": "IRON NEST: Heavy Turret Simulator",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950790/header.jpg",
+    "app_id": 1361210,
+    "name": "Warhammer 40,000: Darktide",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
     "trend_score": 98,
-    "growth_pct": 90,
-    "sentiment_positive": 80,
+    "growth_pct": 197,
+    "sentiment_positive": 79,
     "tags": [
-      "Military",
-      "Simulation",
-      "Realistic",
-      "3D",
-      "Alternate History",
-      "War",
-      "Indie",
-      "Immersive Sim",
-      "Action",
-      "First-Person"
-    ]
-  },
-  {
-    "app_id": 1426210,
-    "name": "It Takes Two",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 45,
-    "sentiment_positive": 93,
-    "tags": [
-      "Puzzle",
+      "RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 313690,
-    "name": "LEGO\u00ae Batman\u2122 3: Beyond Gotham",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg",
+    "app_id": 230410,
+    "name": "Warframe",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
     "trend_score": 98,
-    "growth_pct": 84,
-    "sentiment_positive": 94,
-    "tags": [
-      "Puzzle",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3224770,
-    "name": "Umamusume: Pretty Derby",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224770/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 488,
-    "sentiment_positive": 84,
-    "tags": [
-      "Sports",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 4080220,
-    "name": "EA SPORTS FC\u2122 27",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 344,
+    "growth_pct": 524,
     "sentiment_positive": 86,
     "tags": [
-      "Sports",
+      "Action",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 244210,
-    "name": "Assetto Corsa",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+    "app_id": 3940610,
+    "name": "EA SPORTS\u2122 Madden NFL 27",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940610/header.jpg",
     "trend_score": 98,
-    "growth_pct": 419,
-    "sentiment_positive": 92,
+    "growth_pct": 140,
+    "sentiment_positive": 90,
     "tags": [
-      "Sports",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 4128400,
-    "name": "eBaseball\u2122: PRO SPIRIT",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4128400/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 313,
-    "sentiment_positive": 80,
-    "tags": [
-      "Sports",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2677660,
-    "name": "Indiana Jones and the Great Circle",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 569,
-    "sentiment_positive": 81,
-    "tags": [
-      "Platformer",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 4069520,
-    "name": "Super Battle Golf",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4069520/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 39,
-    "sentiment_positive": 78,
-    "tags": [
-      "Racing",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3059520,
-    "name": "F1\u00ae 25",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 383,
-    "sentiment_positive": 94,
-    "tags": [
-      "Racing",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2807960,
-    "name": "Battlefield\u2122 6",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 366,
-    "sentiment_positive": 80,
-    "tags": [
-      "Shooter",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2569760,
-    "name": "The Mound: Omen of Cthulhu",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2569760/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 217,
-    "sentiment_positive": 93,
-    "tags": [
-      "Horror",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2201320,
-    "name": "Date Everything!",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2201320/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 69,
-    "sentiment_positive": 89,
-    "tags": [
-      "Visual Novel",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 294100,
-    "name": "RimWorld",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 592,
-    "sentiment_positive": 89,
-    "tags": [
-      "Survival",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 544810,
-    "name": "KARDS - The WW2 Card Game",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544810/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 429,
-    "sentiment_positive": 79,
-    "tags": [
-      "Immersive Sim",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 4227400,
-    "name": "Sineus Arena Survivors",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4227400/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 403,
-    "sentiment_positive": 83,
-    "tags": [
-      "Bullet Hell",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 774801,
-    "name": "Crab Champions",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774801/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 272,
-    "sentiment_positive": 89,
-    "tags": [
-      "Bullet Hell",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1671210,
-    "name": "DELTARUNE",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 71,
-    "sentiment_positive": 79,
-    "tags": [
-      "Story Rich",
-      "Great Soundtrack",
-      "Pixel Graphics",
-      "Funny",
-      "RPG",
-      "Singleplayer",
-      "Bullet Hell",
-      "Emotional",
-      "2D",
-      "Comedy"
-    ]
-  },
-  {
-    "app_id": 38420,
-    "name": "Fallout Tactics: Brotherhood of Steel",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38420/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 479,
-    "sentiment_positive": 83,
-    "tags": [
-      "City Builder",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1669000,
-    "name": "Age of Wonders 4",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 366,
-    "sentiment_positive": 93,
-    "tags": [
-      "Turn-Based Strategy",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2552430,
-    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 117,
-    "sentiment_positive": 89,
-    "tags": [
-      "Hack and Slash",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2075800,
-    "name": "STAR WARS Zero Company\u2122",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2075800/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 533,
-    "sentiment_positive": 89,
-    "tags": [
-      "Turn-Based Tactics",
-      "Turn-Based Strategy",
-      "Sci-fi",
-      "Singleplayer",
       "Strategy",
-      "Turn-Based Combat",
-      "Tactical",
-      "Turn-Based",
-      "PvE",
-      "Isometric"
-    ]
-  },
-  {
-    "app_id": 1627720,
-    "name": "Lies of P",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 175,
-    "sentiment_positive": 94,
-    "tags": [
-      "Turn-Based RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 3144890,
-    "name": "Age of Empires IV: Knights of Cross and Rose\u202f",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3144890/header.jpg",
+    "app_id": 3164500,
+    "name": "Schedule I",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
     "trend_score": 98,
-    "growth_pct": 365,
-    "sentiment_positive": 79,
+    "growth_pct": 285,
+    "sentiment_positive": 96,
     "tags": [
-      "Tactical RPG",
+      "Simulation",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 39210,
-    "name": "FINAL FANTASY XIV Online",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg",
+    "app_id": 284160,
+    "name": "BeamNG.drive",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
     "trend_score": 98,
-    "growth_pct": 31,
-    "sentiment_positive": 78,
+    "growth_pct": 196,
+    "sentiment_positive": 90,
     "tags": [
-      "Third-Person Shooter",
+      "Racing",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 3935020,
+    "name": "Backyard Baseball",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3935020/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 341,
+    "sentiment_positive": 90,
+    "tags": [
+      "Sports",
       "Indie",
       "Singleplayer"
     ]
@@ -363,8 +128,164 @@
     "name": "DRAGON BALL GEKISHIN SQUADRA",
     "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2072560/header.jpg",
     "trend_score": 98,
-    "growth_pct": 142,
+    "growth_pct": 392,
+    "sentiment_positive": 93,
+    "tags": [
+      "Fighting",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2807960,
+    "name": "Battlefield\u2122 6",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 501,
+    "sentiment_positive": 87,
+    "tags": [
+      "Sandbox",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 591960,
+    "name": "Animation Throwdown: The Quest for Cards",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/591960/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 92,
+    "sentiment_positive": 85,
+    "tags": [
+      "Immersive Sim",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 731040,
+    "name": "The Invincible",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/731040/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 360,
+    "sentiment_positive": 95,
+    "tags": [
+      "Walking Simulator",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1677280,
+    "name": "Company of Heroes 3",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 22,
+    "sentiment_positive": 94,
+    "tags": [
+      "City Builder",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 686060,
+    "name": "Mewgenics",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 167,
+    "sentiment_positive": 85,
+    "tags": [
+      "Colony Sim",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2444750,
+    "name": "Shape of Dreams",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2444750/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 354,
+    "sentiment_positive": 84,
+    "tags": [
+      "Colony Sim",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1286220,
+    "name": "Sea Power : Naval Combat in the Missile Age",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286220/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 383,
+    "sentiment_positive": 91,
+    "tags": [
+      "Real-Time Strategy",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1245620,
+    "name": "ELDEN RING",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 403,
     "sentiment_positive": 78,
+    "tags": [
+      "Turn-Based RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 3564740,
+    "name": "Where Winds Meet",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 22,
+    "sentiment_positive": 80,
+    "tags": [
+      "Action RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 3564740,
+    "name": "Where Winds Meet",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3564740/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 231,
+    "sentiment_positive": 86,
+    "tags": [
+      "Third-Person Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2231380,
+    "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231380/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 345,
+    "sentiment_positive": 81,
+    "tags": [
+      "Third-Person Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1044720,
+    "name": "Farthest Frontier",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 120,
+    "sentiment_positive": 81,
     "tags": [
       "Top-Down Shooter",
       "Indie",
@@ -372,47 +293,105 @@
     ]
   },
   {
-    "app_id": 782330,
-    "name": "DOOM Eternal",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
+    "app_id": 1782460,
+    "name": "Hell Clock",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1782460/header.jpg",
     "trend_score": 98,
-    "growth_pct": 204,
-    "sentiment_positive": 89,
+    "growth_pct": 193,
+    "sentiment_positive": 83,
     "tags": [
-      "Gore",
-      "FPS",
-      "Action",
-      "Great Soundtrack",
-      "Fast-Paced",
-      "Violent",
-      "Demons",
-      "Shooter",
-      "First-Person",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 553850,
-    "name": "HELLDIVERS\u2122 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 23,
-    "sentiment_positive": 78,
-    "tags": [
-      "Survival Horror",
+      "Twin Stick Shooter",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1144200,
-    "name": "Ready or Not",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg",
+    "app_id": 394510,
+    "name": "HELLDIVERS\u2122 Dive Harder Edition",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394510/header.jpg",
     "trend_score": 98,
-    "growth_pct": 439,
-    "sentiment_positive": 79,
+    "growth_pct": 121,
+    "sentiment_positive": 86,
     "tags": [
-      "Survival Horror",
+      "Twin Stick Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1671210,
+    "name": "DELTARUNE",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 89,
+    "sentiment_positive": 83,
+    "tags": [
+      "Psychological Horror",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 949230,
+    "name": "Cities: Skylines II",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 100,
+    "sentiment_positive": 78,
+    "tags": [
+      "Management",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 3948120,
+    "name": "Scritchy Scratchy",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3948120/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 450,
+    "sentiment_positive": 88,
+    "tags": [
+      "Management",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1929610,
+    "name": "Demonologist",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 425,
+    "sentiment_positive": 92,
+    "tags": [
+      "Tycoon",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 460950,
+    "name": "Katana ZERO",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460950/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 92,
+    "sentiment_positive": 78,
+    "tags": [
+      "3D Platformer",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1388880,
+    "name": "Doki Doki Literature Club Plus!",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1388880/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 74,
+    "sentiment_positive": 96,
+    "tags": [
+      "Interactive Fiction",
       "Indie",
       "Singleplayer"
     ]
