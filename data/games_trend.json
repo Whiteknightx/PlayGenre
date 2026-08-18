@@ -1,13 +1,39 @@
 [
   {
-    "app_id": 381210,
-    "name": "Dead by Daylight",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+    "app_id": 1086940,
+    "name": "Baldur's Gate 3",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
     "trend_score": 98,
-    "growth_pct": 495,
-    "sentiment_positive": 90,
+    "growth_pct": 169,
+    "sentiment_positive": 94,
     "tags": [
-      "Action",
+      "RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1158310,
+    "name": "Crusader Kings III",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 31,
+    "sentiment_positive": 78,
+    "tags": [
+      "RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1091500,
+    "name": "Cyberpunk 2077",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 292,
+    "sentiment_positive": 81,
+    "tags": [
+      "RPG",
       "Indie",
       "Singleplayer"
     ]
@@ -17,8 +43,8 @@
     "name": "Dota 2",
     "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
     "trend_score": 98,
-    "growth_pct": 184,
-    "sentiment_positive": 82,
+    "growth_pct": 519,
+    "sentiment_positive": 86,
     "tags": [
       "Action",
       "Indie",
@@ -26,27 +52,288 @@
     ]
   },
   {
-    "app_id": 359550,
-    "name": "Tom Clancy's Rainbow Six Siege",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+    "app_id": 1313140,
+    "name": "Cult of the Lamb",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg",
     "trend_score": 98,
-    "growth_pct": 392,
-    "sentiment_positive": 83,
+    "growth_pct": 470,
+    "sentiment_positive": 81,
     "tags": [
-      "Strategy",
+      "Adventure",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1569580,
-    "name": "Blue Prince",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg",
+    "app_id": 3164330,
+    "name": "Infinity Nikki",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164330/header.jpg",
     "trend_score": 98,
-    "growth_pct": 396,
-    "sentiment_positive": 93,
+    "growth_pct": 523,
+    "sentiment_positive": 79,
     "tags": [
       "Puzzle",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2950790,
+    "name": "IRON NEST: Heavy Turret Simulator",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950790/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 530,
+    "sentiment_positive": 84,
+    "tags": [
+      "Military",
+      "Simulation",
+      "Realistic",
+      "3D",
+      "War",
+      "Alternate History",
+      "Indie",
+      "Immersive Sim",
+      "Action",
+      "First-Person"
+    ]
+  },
+  {
+    "app_id": 4025700,
+    "name": "Heartopia",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4025700/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 144,
+    "sentiment_positive": 79,
+    "tags": [
+      "Simulation",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 284160,
+    "name": "BeamNG.drive",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 243,
+    "sentiment_positive": 88,
+    "tags": [
+      "Racing",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2138720,
+    "name": "REMATCH",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 151,
+    "sentiment_positive": 78,
+    "tags": [
+      "Sports",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1260320,
+    "name": "Party Animals",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 497,
+    "sentiment_positive": 91,
+    "tags": [
+      "Fighting",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 4412690,
+    "name": "Street Fighter\u2122 6\u00a0-\u00a0Year 4 Ultimate Pass",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4412690/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 341,
+    "sentiment_positive": 90,
+    "tags": [
+      "Fighting",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1449690,
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 230,
+    "sentiment_positive": 79,
+    "tags": [
+      "Visual Novel",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 532,
+    "sentiment_positive": 92,
+    "tags": [
+      "Metroidvania",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 601510,
+    "name": "Yu-Gi-Oh! Duel Links",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/601510/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 417,
+    "sentiment_positive": 87,
+    "tags": [
+      "Immersive Sim",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 214950,
+    "name": "Total War: ROME II - Emperor Edition",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 165,
+    "sentiment_positive": 93,
+    "tags": [
+      "City Builder",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 364360,
+    "name": "Total War: WARHAMMER",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 487,
+    "sentiment_positive": 91,
+    "tags": [
+      "Real-Time Strategy",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 881020,
+    "name": "Granblue Fantasy: Relink",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 73,
+    "sentiment_positive": 91,
+    "tags": [
+      "Hack and Slash",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1672970,
+    "name": "Minecraft Dungeons",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 584,
+    "sentiment_positive": 95,
+    "tags": [
+      "Hack and Slash",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2059170,
+    "name": "Quasimorph",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2059170/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 190,
+    "sentiment_positive": 80,
+    "tags": [
+      "Turn-Based Strategy",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1875830,
+    "name": "Shin Megami Tensei V: Vengeance",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 351,
+    "sentiment_positive": 80,
+    "tags": [
+      "Turn-Based Strategy",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2426960,
+    "name": "Summoners War",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2426960/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 464,
+    "sentiment_positive": 86,
+    "tags": [
+      "Turn-Based Strategy",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1466860,
+    "name": "Age of Empires IV: Anniversary Edition",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 379,
+    "sentiment_positive": 91,
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Base Building",
+      "Multiplayer",
+      "War",
+      "Medieval",
+      "Singleplayer",
+      "Resource Management",
+      "City Builder",
+      "Historical"
+    ]
+  },
+  {
+    "app_id": 835570,
+    "name": "Conqueror's Blade",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/835570/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 537,
+    "sentiment_positive": 90,
+    "tags": [
+      "Tactical RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 702320,
+    "name": "March of Empires",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/702320/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 46,
+    "sentiment_positive": 90,
+    "tags": [
+      "Tactical RPG",
       "Indie",
       "Singleplayer"
     ]
@@ -56,301 +343,20 @@
     "name": "War Thunder",
     "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
     "trend_score": 98,
-    "growth_pct": 349,
-    "sentiment_positive": 88,
-    "tags": [
-      "Simulation",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1289670,
-    "name": "EA Play",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289670/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 315,
-    "sentiment_positive": 84,
-    "tags": [
-      "Racing",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2217000,
-    "name": "Rivals of Aether II",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2217000/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 294,
-    "sentiment_positive": 95,
-    "tags": [
-      "Fighting",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3164500,
-    "name": "Schedule I",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 131,
-    "sentiment_positive": 85,
-    "tags": [
-      "Shooter",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 381210,
-    "name": "Dead by Daylight",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 420,
-    "sentiment_positive": 84,
-    "tags": [
-      "Survival",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 582660,
-    "name": "Black Desert",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 544,
-    "sentiment_positive": 80,
-    "tags": [
-      "Sandbox",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2807960,
-    "name": "Battlefield\u2122 6",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 546,
-    "sentiment_positive": 84,
-    "tags": [
-      "Sandbox",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2072560,
-    "name": "DRAGON BALL GEKISHIN SQUADRA",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2072560/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 253,
-    "sentiment_positive": 83,
-    "tags": [
-      "Metroidvania",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2141910,
-    "name": "Magic: The Gathering Arena",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2141910/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 552,
-    "sentiment_positive": 85,
-    "tags": [
-      "Strategy",
-      "Card Game",
-      "Free to Play",
-      "Trading Card Game",
-      "Deckbuilding",
-      "PvP",
-      "Multiplayer",
-      "Turn-Based Strategy",
-      "Fantasy",
-      "Magic"
-    ]
-  },
-  {
-    "app_id": 813230,
-    "name": "ANIMAL WELL",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 430,
-    "sentiment_positive": 82,
-    "tags": [
-      "Colony Sim",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2475490,
-    "name": "Mouthwashing",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2475490/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 193,
-    "sentiment_positive": 89,
-    "tags": [
-      "Colony Sim",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2679460,
-    "name": "Metaphor: ReFantazio",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 299,
-    "sentiment_positive": 85,
-    "tags": [
-      "City Builder",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 413150,
-    "name": "Stardew Valley",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 104,
-    "sentiment_positive": 80,
-    "tags": [
-      "Tower Defense",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1142710,
-    "name": "Total War: WARHAMMER III",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 529,
-    "sentiment_positive": 88,
-    "tags": [
-      "Strategy",
-      "Turn-Based Strategy",
-      "Grand Strategy",
-      "RTS",
-      "Fantasy",
-      "Real Time Tactics",
-      "War",
-      "Dark Fantasy",
-      "Dwarves",
-      "Action"
-    ]
-  },
-  {
-    "app_id": 2552430,
-    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 355,
-    "sentiment_positive": 94,
-    "tags": [
-      "Action",
-      "RPG",
-      "Adventure",
-      "JRPG",
-      "Great Soundtrack",
-      "Action-Adventure",
-      "Emotional",
-      "Singleplayer",
-      "Story Rich",
-      "Fantasy"
-    ]
-  },
-  {
-    "app_id": 1687950,
-    "name": "Persona 5 Royal",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 591,
-    "sentiment_positive": 89,
-    "tags": [
-      "Turn-Based Strategy",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1044720,
-    "name": "Farthest Frontier",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 94,
+    "growth_pct": 263,
     "sentiment_positive": 87,
     "tags": [
-      "Real-Time Strategy",
+      "Third-Person Shooter",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1913120,
-    "name": "Tears of Metal",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1913120/header.jpg",
+    "app_id": 1612420,
+    "name": "Suit for Hire",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1612420/header.jpg",
     "trend_score": 98,
-    "growth_pct": 325,
-    "sentiment_positive": 92,
-    "tags": [
-      "Turn-Based RPG",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 814380,
-    "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 208,
-    "sentiment_positive": 88,
-    "tags": [
-      "Turn-Based RPG",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1044720,
-    "name": "Farthest Frontier",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 71,
-    "sentiment_positive": 85,
-    "tags": [
-      "Top-Down Shooter",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2904000,
-    "name": "The Spell Brigade",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2904000/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 422,
-    "sentiment_positive": 81,
-    "tags": [
-      "Top-Down Shooter",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 341940,
-    "name": "Hatred",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341940/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 506,
+    "growth_pct": 98,
     "sentiment_positive": 83,
     "tags": [
       "Twin Stick Shooter",
@@ -359,12 +365,25 @@
     ]
   },
   {
-    "app_id": 2310,
-    "name": "Quake",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2310/header.jpg",
+    "app_id": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
     "trend_score": 98,
-    "growth_pct": 454,
-    "sentiment_positive": 83,
+    "growth_pct": 44,
+    "sentiment_positive": 86,
+    "tags": [
+      "Battle Royale",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2280,
+    "name": "DOOM + DOOM II",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 320,
+    "sentiment_positive": 88,
     "tags": [
       "Boomer Shooter",
       "Indie",
@@ -372,40 +391,14 @@
     ]
   },
   {
-    "app_id": 2050650,
-    "name": "Resident Evil 4",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "app_id": 4108000,
+    "name": "Machine Party",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4108000/header.jpg",
     "trend_score": 98,
-    "growth_pct": 400,
-    "sentiment_positive": 94,
+    "growth_pct": 222,
+    "sentiment_positive": 88,
     "tags": [
       "Survival Horror",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1868140,
-    "name": "DAVE THE DIVER",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 497,
-    "sentiment_positive": 87,
-    "tags": [
-      "Management",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3552140,
-    "name": "Retro Rewind - Video Store Simulator",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3552140/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 284,
-    "sentiment_positive": 93,
-    "tags": [
-      "Management",
       "Indie",
       "Singleplayer"
     ]
