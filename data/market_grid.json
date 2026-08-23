@@ -1,56 +1,64 @@
 [
   {
-    "genre_id": "rpg",
-    "genre_name": "RPG",
-    "supply": 5,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
     "genre_id": "action",
     "genre_name": "Action",
-    "supply": 34,
-    "demand": 100,
+    "supply": 19,
+    "demand": 36,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "adventure",
     "genre_name": "Adventure",
-    "supply": 39,
-    "demand": 41,
+    "supply": 35,
+    "demand": 64,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "rpg",
+    "genre_name": "RPG",
+    "supply": 5,
+    "demand": 31,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "strategy",
     "genre_name": "Strategy",
-    "supply": 48,
-    "demand": 21,
-    "opportunity_score": 5.0,
-    "opportunity_class": "Medium"
+    "supply": 31,
+    "demand": 28,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "puzzle",
     "genre_name": "Puzzle",
-    "supply": 55,
-    "demand": 74,
+    "supply": 32,
+    "demand": 58,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "simulation",
     "genre_name": "Simulation",
-    "supply": 51,
-    "demand": 17,
-    "opportunity_score": 3.8,
-    "opportunity_class": "Medium"
+    "supply": 17,
+    "demand": 58,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "platformer",
     "genre_name": "Platformer",
-    "supply": 32,
+    "supply": 18,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "sports",
+    "genre_name": "Sports",
+    "supply": 35,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -58,191 +66,191 @@
   {
     "genre_id": "racing",
     "genre_name": "Racing",
-    "supply": 42,
-    "demand": 81,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "sports",
-    "genre_name": "Sports",
-    "supply": 30,
-    "demand": 100,
+    "supply": 32,
+    "demand": 98,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "fighting",
     "genre_name": "Fighting",
-    "supply": 60,
-    "demand": 36,
-    "opportunity_score": 6.7,
-    "opportunity_class": "High"
+    "supply": 46,
+    "demand": 93,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "shooter",
     "genre_name": "Shooter",
-    "supply": 27,
-    "demand": 49,
+    "supply": 48,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "horror",
     "genre_name": "Horror",
-    "supply": 56,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "sandbox",
-    "genre_name": "Sandbox",
-    "supply": 12,
-    "demand": 46,
+    "supply": 5,
+    "demand": 17,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "visual_novel",
     "genre_name": "Visual Novel",
-    "supply": 17,
-    "demand": 92,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
+    "supply": 55,
+    "demand": 26,
+    "opportunity_score": 5.4,
+    "opportunity_class": "Medium"
+  },
+  {
+    "genre_id": "sandbox",
+    "genre_name": "Sandbox",
+    "supply": 48,
+    "demand": 29,
+    "opportunity_score": 6.9,
+    "opportunity_class": "High"
   },
   {
     "genre_id": "survival",
     "genre_name": "Survival",
-    "supply": 52,
-    "demand": 29,
-    "opportunity_score": 6.3,
-    "opportunity_class": "High"
-  },
-  {
-    "genre_id": "casual",
-    "genre_name": "Casual",
-    "supply": 52,
-    "demand": 100,
+    "supply": 27,
+    "demand": 95,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "point_and_click",
     "genre_name": "Point & Click",
-    "supply": 16,
-    "demand": 98,
+    "supply": 21,
+    "demand": 66,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "indie",
     "genre_name": "Indie",
-    "supply": 59,
-    "demand": 67,
+    "supply": 52,
+    "demand": 35,
+    "opportunity_score": 7.6,
+    "opportunity_class": "High"
+  },
+  {
+    "genre_id": "casual",
+    "genre_name": "Casual",
+    "supply": 5,
+    "demand": 50,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "mmo",
     "genre_name": "Massively Multiplayer",
-    "supply": 18,
-    "demand": 58,
+    "supply": 39,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "roguelike",
     "genre_name": "Roguelike",
-    "supply": 36,
-    "demand": 17,
-    "opportunity_score": 5.3,
+    "supply": 37,
+    "demand": 18,
+    "opportunity_score": 5.5,
     "opportunity_class": "Medium"
   },
   {
     "genre_id": "roguelite",
     "genre_name": "Roguelite",
-    "supply": 56,
-    "demand": 21,
-    "opportunity_score": 4.2,
+    "supply": 39,
+    "demand": 18,
+    "opportunity_score": 5.4,
     "opportunity_class": "Medium"
   },
   {
     "genre_id": "bullet_heaven",
     "genre_name": "Bullet Heaven",
     "supply": 5,
-    "demand": 73,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "metroidvania",
-    "genre_name": "Metroidvania",
-    "supply": 57,
-    "demand": 51,
+    "demand": 80,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "soulslike",
     "genre_name": "Soulslike",
-    "supply": 5,
-    "demand": 78,
+    "supply": 52,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "metroidvania",
+    "genre_name": "Metroidvania",
+    "supply": 54,
+    "demand": 68,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "immersive_sim",
     "genre_name": "Immersive Sim",
-    "supply": 14,
-    "demand": 38,
-    "opportunity_score": 9.9,
+    "supply": 41,
+    "demand": 30,
+    "opportunity_score": 8.4,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "bullet_hell",
     "genre_name": "Bullet Hell",
-    "supply": 30,
-    "demand": 57,
+    "supply": 12,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "walking_simulator",
     "genre_name": "Walking Simulator",
-    "supply": 21,
-    "demand": 100,
+    "supply": 38,
+    "demand": 85,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "city_builder",
+    "genre_name": "City Builder",
+    "supply": 27,
+    "demand": 84,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "colony_sim",
     "genre_name": "Colony Sim",
-    "supply": 61,
-    "demand": 42,
-    "opportunity_score": 7.8,
-    "opportunity_class": "High"
-  },
-  {
-    "genre_id": "city_builder",
-    "genre_name": "City Builder",
-    "supply": 28,
-    "demand": 100,
+    "supply": 57,
+    "demand": 65,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "tower_defense",
     "genre_name": "Tower Defense",
-    "supply": 58,
-    "demand": 100,
+    "supply": 62,
+    "demand": 96,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "hack_and_slash",
     "genre_name": "Hack and Slash",
-    "supply": 31,
+    "supply": 5,
+    "demand": 50,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "real_time_strategy",
+    "genre_name": "Real-Time Strategy",
+    "supply": 60,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -250,178 +258,170 @@
   {
     "genre_id": "turn_based_strategy",
     "genre_name": "Turn-Based Strategy",
-    "supply": 24,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "real_time_strategy",
-    "genre_name": "Real-Time Strategy",
-    "supply": 19,
-    "demand": 100,
+    "supply": 50,
+    "demand": 82,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "turn_based_rpg",
     "genre_name": "Turn-Based RPG",
-    "supply": 29,
-    "demand": 90,
+    "supply": 57,
+    "demand": 50,
+    "opportunity_score": 9.8,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "action_rpg",
+    "genre_name": "Action RPG",
+    "supply": 28,
+    "demand": 45,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "tactical_rpg",
     "genre_name": "Tactical RPG",
-    "supply": 18,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "action_rpg",
-    "genre_name": "Action RPG",
-    "supply": 42,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "jrpg",
-    "genre_name": "JRPG",
-    "supply": 9,
-    "demand": 100,
+    "supply": 49,
+    "demand": 82,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "crpg",
     "genre_name": "CRPG",
-    "supply": 13,
-    "demand": 18,
+    "supply": 15,
+    "demand": 27,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "fps",
     "genre_name": "FPS",
-    "supply": 6,
-    "demand": 100,
+    "supply": 30,
+    "demand": 43,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "jrpg",
+    "genre_name": "JRPG",
+    "supply": 14,
+    "demand": 22,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "third_person_shooter",
     "genre_name": "Third-Person Shooter",
-    "supply": 16,
-    "demand": 95,
+    "supply": 5,
+    "demand": 53,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "top_down_shooter",
     "genre_name": "Top-Down Shooter",
-    "supply": 8,
-    "demand": 60,
+    "supply": 39,
+    "demand": 40,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "twin_stick_shooter",
     "genre_name": "Twin Stick Shooter",
-    "supply": 55,
-    "demand": 99,
+    "supply": 15,
+    "demand": 22,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "boomer_shooter",
     "genre_name": "Boomer Shooter",
-    "supply": 16,
-    "demand": 100,
+    "supply": 29,
+    "demand": 99,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "battle_royale",
     "genre_name": "Battle Royale",
-    "supply": 34,
-    "demand": 85,
+    "supply": 57,
+    "demand": 95,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "survival_horror",
     "genre_name": "Survival Horror",
-    "supply": 45,
-    "demand": 92,
-    "opportunity_score": 9.9,
+    "supply": 38,
+    "demand": 33,
+    "opportunity_score": 9.8,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "open_world_survival_craft",
     "genre_name": "Open World Survival Craft",
     "supply": 5,
-    "demand": 70,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "psychological_horror",
     "genre_name": "Psychological Horror",
-    "supply": 10,
-    "demand": 56,
+    "supply": 22,
+    "demand": 61,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "life_sim",
     "genre_name": "Life Sim",
-    "supply": 41,
-    "demand": 20,
-    "opportunity_score": 5.5,
-    "opportunity_class": "Medium"
+    "supply": 28,
+    "demand": 32,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "dating_sim",
     "genre_name": "Dating Sim",
     "supply": 5,
-    "demand": 43,
+    "demand": 86,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "farming_sim",
     "genre_name": "Farming Sim",
-    "supply": 24,
-    "demand": 29,
+    "supply": 9,
+    "demand": 17,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "management",
     "genre_name": "Management",
-    "supply": 36,
-    "demand": 29,
-    "opportunity_score": 9.0,
+    "supply": 40,
+    "demand": 64,
+    "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "tycoon",
     "genre_name": "Tycoon",
-    "supply": 29,
-    "demand": 59,
+    "supply": 45,
+    "demand": 97,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "precision_platformer",
     "genre_name": "Precision Platformer",
-    "supply": 43,
-    "demand": 24,
-    "opportunity_score": 6.4,
-    "opportunity_class": "High"
+    "supply": 35,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "3d_platformer",
@@ -432,82 +432,82 @@
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "puzzle_platformer",
-    "genre_name": "Puzzle Platformer",
+    "genre_id": "dungeon_crawler",
+    "genre_name": "Dungeon Crawler",
     "supply": 5,
-    "demand": 53,
+    "demand": 35,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "dungeon_crawler",
-    "genre_name": "Dungeon Crawler",
+    "genre_id": "puzzle_platformer",
+    "genre_name": "Puzzle Platformer",
     "supply": 5,
-    "demand": 81,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "card_game",
     "genre_name": "Card Game",
-    "supply": 29,
-    "demand": 56,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "auto_battler",
-    "genre_name": "Auto Battler",
-    "supply": 15,
-    "demand": 54,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "grand_strategy",
-    "genre_name": "Grand Strategy",
-    "supply": 27,
-    "demand": 31,
+    "supply": 5,
+    "demand": 44,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "4x",
     "genre_name": "4X",
-    "supply": 16,
+    "supply": 9,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "text_based",
-    "genre_name": "Text-Based",
-    "supply": 16,
-    "demand": 24,
+    "genre_id": "grand_strategy",
+    "genre_name": "Grand Strategy",
+    "supply": 29,
+    "demand": 80,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "auto_battler",
+    "genre_name": "Auto Battler",
+    "supply": 38,
+    "demand": 93,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "social_deduction",
     "genre_name": "Social Deduction",
-    "supply": 5,
-    "demand": 59,
+    "supply": 45,
+    "demand": 45,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "interactive_fiction",
     "genre_name": "Interactive Fiction",
-    "supply": 39,
-    "demand": 98,
+    "supply": 15,
+    "demand": 36,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "text_based",
+    "genre_name": "Text-Based",
+    "supply": 57,
+    "demand": 22,
+    "opportunity_score": 4.4,
+    "opportunity_class": "Medium"
   },
   {
     "genre_id": "deckbuilder",
     "genre_name": "Deckbuilder",
     "supply": 5,
-    "demand": 68,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -515,95 +515,95 @@
     "genre_id": "automation",
     "genre_name": "Automation",
     "supply": 5,
-    "demand": 82,
+    "demand": 88,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "base_building",
     "genre_name": "Base Building",
-    "supply": 14,
-    "demand": 66,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "stealth",
-    "genre_name": "Stealth",
-    "supply": 39,
-    "demand": 92,
+    "supply": 49,
+    "demand": 81,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "parkour",
     "genre_name": "Parkour",
-    "supply": 57,
-    "demand": 62,
+    "supply": 54,
+    "demand": 32,
+    "opportunity_score": 6.8,
+    "opportunity_class": "High"
+  },
+  {
+    "genre_id": "stealth",
+    "genre_name": "Stealth",
+    "supply": 58,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "crafting",
     "genre_name": "Crafting",
-    "supply": 33,
-    "demand": 40,
-    "opportunity_score": 9.9,
+    "supply": 58,
+    "demand": 48,
+    "opportunity_score": 9.4,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "physics",
-    "genre_name": "Physics",
-    "supply": 37,
-    "demand": 100,
+    "genre_id": "procedural_generation",
+    "genre_name": "Procedural Generation",
+    "supply": 10,
+    "demand": 30,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "resource_management",
     "genre_name": "Resource Management",
-    "supply": 22,
-    "demand": 53,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "procedural_generation",
-    "genre_name": "Procedural Generation",
-    "supply": 15,
-    "demand": 64,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "choices_matter",
-    "genre_name": "Choices Matter",
     "supply": 12,
-    "demand": 50,
+    "demand": 58,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "level_editor",
-    "genre_name": "Level Editor",
-    "supply": 50,
-    "demand": 66,
+    "genre_id": "physics",
+    "genre_name": "Physics",
+    "supply": 43,
+    "demand": 47,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "character_customization",
     "genre_name": "Character Customization",
-    "supply": 34,
-    "demand": 55,
+    "supply": 50,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "level_editor",
+    "genre_name": "Level Editor",
+    "supply": 10,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "choices_matter",
+    "genre_name": "Choices Matter",
+    "supply": 58,
+    "demand": 19,
+    "opportunity_score": 3.7,
+    "opportunity_class": "Medium"
   },
   {
     "genre_id": "modding",
     "genre_name": "Moddable",
     "supply": 5,
-    "demand": 22,
+    "demand": 67,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -611,15 +611,15 @@
     "genre_id": "incremental",
     "genre_name": "Incremental",
     "supply": 5,
-    "demand": 47,
+    "demand": 26,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "idle",
     "genre_name": "Idle",
-    "supply": 29,
-    "demand": 39,
+    "supply": 22,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -627,31 +627,31 @@
     "genre_id": "building",
     "genre_name": "Building",
     "supply": 5,
-    "demand": 100,
+    "demand": 80,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "trading",
     "genre_name": "Trading",
-    "supply": 61,
-    "demand": 76,
+    "supply": 11,
+    "demand": 23,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "destruction",
     "genre_name": "Destruction",
-    "supply": 55,
-    "demand": 100,
+    "supply": 33,
+    "demand": 75,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "investigation",
     "genre_name": "Investigation",
-    "supply": 39,
-    "demand": 38,
+    "supply": 48,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -659,14 +659,30 @@
     "genre_id": "cozy",
     "genre_name": "Cozy",
     "supply": 5,
-    "demand": 80,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "hidden_object",
     "genre_name": "Hidden Object",
-    "supply": 43,
+    "supply": 50,
+    "demand": 75,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "dark_fantasy",
+    "genre_name": "Dark Fantasy",
+    "supply": 47,
+    "demand": 82,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "dark",
+    "genre_name": "Dark",
+    "supply": 50,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -674,39 +690,7 @@
   {
     "genre_id": "sci_fi",
     "genre_name": "Sci-fi",
-    "supply": 42,
-    "demand": 86,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "dark",
-    "genre_name": "Dark",
-    "supply": 45,
-    "demand": 60,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "dark_fantasy",
-    "genre_name": "Dark Fantasy",
-    "supply": 38,
-    "demand": 100,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "post_apocalyptic",
-    "genre_name": "Post-apocalyptic",
-    "supply": 8,
-    "demand": 48,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "steampunk",
-    "genre_name": "Steampunk",
-    "supply": 10,
+    "supply": 14,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -714,47 +698,55 @@
   {
     "genre_id": "cyberpunk",
     "genre_name": "Cyberpunk",
-    "supply": 30,
-    "demand": 76,
+    "supply": 23,
+    "demand": 16,
+    "opportunity_score": 7.7,
+    "opportunity_class": "High"
+  },
+  {
+    "genre_id": "steampunk",
+    "genre_name": "Steampunk",
+    "supply": 57,
+    "demand": 71,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "fantasy",
-    "genre_name": "Fantasy",
-    "supply": 26,
-    "demand": 70,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "medieval",
-    "genre_name": "Medieval",
-    "supply": 35,
-    "demand": 40,
+    "genre_id": "post_apocalyptic",
+    "genre_name": "Post-apocalyptic",
+    "supply": 6,
+    "demand": 56,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "historical",
     "genre_name": "Historical",
-    "supply": 25,
-    "demand": 36,
+    "supply": 31,
+    "demand": 81,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "detective",
-    "genre_name": "Detective",
-    "supply": 18,
-    "demand": 59,
+    "genre_id": "medieval",
+    "genre_name": "Medieval",
+    "supply": 47,
+    "demand": 43,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "fantasy",
+    "genre_name": "Fantasy",
+    "supply": 45,
+    "demand": 46,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "mystery",
     "genre_name": "Mystery",
-    "supply": 5,
+    "supply": 32,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -762,8 +754,32 @@
   {
     "genre_id": "space",
     "genre_name": "Space",
-    "supply": 21,
-    "demand": 98,
+    "supply": 29,
+    "demand": 89,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "detective",
+    "genre_name": "Detective",
+    "supply": 37,
+    "demand": 33,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "murder_mystery",
+    "genre_name": "Murder Mystery",
+    "supply": 37,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "zombies",
+    "genre_name": "Zombies",
+    "supply": 33,
+    "demand": 62,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -771,62 +787,30 @@
     "genre_id": "pirates",
     "genre_name": "Pirates",
     "supply": 16,
-    "demand": 22,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "murder_mystery",
-    "genre_name": "Murder Mystery",
-    "supply": 60,
-    "demand": 48,
-    "opportunity_score": 9.0,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "zombies",
-    "genre_name": "Zombies",
-    "supply": 23,
-    "demand": 73,
+    "demand": 46,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "anime",
     "genre_name": "Anime",
-    "supply": 24,
-    "demand": 71,
+    "supply": 57,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "retro",
     "genre_name": "Retro",
-    "supply": 25,
-    "demand": 60,
+    "supply": 17,
+    "demand": 63,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "pixel_art",
     "genre_name": "Pixel Art",
-    "supply": 27,
-    "demand": 79,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "cute",
-    "genre_name": "Cute",
-    "supply": 9,
-    "demand": 40,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "minimalist",
-    "genre_name": "Minimalist",
-    "supply": 14,
+    "supply": 57,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -834,127 +818,143 @@
   {
     "genre_id": "wholesome",
     "genre_name": "Wholesome",
-    "supply": 60,
-    "demand": 52,
-    "opportunity_score": 9.7,
+    "supply": 45,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "cute",
+    "genre_name": "Cute",
+    "supply": 19,
+    "demand": 58,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "minimalist",
+    "genre_name": "Minimalist",
+    "supply": 55,
+    "demand": 95,
+    "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "creature_collector",
     "genre_name": "Creature Collector",
+    "supply": 16,
+    "demand": 37,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "military",
+    "genre_name": "Military",
     "supply": 56,
-    "demand": 70,
+    "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "lovecraftian",
     "genre_name": "Lovecraftian",
-    "supply": 24,
-    "demand": 15,
-    "opportunity_score": 6.9,
-    "opportunity_class": "High"
+    "supply": 17,
+    "demand": 91,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "military",
-    "genre_name": "Military",
-    "supply": 24,
-    "demand": 84,
+    "genre_id": "dinosaurs",
+    "genre_name": "Dinosaurs",
+    "supply": 58,
+    "demand": 63,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "western",
     "genre_name": "Western",
-    "supply": 54,
-    "demand": 33,
-    "opportunity_score": 6.8,
-    "opportunity_class": "High"
+    "supply": 21,
+    "demand": 100,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "underwater",
     "genre_name": "Underwater",
-    "supply": 59,
-    "demand": 42,
-    "opportunity_score": 8.1,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "dinosaurs",
-    "genre_name": "Dinosaurs",
-    "supply": 47,
-    "demand": 49,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "magic",
-    "genre_name": "Magic",
-    "supply": 33,
-    "demand": 97,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
+    "supply": 50,
+    "demand": 14,
+    "opportunity_score": 3.2,
+    "opportunity_class": "Low"
   },
   {
     "genre_id": "robots",
     "genre_name": "Robots",
-    "supply": 5,
-    "demand": 65,
+    "supply": 42,
+    "demand": 69,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "singleplayer",
     "genre_name": "Singleplayer",
-    "supply": 59,
-    "demand": 100,
+    "supply": 50,
+    "demand": 43,
+    "opportunity_score": 9.6,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "magic",
+    "genre_name": "Magic",
+    "supply": 50,
+    "demand": 54,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
-    "genre_id": "online_co_op",
-    "genre_name": "Online Co-Op",
-    "supply": 57,
-    "demand": 19,
-    "opportunity_score": 3.8,
-    "opportunity_class": "Medium"
-  },
-  {
     "genre_id": "multiplayer",
     "genre_name": "Multiplayer",
-    "supply": 49,
-    "demand": 36,
-    "opportunity_score": 8.3,
+    "supply": 14,
+    "demand": 40,
+    "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "co_op",
     "genre_name": "Co-op",
-    "supply": 31,
-    "demand": 17,
-    "opportunity_score": 6.1,
-    "opportunity_class": "High"
+    "supply": 58,
+    "demand": 42,
+    "opportunity_score": 8.3,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "online_co_op",
+    "genre_name": "Online Co-Op",
+    "supply": 23,
+    "demand": 64,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
   },
   {
     "genre_id": "local_co_op",
     "genre_name": "Local Co-Op",
-    "supply": 49,
-    "demand": 68,
-    "opportunity_score": 9.9,
+    "supply": 47,
+    "demand": 36,
+    "opportunity_score": 8.6,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "pvp",
     "genre_name": "PvP",
-    "supply": 31,
-    "demand": 27,
+    "supply": 6,
+    "demand": 47,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "split_screen",
     "genre_name": "Split Screen",
-    "supply": 12,
+    "supply": 19,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -962,24 +962,24 @@
   {
     "genre_id": "atmospheric",
     "genre_name": "Atmospheric",
-    "supply": 61,
-    "demand": 68,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "cinematic",
-    "genre_name": "Cinematic",
-    "supply": 44,
-    "demand": 89,
+    "supply": 5,
+    "demand": 56,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "story_rich",
     "genre_name": "Story Rich",
-    "supply": 38,
-    "demand": 62,
+    "supply": 58,
+    "demand": 51,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "cinematic",
+    "genre_name": "Cinematic",
+    "supply": 24,
+    "demand": 32,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
@@ -987,30 +987,38 @@
     "genre_id": "emotional",
     "genre_name": "Emotional",
     "supply": 5,
-    "demand": 66,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "open_world",
-    "genre_name": "Open World",
-    "supply": 31,
-    "demand": 66,
+    "demand": 95,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "linear",
     "genre_name": "Linear",
-    "supply": 37,
-    "demand": 100,
+    "supply": 17,
+    "demand": 75,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "open_world",
+    "genre_name": "Open World",
+    "supply": 46,
+    "demand": 82,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "3d",
     "genre_name": "3D",
-    "supply": 5,
+    "supply": 26,
+    "demand": 89,
+    "opportunity_score": 9.9,
+    "opportunity_class": "Excellent"
+  },
+  {
+    "genre_id": "vr",
+    "genre_name": "VR",
+    "supply": 13,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -1018,23 +1026,15 @@
   {
     "genre_id": "2d",
     "genre_name": "2D",
-    "supply": 58,
-    "demand": 81,
-    "opportunity_score": 9.9,
-    "opportunity_class": "Excellent"
-  },
-  {
-    "genre_id": "vr",
-    "genre_name": "VR",
-    "supply": 58,
-    "demand": 100,
+    "supply": 53,
+    "demand": 72,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "isometric",
     "genre_name": "Isometric",
-    "supply": 45,
+    "supply": 49,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
@@ -1042,15 +1042,15 @@
   {
     "genre_id": "first_person",
     "genre_name": "First-Person",
-    "supply": 22,
-    "demand": 100,
+    "supply": 12,
+    "demand": 22,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
   },
   {
     "genre_id": "third_person",
     "genre_name": "Third Person",
-    "supply": 49,
+    "supply": 51,
     "demand": 100,
     "opportunity_score": 9.9,
     "opportunity_class": "Excellent"
