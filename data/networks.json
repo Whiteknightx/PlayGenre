@@ -19,9 +19,9 @@
     "Singleplayer",
     "Indie",
     "Character Customization",
-    "Souls-like",
     "Turn-Based Tactics",
-    "Turn-Based Strategy"
+    "Turn-Based Strategy",
+    "Sci-fi"
   ],
   "Strategy": [
     "Singleplayer",
@@ -29,6 +29,14 @@
     "Shooter",
     "Tactical",
     "FPS",
+    "Multiplayer"
+  ],
+  "Simulation": [
+    "Singleplayer",
+    "Indie",
+    "Sports",
+    "PvP",
+    "Co-op",
     "Multiplayer"
   ],
   "Puzzle": [
@@ -39,14 +47,6 @@
     "Atmospheric",
     "Dialogue Heavy"
   ],
-  "Simulation": [
-    "Singleplayer",
-    "Indie",
-    "Sports",
-    "PvP",
-    "Co-op",
-    "Multiplayer"
-  ],
   "Sports": [
     "Singleplayer",
     "Indie",
@@ -55,14 +55,6 @@
     "Co-op",
     "Multiplayer"
   ],
-  "Platformer": [
-    "Indie",
-    "Singleplayer",
-    "Multiplayer",
-    "Co-op",
-    "Character Customization",
-    "Online Co-Op"
-  ],
   "Racing": [
     "Singleplayer",
     "Indie",
@@ -70,6 +62,14 @@
     "Multiplayer",
     "Automobile Sim",
     "Atmospheric"
+  ],
+  "Platformer": [
+    "Indie",
+    "Singleplayer",
+    "Multiplayer",
+    "Co-op",
+    "Character Customization",
+    "Online Co-Op"
   ],
   "Fighting": [
     "Singleplayer",
@@ -95,14 +95,6 @@
     "Violent",
     "Action"
   ],
-  "Visual Novel": [
-    "Singleplayer",
-    "Indie",
-    "Story Rich",
-    "Free to Play",
-    "Anime",
-    "Roguelite"
-  ],
   "Sandbox": [
     "Indie",
     "Singleplayer",
@@ -110,6 +102,14 @@
     "Exploration",
     "Adventure",
     "Multiplayer"
+  ],
+  "Visual Novel": [
+    "Singleplayer",
+    "Indie",
+    "Anime",
+    "Free to Play",
+    "Roguelite",
+    "Story Rich"
   ],
   "Survival": [
     "Indie",
@@ -124,16 +124,11 @@
     "Singleplayer",
     "Atmospheric"
   ],
-  "Point & Click": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
   "Indie": [
     "Singleplayer",
     "Atmospheric"
   ],
-  "Massively Multiplayer": [
+  "Point & Click": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
@@ -148,10 +143,23 @@
     "Singleplayer",
     "Atmospheric"
   ],
+  "Massively Multiplayer": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
   "Bullet Heaven": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
+  ],
+  "Soulslike": [
+    "Singleplayer",
+    "Indie",
+    "Souls-like",
+    "Dark Fantasy",
+    "Violent",
+    "Action RPG"
   ],
   "Metroidvania": [
     "Singleplayer",
@@ -161,14 +169,6 @@
     "Sandbox",
     "Dating Sim"
   ],
-  "Soulslike": [
-    "Singleplayer",
-    "Indie",
-    "Online Co-Op",
-    "Multiplayer",
-    "Action",
-    "Co-op"
-  ],
   "Bullet Hell": [
     "Singleplayer",
     "Indie",
@@ -176,14 +176,6 @@
     "Soundtrack",
     "Story Rich",
     "Pixel Graphics"
-  ],
-  "Walking Simulator": [
-    "Indie",
-    "Singleplayer",
-    "Open World",
-    "Adventure",
-    "Action",
-    "Third Person"
   ],
   "Immersive Sim": [
     "Singleplayer",
@@ -193,13 +185,13 @@
     "Free to Play",
     "Trading Card Game"
   ],
-  "Colony Sim": [
-    "Singleplayer",
+  "Walking Simulator": [
     "Indie",
-    "Pixel Graphics",
-    "2D",
-    "Comedy",
-    "Dark"
+    "Singleplayer",
+    "Open World",
+    "Adventure",
+    "Action",
+    "Third Person"
   ],
   "City Builder": [
     "Singleplayer",
@@ -217,6 +209,14 @@
     "Multiplayer",
     "Open World Survival Craft"
   ],
+  "Colony Sim": [
+    "Singleplayer",
+    "Indie",
+    "RPG",
+    "JRPG",
+    "Action RPG",
+    "Surreal"
+  ],
   "Real-Time Strategy": [
     "Singleplayer",
     "Indie",
@@ -224,14 +224,6 @@
     "Strategy",
     "Action",
     "Online Co-Op"
-  ],
-  "Turn-Based Strategy": [
-    "Singleplayer",
-    "Indie",
-    "Strategy",
-    "Tactical",
-    "Turn-Based",
-    "Turn-Based Tactics"
   ],
   "Hack and Slash": [
     "Singleplayer",
@@ -241,13 +233,13 @@
     "RPG",
     "Third Person"
   ],
-  "Action RPG": [
+  "Turn-Based Strategy": [
     "Singleplayer",
     "Indie",
-    "RPG",
-    "Third Person",
-    "Online Co-Op",
-    "Action"
+    "Strategy",
+    "Tactical",
+    "Turn-Based",
+    "Turn-Based Tactics"
   ],
   "Turn-Based RPG": [
     "Singleplayer",
@@ -257,20 +249,15 @@
     "PvP",
     "Online Co-Op"
   ],
+  "Action RPG": [
+    "Singleplayer",
+    "Indie",
+    "RPG",
+    "Third Person",
+    "Online Co-Op",
+    "Action"
+  ],
   "Tactical RPG": [
-    "Singleplayer",
-    "Indie",
-    "Strategy",
-    "PvE",
-    "Isometric",
-    "Action RTS"
-  ],
-  "CRPG": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
-  "JRPG": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
@@ -280,21 +267,31 @@
     "Singleplayer",
     "Atmospheric"
   ],
+  "JRPG": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "CRPG": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
   "Third-Person Shooter": [
     "Singleplayer",
     "Indie",
     "Multiplayer",
-    "PvP",
-    "Action",
-    "3D"
+    "Third Person",
+    "Online Co-Op",
+    "Action"
   ],
   "Top-Down Shooter": [
     "Singleplayer",
     "Indie",
-    "RPG",
     "Top-Down",
+    "RPG",
     "Isometric",
-    "Dungeon Crawler"
+    "Management"
   ],
   "Twin Stick Shooter": [
     "Indie",
@@ -303,6 +300,14 @@
     "Great Soundtrack",
     "Gore",
     "Action Roguelike"
+  ],
+  "Boomer Shooter": [
+    "Singleplayer",
+    "Indie",
+    "Fast-Paced",
+    "Gore",
+    "FPS",
+    "Great Soundtrack"
   ],
   "Battle Royale": [
     "Singleplayer",
@@ -313,41 +318,33 @@
     "PvP"
   ],
   "Survival Horror": [
-    "Singleplayer",
     "Indie",
+    "Singleplayer",
     "Multiplayer",
     "Online Co-Op",
     "Co-op",
-    "Shooter"
-  ],
-  "Boomer Shooter": [
-    "Singleplayer",
-    "Indie",
-    "Fast-Paced",
-    "Gore",
-    "FPS",
-    "Great Soundtrack"
+    "First-Person"
   ],
   "Open World Survival Craft": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
   ],
-  "Psychological Horror": [
-    "Singleplayer",
-    "Indie",
-    "Online Co-Op",
-    "Multiplayer",
-    "Action",
-    "Co-op"
-  ],
   "Life Sim": [
     "Singleplayer",
     "Indie",
     "Free to Play",
-    "Character Customization",
-    "Simulation",
-    "Casual"
+    "Cute",
+    "Casual",
+    "Relaxing"
+  ],
+  "Psychological Horror": [
+    "Singleplayer",
+    "Indie",
+    "Open World",
+    "Difficult",
+    "Multiplayer",
+    "Third Person"
   ],
   "Dating Sim": [
     "Indie",
@@ -358,17 +355,17 @@
     "Singleplayer",
     "Indie",
     "Simulation",
-    "Character Customization",
-    "Co-op",
-    "Multiplayer"
+    "3D",
+    "Sports",
+    "Basketball"
   ],
   "Farming Sim": [
-    "Indie",
     "Singleplayer",
+    "Indie",
     "Multiplayer",
-    "Life Sim",
-    "RPG",
-    "Relaxing"
+    "Building",
+    "Relaxing",
+    "Online Co-Op"
   ],
   "Tycoon": [
     "Singleplayer",
@@ -387,14 +384,6 @@
     "Online Co-Op"
   ],
   "3D Platformer": [
-    "Singleplayer",
-    "Indie",
-    "2D Platformer",
-    "Free to Play",
-    "Multiplayer",
-    "Co-op"
-  ],
-  "Puzzle Platformer": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
@@ -404,25 +393,47 @@
     "Singleplayer",
     "Atmospheric"
   ],
+  "Puzzle Platformer": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
   "Card Game": [
     "Indie",
     "Singleplayer",
     "Atmospheric"
   ],
-  "Grand Strategy": [
-    "Indie",
+  "Auto Battler": [
     "Singleplayer",
-    "Atmospheric"
+    "Indie",
+    "Hardware",
+    "Difficult",
+    "Great Soundtrack",
+    "Logic"
+  ],
+  "Grand Strategy": [
+    "Singleplayer",
+    "Indie",
+    "Strategy",
+    "Turn-Based Strategy",
+    "RTS",
+    "Fantasy"
   ],
   "4X": [
-    "Indie",
     "Singleplayer",
-    "Atmospheric"
+    "Indie",
+    "Strategy",
+    "Grand Strategy",
+    "Sandbox",
+    "Simulation"
   ],
-  "Auto Battler": [
+  "Social Deduction": [
     "Indie",
     "Singleplayer",
-    "Atmospheric"
+    "Roguelike",
+    "Co-op",
+    "Multiplayer",
+    "Difficult"
   ],
   "Text-Based": [
     "Singleplayer",
@@ -439,14 +450,6 @@
     "Comedy",
     "Choices Matter",
     "Horror"
-  ],
-  "Social Deduction": [
-    "Indie",
-    "Singleplayer",
-    "Roguelike",
-    "Co-op",
-    "Multiplayer",
-    "Difficult"
   ],
   "Deckbuilder": [
     "Indie",
@@ -466,14 +469,6 @@
     "Horror",
     "Dark"
   ],
-  "Crafting": [
-    "Indie",
-    "Singleplayer",
-    "Open World",
-    "Survival",
-    "Multiplayer",
-    "Open World Survival Craft"
-  ],
   "Stealth": [
     "Singleplayer",
     "Indie",
@@ -489,6 +484,14 @@
     "Combat",
     "Boxing",
     "Sports"
+  ],
+  "Crafting": [
+    "Indie",
+    "Singleplayer",
+    "Open World",
+    "Survival",
+    "Multiplayer",
+    "Open World Survival Craft"
   ],
   "Physics": [
     "Singleplayer",
@@ -509,34 +512,22 @@
   "Resource Management": [
     "Indie",
     "Singleplayer",
-    "Multiplayer",
-    "First-Person",
-    "Adventure",
-    "3D"
+    "Atmospheric"
+  ],
+  "Character Customization": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
   ],
   "Level Editor": [
     "Indie",
     "Singleplayer",
-    "Extraction Shooter",
-    "Gun Customization",
-    "FPS",
-    "Shooter"
-  ],
-  "Character Customization": [
-    "Singleplayer",
-    "Indie",
-    "Turn-Based Tactics",
-    "Turn-Based Strategy",
-    "Sci-fi",
-    "Strategy"
+    "Atmospheric"
   ],
   "Choices Matter": [
-    "Singleplayer",
     "Indie",
-    "Souls-like",
-    "RPG",
-    "Character Customization",
-    "Open World"
+    "Singleplayer",
+    "Atmospheric"
   ],
   "Moddable": [
     "Indie",
@@ -551,7 +542,10 @@
   "Idle": [
     "Indie",
     "Singleplayer",
-    "Atmospheric"
+    "Idler",
+    "Incremental",
+    "Management",
+    "Resource Management"
   ],
   "Building": [
     "Indie",
@@ -590,18 +584,10 @@
   "Hidden Object": [
     "Indie",
     "Singleplayer",
-    "Multiplayer",
-    "Voxel",
+    "Action",
     "Exploration",
-    "Action"
-  ],
-  "Dark Fantasy": [
-    "Singleplayer",
-    "Indie",
-    "Souls-like",
-    "Open World",
-    "RPG",
-    "Difficult"
+    "Multiplayer",
+    "Voxel"
   ],
   "Sci-fi": [
     "Singleplayer",
@@ -619,6 +605,14 @@
     "Comedy",
     "Shooter"
   ],
+  "Dark Fantasy": [
+    "Singleplayer",
+    "Indie",
+    "Souls-like",
+    "Open World",
+    "RPG",
+    "Difficult"
+  ],
   "Cyberpunk": [
     "Singleplayer",
     "Indie",
@@ -626,14 +620,6 @@
     "First-Person",
     "Action",
     "Sci-fi"
-  ],
-  "Steampunk": [
-    "Singleplayer",
-    "Indie",
-    "Souls-like",
-    "Open World",
-    "RPG",
-    "Third Person"
   ],
   "Post-apocalyptic": [
     "Singleplayer",
@@ -643,54 +629,73 @@
     "Horror",
     "Dark"
   ],
+  "Steampunk": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "Historical": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "Medieval": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
   "Fantasy": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "Space": [
+    "Singleplayer",
+    "Indie",
+    "Online Co-Op",
+    "PvE",
+    "Third-Person Shooter",
+    "Shooter"
+  ],
+  "Mystery": [
+    "Indie",
+    "Singleplayer",
+    "Rhythm",
+    "Action",
+    "3D",
+    "Anime"
+  ],
+  "Detective": [
+    "Singleplayer",
+    "Indie",
+    "Horror",
+    "Online Co-Op",
+    "Multiplayer",
+    "Co-op"
+  ],
+  "Murder Mystery": [
+    "Singleplayer",
+    "Indie",
+    "Multiplayer",
+    "First-Person",
+    "Atmospheric",
+    "Investigation"
+  ],
+  "Zombies": [
+    "Indie",
+    "Singleplayer",
+    "Survival",
+    "Multiplayer",
+    "Co-op",
+    "Action"
+  ],
+  "Pirates": [
     "Singleplayer",
     "Indie",
     "Souls-like",
     "Open World",
     "RPG",
     "Third Person"
-  ],
-  "Medieval": [
-    "Singleplayer",
-    "Indie",
-    "Open World",
-    "Action",
-    "Exploration",
-    "Adventure"
-  ],
-  "Historical": [
-    "Singleplayer",
-    "Indie",
-    "Action",
-    "Combat",
-    "Vehicular Combat",
-    "Simulation"
-  ],
-  "Mystery": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
-  "Space": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
-  "Detective": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
-  "Pirates": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
-  "Murder Mystery": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
   ],
   "Anime": [
     "Singleplayer",
@@ -700,18 +705,13 @@
     "Co-op",
     "Adventure"
   ],
-  "Zombies": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
-  ],
   "Pixel Art": [
     "Singleplayer",
     "Indie",
-    "Great Soundtrack",
     "Pixel Graphics",
-    "RPG",
-    "2D"
+    "2D",
+    "Comedy",
+    "Dark"
   ],
   "Retro": [
     "Singleplayer",
@@ -720,6 +720,14 @@
     "Multiplayer",
     "Co-op",
     "Comedy"
+  ],
+  "Cute": [
+    "Singleplayer",
+    "Indie",
+    "Funny",
+    "Casual",
+    "Anime",
+    "Free to Play"
   ],
   "Wholesome": [
     "Singleplayer",
@@ -737,14 +745,6 @@
     "Story Rich",
     "Third Person"
   ],
-  "Cute": [
-    "Singleplayer",
-    "Indie",
-    "Funny",
-    "Casual",
-    "Anime",
-    "Free to Play"
-  ],
   "Creature Collector": [
     "Singleplayer",
     "Indie",
@@ -756,42 +756,30 @@
   "Lovecraftian": [
     "Indie",
     "Singleplayer",
+    "Sexual Content",
+    "Action",
     "Multiplayer",
-    "Third-Person Shooter",
-    "PvP",
-    "Sexual Content"
+    "Shooter"
   ],
   "Military": [
     "Indie",
     "Singleplayer",
-    "Multiplayer",
-    "Funny",
-    "First-Person",
-    "Open World"
-  ],
-  "Dinosaurs": [
-    "Singleplayer",
-    "Indie",
-    "Strategy",
-    "Card Game",
-    "Free to Play",
-    "Trading Card Game"
-  ],
-  "Western": [
-    "Indie",
-    "Singleplayer",
-    "FPS",
-    "Shooter",
-    "Multiplayer",
-    "Action"
+    "Atmospheric"
   ],
   "Underwater": [
     "Indie",
     "Singleplayer",
-    "Open World",
-    "Multiplayer",
-    "Hunting",
-    "Adventure"
+    "Atmospheric"
+  ],
+  "Dinosaurs": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
+  ],
+  "Western": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
   ],
   "Robots": [
     "Indie",
@@ -808,22 +796,35 @@
   ],
   "Singleplayer": [
     "Indie",
-    "Atmospheric"
-  ],
-  "Multiplayer": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
+    "PvE",
+    "Shooter",
+    "Turn-Based Tactics",
+    "Turn-Based Strategy",
+    "Sci-fi"
   ],
   "Online Co-Op": [
-    "Indie",
     "Singleplayer",
-    "Atmospheric"
+    "Indie",
+    "Sports",
+    "Simulation",
+    "PvP",
+    "Co-op"
   ],
   "Co-op": [
     "Indie",
     "Singleplayer",
-    "Atmospheric"
+    "FPS",
+    "Shooter",
+    "Multiplayer",
+    "Action"
+  ],
+  "Multiplayer": [
+    "Indie",
+    "Singleplayer",
+    "FPS",
+    "Shooter",
+    "Action",
+    "First-Person"
   ],
   "Local Co-Op": [
     "Singleplayer",
@@ -833,14 +834,6 @@
     "PvP",
     "Co-op"
   ],
-  "Split Screen": [
-    "Singleplayer",
-    "Indie",
-    "Multiplayer",
-    "Local Co-Op",
-    "Online Co-Op",
-    "Local Multiplayer"
-  ],
   "PvP": [
     "Indie",
     "Singleplayer",
@@ -849,13 +842,13 @@
     "Multiplayer",
     "Competitive"
   ],
-  "Atmospheric": [
+  "Split Screen": [
     "Singleplayer",
     "Indie",
-    "Open World",
     "Multiplayer",
-    "Co-op Campaign",
-    "Exploration"
+    "Local Co-Op",
+    "Online Co-Op",
+    "Local Multiplayer"
   ],
   "Story Rich": [
     "Singleplayer",
@@ -873,50 +866,46 @@
     "Turn-Based Strategy",
     "Sci-fi"
   ],
+  "Atmospheric": [
+    "Singleplayer",
+    "Indie",
+    "Open World",
+    "Multiplayer",
+    "Co-op Campaign",
+    "Puzzle"
+  ],
   "Emotional": [
     "Indie",
     "Singleplayer",
-    "Atmospheric"
-  ],
-  "Linear": [
-    "Singleplayer",
-    "Indie",
-    "Action-Adventure",
-    "Third Person",
-    "Action",
     "Atmospheric"
   ],
   "Open World": [
     "Singleplayer",
     "Indie",
     "Multiplayer",
-    "Atmospheric",
-    "Co-op Campaign",
-    "Exploration"
+    "Online Co-Op",
+    "Co-op",
+    "RPG"
+  ],
+  "Linear": [
+    "Indie",
+    "Singleplayer",
+    "Atmospheric"
   ],
   "VR": [
-    "Singleplayer",
     "Indie",
-    "Multiplayer",
-    "Simulation",
-    "Realistic",
-    "First-Person"
+    "Singleplayer",
+    "Atmospheric"
   ],
   "3D": [
     "Indie",
     "Singleplayer",
-    "Multiplayer",
-    "Online Co-Op",
-    "Co-op",
-    "Shooter"
+    "Atmospheric"
   ],
   "2D": [
     "Indie",
     "Singleplayer",
-    "Multiplayer",
-    "Co-op",
-    "Early Access",
-    "Survival"
+    "Atmospheric"
   ],
   "Isometric": [
     "Singleplayer",
@@ -926,6 +915,14 @@
     "Turn-Based Strategy",
     "Sci-fi"
   ],
+  "Third Person": [
+    "Singleplayer",
+    "Indie",
+    "Multiplayer",
+    "Online Co-Op",
+    "Action",
+    "Co-op"
+  ],
   "First-Person": [
     "Indie",
     "Singleplayer",
@@ -933,10 +930,5 @@
     "Shooter",
     "Multiplayer",
     "Action"
-  ],
-  "Third Person": [
-    "Indie",
-    "Singleplayer",
-    "Atmospheric"
   ]
 }
