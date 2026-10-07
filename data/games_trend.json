@@ -1,11 +1,11 @@
 [
   {
-    "app_id": 108600,
-    "name": "Project Zomboid",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+    "app_id": 1085660,
+    "name": "Destiny 2",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
     "trend_score": 98,
-    "growth_pct": 362,
-    "sentiment_positive": 94,
+    "growth_pct": 246,
+    "sentiment_positive": 80,
     "tags": [
       "Adventure",
       "Indie",
@@ -13,25 +13,38 @@
     ]
   },
   {
-    "app_id": 4078430,
-    "name": "STAR WARS: Galactic Racer\u2122",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/header.jpg",
+    "app_id": 2552430,
+    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
     "trend_score": 98,
-    "growth_pct": 26,
-    "sentiment_positive": 87,
+    "growth_pct": 346,
+    "sentiment_positive": 86,
     "tags": [
-      "Action",
+      "RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 359550,
-    "name": "Tom Clancy's Rainbow Six Siege",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+    "app_id": 2246340,
+    "name": "Monster Hunter Wilds",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg",
     "trend_score": 98,
-    "growth_pct": 67,
-    "sentiment_positive": 80,
+    "growth_pct": 200,
+    "sentiment_positive": 96,
+    "tags": [
+      "RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 78,
+    "sentiment_positive": 81,
     "tags": [
       "Strategy",
       "Indie",
@@ -39,25 +52,12 @@
     ]
   },
   {
-    "app_id": 1326470,
-    "name": "Sons Of The Forest",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "app_id": 244210,
+    "name": "Assetto Corsa",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
     "trend_score": 98,
-    "growth_pct": 99,
-    "sentiment_positive": 78,
-    "tags": [
-      "Simulation",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1066890,
-    "name": "Automobilista 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1066890/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 342,
-    "sentiment_positive": 87,
+    "growth_pct": 333,
+    "sentiment_positive": 82,
     "tags": [
       "Sports",
       "Indie",
@@ -65,44 +65,50 @@
     ]
   },
   {
-    "app_id": 1364780,
-    "name": "Street Fighter\u2122 6",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg",
+    "app_id": 3059520,
+    "name": "F1\u00ae 25",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
     "trend_score": 98,
-    "growth_pct": 567,
+    "growth_pct": 378,
     "sentiment_positive": 90,
     "tags": [
-      "2D Fighter",
-      "Fighting",
-      "Arcade",
-      "Character Customization",
-      "Multiplayer",
-      "Action",
-      "PvP",
-      "Competitive",
-      "Adventure",
-      "Local Multiplayer"
-    ]
-  },
-  {
-    "app_id": 208650,
-    "name": "Batman\u2122: Arkham Knight",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208650/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 508,
-    "sentiment_positive": 87,
-    "tags": [
-      "Fighting",
+      "Racing",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 2217000,
-    "name": "Rivals of Aether II",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2217000/header.jpg",
+    "app_id": 1289670,
+    "name": "EA Play",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289670/header.jpg",
     "trend_score": 98,
-    "growth_pct": 493,
+    "growth_pct": 26,
+    "sentiment_positive": 95,
+    "tags": [
+      "Racing",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2406770,
+    "name": "Bodycam",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2406770/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 352,
+    "sentiment_positive": 79,
+    "tags": [
+      "Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2397300,
+    "name": "Half Sword",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2397300/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 118,
     "sentiment_positive": 78,
     "tags": [
       "Fighting",
@@ -111,57 +117,77 @@
     ]
   },
   {
-    "app_id": 2139460,
-    "name": "Once Human",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2139460/header.jpg",
+    "app_id": 381210,
+    "name": "Dead by Daylight",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
     "trend_score": 98,
-    "growth_pct": 301,
+    "growth_pct": 478,
+    "sentiment_positive": 90,
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Survival Horror",
+      "Gore",
+      "Online Co-Op",
+      "Co-op",
+      "Survival",
+      "Team-Based",
+      "Third Person",
+      "Violent"
+    ]
+  },
+  {
+    "app_id": 4113940,
+    "name": "Sovereign Tower",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4113940/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 57,
+    "sentiment_positive": 80,
+    "tags": [
+      "Visual Novel",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 381210,
+    "name": "Dead by Daylight",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 424,
+    "sentiment_positive": 83,
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Survival Horror",
+      "Gore",
+      "Online Co-Op",
+      "Co-op",
+      "Survival",
+      "Team-Based",
+      "Third Person",
+      "Violent"
+    ]
+  },
+  {
+    "app_id": 1361210,
+    "name": "Warhammer 40,000: Darktide",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 484,
     "sentiment_positive": 93,
     "tags": [
-      "Sandbox",
+      "Soulslike",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1172470,
-    "name": "Apex Legends\u2122",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+    "app_id": 438100,
+    "name": "VRChat",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
     "trend_score": 98,
-    "growth_pct": 431,
-    "sentiment_positive": 89,
-    "tags": [
-      "Free to Play",
-      "Multiplayer",
-      "Battle Royale",
-      "FPS",
-      "Shooter",
-      "First-Person",
-      "PvP",
-      "Action",
-      "Hero Shooter",
-      "Team-Based"
-    ]
-  },
-  {
-    "app_id": 2988580,
-    "name": "Yakuza 0 Director's Cut",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2988580/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 169,
-    "sentiment_positive": 95,
-    "tags": [
-      "Metroidvania",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1158160,
-    "name": "Coral Island",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 554,
+    "growth_pct": 212,
     "sentiment_positive": 91,
     "tags": [
       "Metroidvania",
@@ -170,40 +196,27 @@
     ]
   },
   {
-    "app_id": 524220,
-    "name": "NieR:Automata\u2122",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+    "app_id": 1113000,
+    "name": "Persona 4 Golden",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg",
     "trend_score": 98,
-    "growth_pct": 365,
-    "sentiment_positive": 78,
-    "tags": [
-      "Bullet Hell",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1746860,
-    "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746860/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 189,
+    "growth_pct": 217,
     "sentiment_positive": 87,
     "tags": [
-      "Walking Simulator",
+      "Metroidvania",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 4131730,
-    "name": "VHOLUME",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4131730/header.jpg",
+    "app_id": 591960,
+    "name": "Animation Throwdown: The Quest for Cards",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/591960/header.jpg",
     "trend_score": 98,
-    "growth_pct": 596,
-    "sentiment_positive": 88,
+    "growth_pct": 498,
+    "sentiment_positive": 83,
     "tags": [
-      "Colony Sim",
+      "Immersive Sim",
       "Indie",
       "Singleplayer"
     ]
@@ -213,8 +226,8 @@
     "name": "Lucid Cats",
     "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778540/header.jpg",
     "trend_score": 98,
-    "growth_pct": 416,
-    "sentiment_positive": 81,
+    "growth_pct": 130,
+    "sentiment_positive": 96,
     "tags": [
       "Colony Sim",
       "Indie",
@@ -222,158 +235,79 @@
     ]
   },
   {
-    "app_id": 3271280,
-    "name": "Shroom and Gloom",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3271280/header.jpg",
+    "app_id": 1669000,
+    "name": "Age of Wonders 4",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header.jpg",
     "trend_score": 98,
-    "growth_pct": 385,
-    "sentiment_positive": 80,
+    "growth_pct": 221,
+    "sentiment_positive": 90,
     "tags": [
-      "City Builder",
+      "Turn-Based Strategy",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1004640,
-    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/header.jpg",
+    "app_id": 2059170,
+    "name": "Quasimorph",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2059170/header.jpg",
     "trend_score": 98,
-    "growth_pct": 434,
-    "sentiment_positive": 79,
-    "tags": [
-      "City Builder",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1677280,
-    "name": "Company of Heroes 3",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 72,
-    "sentiment_positive": 88,
-    "tags": [
-      "City Builder",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 570,
-    "name": "Dota 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 179,
+    "growth_pct": 573,
     "sentiment_positive": 84,
     "tags": [
-      "Free to Play",
-      "MOBA",
-      "Multiplayer",
-      "Strategy",
-      "eSports",
-      "Team-Based",
-      "Competitive",
-      "Action",
-      "Online Co-Op",
-      "PvP"
-    ]
-  },
-  {
-    "app_id": 570940,
-    "name": "DARK SOULS\u2122: REMASTERED",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 348,
-    "sentiment_positive": 94,
-    "tags": [
-      "Turn-Based RPG",
+      "Turn-Based Strategy",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 979690,
-    "name": "The Ascent",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/979690/header.jpg",
+    "app_id": 2552430,
+    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
     "trend_score": 98,
-    "growth_pct": 127,
-    "sentiment_positive": 94,
+    "growth_pct": 509,
+    "sentiment_positive": 85,
     "tags": [
-      "Top-Down Shooter",
-      "Cyberpunk",
-      "RPG",
-      "Action",
-      "Co-op",
-      "Shooter",
-      "Open World",
-      "Isometric",
-      "Indie",
-      "Adventure"
-    ]
-  },
-  {
-    "app_id": 892970,
-    "name": "Valheim",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 481,
-    "sentiment_positive": 82,
-    "tags": [
-      "Third-Person Shooter",
+      "Action RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 2444750,
-    "name": "Shape of Dreams",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2444750/header.jpg",
+    "app_id": 1934680,
+    "name": "Age of Mythology: Retold",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg",
     "trend_score": 98,
-    "growth_pct": 213,
-    "sentiment_positive": 84,
+    "growth_pct": 591,
+    "sentiment_positive": 83,
     "tags": [
-      "Top-Down Shooter",
+      "Tactical RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 2131680,
-    "name": "METAL GEAR &amp; METAL GEAR 2: Solid Snake",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2131680/header.jpg",
+    "app_id": 2383200,
+    "name": "PATAPON 1+2 REPLAY",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2383200/header.jpg",
     "trend_score": 98,
-    "growth_pct": 552,
-    "sentiment_positive": 88,
+    "growth_pct": 191,
+    "sentiment_positive": 92,
     "tags": [
-      "Top-Down Shooter",
+      "Tactical RPG",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1044720,
-    "name": "Farthest Frontier",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1044720/header.jpg",
+    "app_id": 4508340,
+    "name": "NTE: Neverness to Everness",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/header.jpg",
     "trend_score": 98,
-    "growth_pct": 537,
-    "sentiment_positive": 96,
-    "tags": [
-      "Top-Down Shooter",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 464060,
-    "name": "RUINER",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/464060/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 406,
+    "growth_pct": 169,
     "sentiment_positive": 79,
     "tags": [
-      "Twin Stick Shooter",
+      "Survival Horror",
       "Indie",
       "Singleplayer"
     ]
@@ -383,8 +317,8 @@
     "name": "Escape the Backrooms",
     "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1943950/header.jpg",
     "trend_score": 98,
-    "growth_pct": 526,
-    "sentiment_positive": 78,
+    "growth_pct": 367,
+    "sentiment_positive": 90,
     "tags": [
       "Survival Horror",
       "Indie",
@@ -392,27 +326,86 @@
     ]
   },
   {
-    "app_id": 1962700,
-    "name": "Subnautica 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg",
+    "app_id": 3513350,
+    "name": "Wuthering Waves",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/header.jpg",
     "trend_score": 98,
-    "growth_pct": 99,
-    "sentiment_positive": 89,
-    "tags": [
-      "Survival Horror",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3199170,
-    "name": "Blood Strike",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199170/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 599,
+    "growth_pct": 564,
     "sentiment_positive": 88,
     "tags": [
-      "Battle Royale",
+      "Psychological Horror",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 568220,
+    "name": "Lobotomy Corporation | Monster Management Simulation",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 188,
+    "sentiment_positive": 85,
+    "tags": [
+      "Tycoon",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 216150,
+    "name": "MapleStory",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 256,
+    "sentiment_positive": 93,
+    "tags": [
+      "MMORPG",
+      "2D Platformer",
+      "Free to Play",
+      "Character Customization",
+      "Loot",
+      "PvE",
+      "Side Scroller",
+      "Multiplayer",
+      "Cute",
+      "Anime"
+    ]
+  },
+  {
+    "app_id": 1245620,
+    "name": "ELDEN RING",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 451,
+    "sentiment_positive": 79,
+    "tags": [
+      "Precision Platformer",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 594650,
+    "name": "Hunt: Showdown 1896",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 266,
+    "sentiment_positive": 83,
+    "tags": [
+      "Precision Platformer",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 570940,
+    "name": "DARK SOULS\u2122: REMASTERED",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 447,
+    "sentiment_positive": 82,
+    "tags": [
+      "Precision Platformer",
       "Indie",
       "Singleplayer"
     ]
