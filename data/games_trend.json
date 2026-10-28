@@ -1,11 +1,70 @@
 [
   {
-    "app_id": 2288340,
-    "name": "ACE COMBAT 8: WINGS OF THEVE",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/header.jpg",
+    "app_id": 3259780,
+    "name": "FINAL FANTASY RESONANCE",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259780/header.jpg",
     "trend_score": 98,
-    "growth_pct": 164,
-    "sentiment_positive": 84,
+    "growth_pct": 343,
+    "sentiment_positive": 94,
+    "tags": [
+      "RPG",
+      "Pixel Graphics",
+      "Turn-Based Combat",
+      "JRPG",
+      "2.5D",
+      "Singleplayer",
+      "Fantasy",
+      "Story Rich",
+      "Exploration",
+      "Adventure"
+    ]
+  },
+  {
+    "app_id": 4126040,
+    "name": "Aniimo",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 126,
+    "sentiment_positive": 89,
+    "tags": [
+      "RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1091500,
+    "name": "Cyberpunk 2077",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 78,
+    "sentiment_positive": 80,
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2050650,
+    "name": "Resident Evil 4",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 191,
+    "sentiment_positive": 82,
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 359550,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 429,
+    "sentiment_positive": 91,
     "tags": [
       "Action",
       "Indie",
@@ -13,64 +72,25 @@
     ]
   },
   {
-    "app_id": 216150,
-    "name": "MapleStory",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/header.jpg",
+    "app_id": 251570,
+    "name": "7 Days to Die",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
     "trend_score": 98,
-    "growth_pct": 392,
-    "sentiment_positive": 88,
+    "growth_pct": 81,
+    "sentiment_positive": 79,
     "tags": [
-      "RPG",
+      "Strategy",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 2138330,
-    "name": "Cyberpunk 2077: Phantom Liberty",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/header.jpg",
+    "app_id": 2483190,
+    "name": "Forza Horizon 6",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/header.jpg",
     "trend_score": 98,
-    "growth_pct": 30,
-    "sentiment_positive": 78,
-    "tags": [
-      "RPG",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 108600,
-    "name": "Project Zomboid",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 183,
-    "sentiment_positive": 87,
-    "tags": [
-      "RPG",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 2129530,
-    "name": "REANIMAL",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 268,
-    "sentiment_positive": 94,
-    "tags": [
-      "Puzzle",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 266410,
-    "name": "iRacing",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 584,
-    "sentiment_positive": 94,
+    "growth_pct": 29,
+    "sentiment_positive": 96,
     "tags": [
       "Racing",
       "Indie",
@@ -78,12 +98,25 @@
     ]
   },
   {
-    "app_id": 3059520,
-    "name": "F1\u00ae 25",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
+    "app_id": 4705510,
+    "name": "Happy Wheels",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705510/header.jpg",
     "trend_score": 98,
-    "growth_pct": 595,
-    "sentiment_positive": 80,
+    "growth_pct": 297,
+    "sentiment_positive": 95,
+    "tags": [
+      "Racing",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 518790,
+    "name": "theHunter: Call of the Wild\u2122",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 281,
+    "sentiment_positive": 87,
     "tags": [
       "Sports",
       "Indie",
@@ -91,12 +124,12 @@
     ]
   },
   {
-    "app_id": 3527290,
-    "name": "PEAK",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
+    "app_id": 203160,
+    "name": "Tomb Raider Game of the Year",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg",
     "trend_score": 98,
-    "growth_pct": 30,
-    "sentiment_positive": 93,
+    "growth_pct": 186,
+    "sentiment_positive": 88,
     "tags": [
       "Platformer",
       "Indie",
@@ -104,64 +137,64 @@
     ]
   },
   {
-    "app_id": 1326470,
-    "name": "Sons Of The Forest",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "app_id": 322170,
+    "name": "Geometry Dash",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg",
     "trend_score": 98,
-    "growth_pct": 482,
-    "sentiment_positive": 95,
+    "growth_pct": 559,
+    "sentiment_positive": 82,
     "tags": [
-      "Horror",
+      "Platformer",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 3008130,
-    "name": "Dying Light: The Beast",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
+    "app_id": 381210,
+    "name": "Dead by Daylight",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
     "trend_score": 98,
-    "growth_pct": 160,
-    "sentiment_positive": 88,
+    "growth_pct": 26,
+    "sentiment_positive": 87,
     "tags": [
-      "Horror",
+      "Survival",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1913120,
-    "name": "Tears of Metal",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1913120/header.jpg",
+    "app_id": 294100,
+    "name": "RimWorld",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
     "trend_score": 98,
-    "growth_pct": 539,
-    "sentiment_positive": 84,
+    "growth_pct": 159,
+    "sentiment_positive": 82,
     "tags": [
-      "Fighting",
+      "Survival",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 2918150,
-    "name": "ONE PIECE Bounty Rush",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2918150/header.jpg",
+    "app_id": 3055670,
+    "name": "Risk of Rain 2: Hallowed Concepts",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3055670/header.jpg",
     "trend_score": 98,
-    "growth_pct": 187,
-    "sentiment_positive": 89,
+    "growth_pct": 373,
+    "sentiment_positive": 86,
     "tags": [
-      "Fighting",
+      "Survival",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1989270,
-    "name": "Slay the Princess \u2014 The Pristine Cut",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg",
+    "app_id": 1449690,
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg",
     "trend_score": 98,
-    "growth_pct": 264,
-    "sentiment_positive": 88,
+    "growth_pct": 271,
+    "sentiment_positive": 82,
     "tags": [
       "Visual Novel",
       "Indie",
@@ -169,90 +202,64 @@
     ]
   },
   {
-    "app_id": 284160,
-    "name": "BeamNG.drive",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg",
+    "app_id": 2869860,
+    "name": "Monster Prom 4: Monster Con",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2869860/header.jpg",
     "trend_score": 98,
-    "growth_pct": 180,
+    "growth_pct": 497,
+    "sentiment_positive": 92,
+    "tags": [
+      "Visual Novel",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1794680,
+    "name": "Vampire Survivors",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 92,
     "sentiment_positive": 84,
     "tags": [
-      "Sandbox",
+      "Bullet Hell",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1172470,
-    "name": "Apex Legends\u2122",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+    "app_id": 606160,
+    "name": "ROUTINE",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606160/header.jpg",
     "trend_score": 98,
-    "growth_pct": 43,
-    "sentiment_positive": 84,
+    "growth_pct": 549,
+    "sentiment_positive": 92,
     "tags": [
-      "Survival",
+      "Walking Simulator",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 108600,
-    "name": "Project Zomboid",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+    "app_id": 282140,
+    "name": "SOMA",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg",
     "trend_score": 98,
-    "growth_pct": 542,
-    "sentiment_positive": 83,
-    "tags": [
-      "Survival",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1245620,
-    "name": "ELDEN RING",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 400,
+    "growth_pct": 338,
     "sentiment_positive": 79,
     "tags": [
-      "Soulslike",
+      "Walking Simulator",
       "Indie",
       "Singleplayer"
     ]
   },
   {
-    "app_id": 1150640,
-    "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1150640/header.jpg",
+    "app_id": 1295660,
+    "name": "Sid Meier's Civilization VII",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
     "trend_score": 98,
-    "growth_pct": 120,
-    "sentiment_positive": 93,
-    "tags": [
-      "Immersive Sim",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 663390,
-    "name": "Rento Fortune: Online Dice Board Game (\u5927\u5bcc\u7fc1)",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/663390/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 316,
+    "growth_pct": 372,
     "sentiment_positive": 95,
-    "tags": [
-      "Immersive Sim",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 4487060,
-    "name": "Northgard Battlegrounds",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487060/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 137,
-    "sentiment_positive": 96,
     "tags": [
       "City Builder",
       "Indie",
@@ -260,12 +267,25 @@
     ]
   },
   {
-    "app_id": 1808500,
-    "name": "ARC Raiders",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
+    "app_id": 686060,
+    "name": "Mewgenics",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg",
     "trend_score": 98,
-    "growth_pct": 500,
-    "sentiment_positive": 92,
+    "growth_pct": 351,
+    "sentiment_positive": 81,
+    "tags": [
+      "Colony Sim",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 2694490,
+    "name": "Path of Exile 2",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 200,
+    "sentiment_positive": 80,
     "tags": [
       "Tower Defense",
       "Indie",
@@ -273,32 +293,12 @@
     ]
   },
   {
-    "app_id": 570,
-    "name": "Dota 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+    "app_id": 2638890,
+    "name": "Onimusha: Way of the Sword",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638890/header.jpg",
     "trend_score": 98,
-    "growth_pct": 245,
-    "sentiment_positive": 96,
-    "tags": [
-      "Free to Play",
-      "MOBA",
-      "Multiplayer",
-      "Strategy",
-      "eSports",
-      "Team-Based",
-      "Competitive",
-      "Action",
-      "Online Co-Op",
-      "PvP"
-    ]
-  },
-  {
-    "app_id": 1599340,
-    "name": "Lost Ark",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1599340/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 349,
-    "sentiment_positive": 79,
+    "growth_pct": 280,
+    "sentiment_positive": 80,
     "tags": [
       "Hack and Slash",
       "Indie",
@@ -306,12 +306,12 @@
     ]
   },
   {
-    "app_id": 3556750,
-    "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3556750/header.jpg",
+    "app_id": 400750,
+    "name": "Call to Arms - Gates of Hell: Ostfront",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400750/header.jpg",
     "trend_score": 98,
-    "growth_pct": 112,
-    "sentiment_positive": 89,
+    "growth_pct": 291,
+    "sentiment_positive": 82,
     "tags": [
       "Real-Time Strategy",
       "Indie",
@@ -319,93 +319,79 @@
     ]
   },
   {
-    "app_id": 1368140,
-    "name": "Corsair Cove",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1368140/header.jpg",
+    "app_id": 2868840,
+    "name": "Slay the Spire 2",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
     "trend_score": 98,
-    "growth_pct": 83,
-    "sentiment_positive": 95,
-    "tags": [
-      "Real-Time Strategy",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 1486920,
-    "name": "Tempest Rising",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1486920/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 373,
-    "sentiment_positive": 79,
-    "tags": [
-      "Real-Time Strategy",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 3347400,
-    "name": "GIRLS' FRONTLINE 2: EXILIUM",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3347400/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 470,
-    "sentiment_positive": 85,
-    "tags": [
-      "Turn-Based Strategy",
-      "Indie",
-      "Singleplayer"
-    ]
-  },
-  {
-    "app_id": 230410,
-    "name": "Warframe",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 592,
-    "sentiment_positive": 84,
-    "tags": [
-      "Free to Play",
-      "Looter Shooter",
-      "Action RPG",
-      "Third-Person Shooter",
-      "Action",
-      "RPG",
-      "Third Person",
-      "Massively Multiplayer",
-      "Online Co-Op",
-      "Character Customization"
-    ]
-  },
-  {
-    "app_id": 730,
-    "name": "Counter-Strike 2",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 497,
-    "sentiment_positive": 78,
-    "tags": [
-      "FPS",
-      "Shooter",
-      "Multiplayer",
-      "Competitive",
-      "Action",
-      "Team-Based",
-      "eSports",
-      "Tactical",
-      "First-Person",
-      "PvP"
-    ]
-  },
-  {
-    "app_id": 578080,
-    "name": "PUBG: BATTLEGROUNDS",
-    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
-    "trend_score": 98,
-    "growth_pct": 295,
-    "sentiment_positive": 92,
+    "growth_pct": 24,
+    "sentiment_positive": 80,
     "tags": [
       "Turn-Based RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 3569420,
+    "name": "Chained Beasts",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3569420/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 376,
+    "sentiment_positive": 84,
+    "tags": [
+      "Turn-Based RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1604270,
+    "name": "Broken Arrow",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1604270/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 193,
+    "sentiment_positive": 79,
+    "tags": [
+      "Tactical RPG",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 4162040,
+    "name": "Zenless Zone Zero",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 372,
+    "sentiment_positive": 92,
+    "tags": [
+      "Third-Person Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1710820,
+    "name": "Cleared Hot",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1710820/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 460,
+    "sentiment_positive": 90,
+    "tags": [
+      "Twin Stick Shooter",
+      "Indie",
+      "Singleplayer"
+    ]
+  },
+  {
+    "app_id": 1471410,
+    "name": "SYNTHETIK 2",
+    "capsule_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1471410/header.jpg",
+    "trend_score": 98,
+    "growth_pct": 513,
+    "sentiment_positive": 81,
+    "tags": [
+      "Twin Stick Shooter",
       "Indie",
       "Singleplayer"
     ]
